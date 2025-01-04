@@ -1435,3 +1435,38 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [04Jan2025 03:59:28.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> eh?
 [04Jan2025 03:59:31.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> puto lag
 [04Jan2025 03:59:36.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> te mato el agua?
+[04Jan2025 03:59:51.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> dragone
+[04Jan2025 04:00:01.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> en spawn
+[04Jan2025 04:00:03.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> diga?
+[04Jan2025 04:00:12.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> 2
+[04Jan2025 04:00:15.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> que?
+[04Jan2025 04:00:45.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> me cague
+[04Jan2025 04:00:51.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> hay 2 dragones en el spawn
+[04Jan2025 04:01:01.743] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 4milcar was kicked for floating too long!
+[04Jan2025 04:01:01.744] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 4milcar lost connection: Disconnected
+[04Jan2025 04:01:01.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4milcar left the game
+[04Jan2025 04:01:01.801] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[04Jan2025 04:01:01.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> de que hablas pinche esquizo XD
+[04Jan2025 04:02:32.392] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SirDragon3d lost connection: Timed out
+[04Jan2025 04:02:32.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SirDragon3d left the game
+[04Jan2025 04:02:37.965] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 4milcar[/[::1]:44064] logged in with entity id 3667 at (-12.69788538476253, 49.70333496602443, 211.08963004709378)
+[04Jan2025 04:02:38.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4milcar joined the game
+[04Jan2025 04:02:38.020] [Server thread/INFO] [Jade/]: Syncing config to 4milcar (38119765-827e-349e-83c9-41c05eb4dc76)
+[04Jan2025 04:02:56.164] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/item/ItemCastableMagic$CastingTarget
+[04Jan2025 04:02:57.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4milcar has made the advancement [Alex's Mobs]
+[04Jan2025 04:03:23.436] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/SupportStructures
+[04Jan2025 04:03:23.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[04Jan2025 04:03:23.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[04Jan2025 04:03:23.450] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 4milcar lost connection: Server closed
+[04Jan2025 04:03:23.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4milcar left the game
+[04Jan2025 04:03:23.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[04Jan2025 04:03:23.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[04Jan2025 04:03:24.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[04Jan2025 04:03:24.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[04Jan2025 04:03:24.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[04Jan2025 04:03:24.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04Jan2025 04:03:24.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04Jan2025 04:03:24.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04Jan2025 04:03:24.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[04Jan2025 04:03:24.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[04Jan2025 04:03:24.534] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
