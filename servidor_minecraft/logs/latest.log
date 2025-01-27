@@ -1813,3 +1813,69 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [27Jan2025 05:59:33.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> bruh
 [27Jan2025 05:59:38.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> peor no veo nestras skins
 [27Jan2025 05:59:41.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> da igual
+[27Jan2025 05:59:51.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> y eso qque tu tienes el launcher oficial
+[27Jan2025 05:59:51.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> deja pongo musica
+[27Jan2025 05:59:59.564] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
+[27Jan2025 06:00:11.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SirDragon3d was slain by Spider
+[27Jan2025 06:00:11.168] [Server thread/INFO] [tombstone/]: The player SirDragon3d has successfully been saved
+[27Jan2025 06:00:17.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SirDragon3d has made the advancement [Knowledge of Death]
+[27Jan2025 06:00:17.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SirDragon3d has reached the goal [Here They Come]
+[27Jan2025 06:00:27.435] [Netty Epoll Server IO #6/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/network/SMessageUpgradePerk$SyncType
+[27Jan2025 06:00:27.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SirDragon3d has made the advancement [Knowledge raises the soul]
+[27Jan2025 06:00:46.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> esta casa que XD
+[27Jan2025 06:00:54.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> gracias bro
+[27Jan2025 06:00:58.982] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=19, y=73, z=-96}
+[27Jan2025 06:01:02.502] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=18, y=73, z=-96}
+[27Jan2025 06:01:14.310] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=19, y=72, z=-95}
+[27Jan2025 06:01:19.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> te hice la casa porqque iba a entrar de noche
+[27Jan2025 06:01:30.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> no puedo abrir nada wat
+[27Jan2025 06:01:31.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> no puedes abrirla? XD
+[27Jan2025 06:01:34.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> bruh
+[27Jan2025 06:01:40.561] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=24, y=74, z=-105}
+[27Jan2025 06:01:41.661] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=24, y=74, z=-105}
+[27Jan2025 06:01:42.361] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=24, y=74, z=-105}
+[27Jan2025 06:01:43.009] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=24, y=74, z=-105}
+[27Jan2025 06:01:43.166] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=24, y=74, z=-104}
+[27Jan2025 06:01:43.194] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=25, y=74, z=-104}
+[27Jan2025 06:01:43.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> raro porque si puedes interactuar
+[27Jan2025 06:01:52.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> ni romper bloques
+[27Jan2025 06:01:58.094] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=29, y=71, z=-98}
+[27Jan2025 06:02:05.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> no creo que sea lag
+[27Jan2025 06:02:11.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> es mas config del sv
+[27Jan2025 06:02:12.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> true
+[27Jan2025 06:02:16.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> puede ser
+[27Jan2025 06:02:23.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> dejame darte op
+[27Jan2025 06:02:24.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> ptm me acostumbre a abrir chat con la y XD
+[27Jan2025 06:02:28.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SirDragon3d: Made 4milcar a server operator]
+[27Jan2025 06:02:46.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> ahora
+[27Jan2025 06:02:50.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4milcar has made the advancement [Getting an Upgrade]
+[27Jan2025 06:02:54.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4milcar has made the advancement [Stone Age]
+[27Jan2025 06:03:33.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> hay algo alla
+[27Jan2025 06:03:46.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> god
+[27Jan2025 06:03:55.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> ponte el third person
+[27Jan2025 06:03:57.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> esta chido
+[27Jan2025 06:04:22.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> meh
+[27Jan2025 06:04:28.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> sin skisn no
+[27Jan2025 06:04:30.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> chupalo entonces
+[27Jan2025 06:04:34.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> ok
+[27Jan2025 06:05:18.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> debeiramos buscar comida antes de bajar
+[27Jan2025 06:05:34.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SirDragon3d: Applied effect Glowing to SirDragon3d]
+[27Jan2025 06:05:42.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4milcar has made the advancement [Monster Hunter]
+[27Jan2025 06:05:42.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4milcar has made the advancement [A Strange Grave Dust]
+[27Jan2025 06:05:44.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [4milcar: Set own game mode to Creative Mode]
+[27Jan2025 06:05:49.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [4milcar: Set own game mode to Survival Mode]
+[27Jan2025 06:05:50.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> que haces?
+[27Jan2025 06:06:01.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> volar 1 seg
+[27Jan2025 06:06:05.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> mmm
+[27Jan2025 06:06:47.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> zorro blanco
+[27Jan2025 06:06:49.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> que epico
+[27Jan2025 06:07:10.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> leopardos articos
+[27Jan2025 06:07:19.112] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SirDragon3d lost connection: Disconnected
+[27Jan2025 06:07:19.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SirDragon3d left the game
+[27Jan2025 06:07:19.174] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[27Jan2025 06:07:22.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> hielo azul
+[27Jan2025 06:08:33.408] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 4milcar lost connection: Timed out
+[27Jan2025 06:08:33.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4milcar left the game
+[27Jan2025 06:08:42.348] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SirDragon3d[/[::1]:49110] logged in with entity id 8848 at (-96.41082237324595, 71.0, -115.51396791290713)
+[27Jan2025 06:08:42.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SirDragon3d joined the game
+[27Jan2025 06:08:42.389] [Server thread/INFO] [Jade/]: Syncing config to SirDragon3d (1d6db77f-946b-363d-a155-97ba32af3cb9)
