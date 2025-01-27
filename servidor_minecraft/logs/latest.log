@@ -1725,3 +1725,17 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [27Jan2025 16:01:36.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SirDragon3d left the game
 [27Jan2025 16:01:36.800] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
 [27Jan2025 16:02:45.496] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5a5f78fd[id=<null>,name=4milcar,properties={},legacy=false] (/[::1]:60794) lost connection: Timed out
+[27Jan2025 16:08:18.796] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/SupportStructures
+[27Jan2025 16:08:18.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[27Jan2025 16:08:18.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[27Jan2025 16:08:18.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[27Jan2025 16:08:18.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[27Jan2025 16:08:18.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[27Jan2025 16:08:18.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[27Jan2025 16:08:18.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[27Jan2025 16:08:18.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[27Jan2025 16:08:18.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[27Jan2025 16:08:18.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[27Jan2025 16:08:18.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[27Jan2025 16:08:18.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[27Jan2025 16:08:18.990] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
