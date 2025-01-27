@@ -14030,3 +14030,442 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [27Jan2025 07:18:15.948] [Server thread/DEBUG] [tombstone/]: A new grave of the player 4milcar was created at position [x:-1788, y:64, z:299, dim:minecraft:overworld]
 [27Jan2025 07:18:15.950] [Server thread/INFO] [tombstone/]: The player 4milcar has successfully been saved
 [27Jan2025 07:18:19.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [4milcar: Teleported 4milcar to SirDragon3d]
+[27Jan2025 07:18:33.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SirDragon3d was shot by Skeleton
+[27Jan2025 07:18:33.542] [Server thread/DEBUG] [tombstone/]: A new grave of the player SirDragon3d was created at position [x:-1775, y:63, z:312, dim:minecraft:overworld]
+[27Jan2025 07:18:33.544] [Server thread/INFO] [tombstone/]: The player SirDragon3d has successfully been saved
+[27Jan2025 07:18:35.906] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of realmrpg_quests:custom_mobs/villager_farmer
+[27Jan2025 07:18:35.907] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[27Jan2025 07:18:35.907] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[27Jan2025 07:18:35.907] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[27Jan2025 07:18:35.908] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_end_1_pool
+[27Jan2025 07:18:35.908] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_end_1_pool
+[27Jan2025 07:18:36.249] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (238 | 36 | -258)
+[27Jan2025 07:18:36.250] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (238 | 36 | -258)
+[27Jan2025 07:18:36.250] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/node/ceiling/flat with rotation NONE at (249 | 24 | -247)
+[27Jan2025 07:18:36.250] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/node/ceiling/flat with rotation NONE at (249 | 24 | -247)
+[27Jan2025 07:18:36.250] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/node/ceiling/flat at (249 | 24 | -247)
+[27Jan2025 07:18:36.250] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/node/ceiling/flat at (249 | 24 | -247)
+[27Jan2025 07:18:36.250] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_4 with rotation NONE at (238 | 18 | -247)
+[27Jan2025 07:18:36.250] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_4 with rotation NONE at (238 | 18 | -247)
+[27Jan2025 07:18:36.250] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_4 at (238 | 18 | -247)
+[27Jan2025 07:18:36.250] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_4 at (238 | 18 | -247)
+[27Jan2025 07:18:36.250] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sewers_fork with rotation NONE at (243 | 17 | -253)
+[27Jan2025 07:18:36.252] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sewers_fork with rotation NONE at (243 | 17 | -253)
+[27Jan2025 07:18:36.252] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/sewers_fork at (243 | 17 | -253)
+[27Jan2025 07:18:36.254] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/sewers_fork at (243 | 17 | -253)
+[27Jan2025 07:18:36.254] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (238 | 9 | -258)
+[27Jan2025 07:18:36.257] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (238 | 9 | -258)
+[27Jan2025 07:18:36.257] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/variant_2 with rotation NONE at (250 | 9 | -257)
+[27Jan2025 07:18:36.257] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/variant_2 with rotation NONE at (250 | 9 | -257)
+[27Jan2025 07:18:36.257] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/variant with rotation CLOCKWISE_180 at (250 | 9 | -252)
+[27Jan2025 07:18:36.257] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/variant with rotation CLOCKWISE_180 at (250 | 9 | -252)
+[27Jan2025 07:18:36.257] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation NONE at (247 | 9 | -257)
+[27Jan2025 07:18:36.258] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation NONE at (247 | 9 | -257)
+[27Jan2025 07:18:36.264] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/default with rotation CLOCKWISE_180 at (241 | 45 | -270)
+[27Jan2025 07:18:36.264] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/default with rotation CLOCKWISE_180 at (241 | 45 | -270)
+[27Jan2025 07:18:36.264] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation NONE at (238 | 45 | -275)
+[27Jan2025 07:18:36.264] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation NONE at (238 | 45 | -275)
+[27Jan2025 07:18:36.264] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/variant with rotation CLOCKWISE_180 at (250 | 45 | -270)
+[27Jan2025 07:18:36.264] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/variant with rotation CLOCKWISE_180 at (250 | 45 | -270)
+[27Jan2025 07:18:36.264] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation NONE at (247 | 45 | -275)
+[27Jan2025 07:18:36.264] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation NONE at (247 | 45 | -275)
+[27Jan2025 07:18:36.264] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/node_connector with rotation CLOCKWISE_90 at (240 | 36 | -265)
+[27Jan2025 07:18:36.265] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/node_connector with rotation CLOCKWISE_90 at (240 | 36 | -265)
+[27Jan2025 07:18:36.265] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/node_connector with rotation NONE at (249 | 36 | -274)
+[27Jan2025 07:18:36.265] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/node_connector with rotation NONE at (249 | 36 | -274)
+[27Jan2025 07:18:36.265] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_4 with rotation CLOCKWISE_180 at (251 | 36 | -274)
+[27Jan2025 07:18:36.265] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_4 with rotation CLOCKWISE_180 at (251 | 36 | -274)
+[27Jan2025 07:18:36.265] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector with rotation COUNTERCLOCKWISE_90 at (240 | 36 | -263)
+[27Jan2025 07:18:36.265] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector with rotation COUNTERCLOCKWISE_90 at (240 | 36 | -263)
+[27Jan2025 07:18:36.265] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/room with rotation CLOCKWISE_180 at (236 | 36 | -278)
+[27Jan2025 07:18:36.266] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/room with rotation CLOCKWISE_180 at (236 | 36 | -278)
+[27Jan2025 07:18:36.266] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (238 | 36 | -258)
+[27Jan2025 07:18:36.266] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (238 | 36 | -258)
+[27Jan2025 07:18:36.266] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_lava with rotation COUNTERCLOCKWISE_90 at (239 | 9 | -272)
+[27Jan2025 07:18:36.266] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_lava with rotation COUNTERCLOCKWISE_90 at (239 | 9 | -272)
+[27Jan2025 07:18:36.266] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/default with rotation COUNTERCLOCKWISE_90 at (239 | 9 | -264)
+[27Jan2025 07:18:36.266] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/default with rotation COUNTERCLOCKWISE_90 at (239 | 9 | -264)
+[27Jan2025 07:18:36.266] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/default with rotation CLOCKWISE_90 at (244 | 9 | -264)
+[27Jan2025 07:18:36.266] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/default with rotation CLOCKWISE_90 at (244 | 9 | -264)
+[27Jan2025 07:18:36.266] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation COUNTERCLOCKWISE_90 at (239 | 9 | -267)
+[27Jan2025 07:18:36.267] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation COUNTERCLOCKWISE_90 at (239 | 9 | -267)
+[27Jan2025 07:18:36.267] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (238 | 9 | -258)
+[27Jan2025 07:18:36.267] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (238 | 9 | -258)
+[27Jan2025 07:18:36.267] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/variant_2 with rotation NONE at (250 | 9 | -257)
+[27Jan2025 07:18:36.267] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/variant_2 with rotation NONE at (250 | 9 | -257)
+[27Jan2025 07:18:36.267] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation NONE at (247 | 9 | -257)
+[27Jan2025 07:18:36.267] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation NONE at (247 | 9 | -257)
+[27Jan2025 07:18:36.270] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/chest with rotation NONE at (241 | 45 | -275)
+[27Jan2025 07:18:36.271] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/chest with rotation NONE at (241 | 45 | -275)
+[27Jan2025 07:18:36.271] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation NONE at (238 | 45 | -275)
+[27Jan2025 07:18:36.271] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation NONE at (238 | 45 | -275)
+[27Jan2025 07:18:36.271] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/spawner with rotation NONE at (250 | 45 | -275)
+[27Jan2025 07:18:36.272] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/spawner with rotation NONE at (250 | 45 | -275)
+[27Jan2025 07:18:36.272] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation NONE at (247 | 45 | -275)
+[27Jan2025 07:18:36.272] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation NONE at (247 | 45 | -275)
+[27Jan2025 07:18:36.272] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/fire with rotation CLOCKWISE_90 at (244 | 36 | -289)
+[27Jan2025 07:18:36.272] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/fire with rotation CLOCKWISE_90 at (244 | 36 | -289)
+[27Jan2025 07:18:36.272] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/bookshelf with rotation COUNTERCLOCKWISE_90 at (239 | 36 | -289)
+[27Jan2025 07:18:36.272] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/bookshelf with rotation COUNTERCLOCKWISE_90 at (239 | 36 | -289)
+[27Jan2025 07:18:36.272] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_3 with rotation CLOCKWISE_90 at (240 | 36 | -294)
+[27Jan2025 07:18:36.272] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_3 with rotation CLOCKWISE_90 at (240 | 36 | -294)
+[27Jan2025 07:18:36.272] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/node_connector with rotation COUNTERCLOCKWISE_90 at (240 | 36 | -280)
+[27Jan2025 07:18:36.272] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/node_connector with rotation COUNTERCLOCKWISE_90 at (240 | 36 | -280)
+[27Jan2025 07:18:36.272] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/node_connector with rotation NONE at (249 | 36 | -274)
+[27Jan2025 07:18:36.272] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/node_connector with rotation NONE at (249 | 36 | -274)
+[27Jan2025 07:18:36.272] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_4 with rotation CLOCKWISE_90 at (240 | 36 | -285)
+[27Jan2025 07:18:36.273] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_4 with rotation CLOCKWISE_90 at (240 | 36 | -285)
+[27Jan2025 07:18:36.273] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_4 with rotation CLOCKWISE_180 at (251 | 36 | -274)
+[27Jan2025 07:18:36.273] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_4 with rotation CLOCKWISE_180 at (251 | 36 | -274)
+[27Jan2025 07:18:36.273] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/room with rotation CLOCKWISE_180 at (236 | 36 | -278)
+[27Jan2025 07:18:36.273] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/room with rotation CLOCKWISE_180 at (236 | 36 | -278)
+[27Jan2025 07:18:36.273] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/short_node_connector with rotation NONE at (250 | 9 | -283)
+[27Jan2025 07:18:36.273] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/short_node_connector with rotation NONE at (250 | 9 | -283)
+[27Jan2025 07:18:36.273] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/short_node_connector with rotation CLOCKWISE_90 at (240 | 9 | -273)
+[27Jan2025 07:18:36.273] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/short_node_connector with rotation CLOCKWISE_90 at (240 | 9 | -273)
+[27Jan2025 07:18:36.273] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_180 at (251 | 9 | -284)
+[27Jan2025 07:18:36.274] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_180 at (251 | 9 | -284)
+[27Jan2025 07:18:36.274] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room_2 with rotation COUNTERCLOCKWISE_90 at (235 | 9 | -288)
+[27Jan2025 07:18:36.275] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room_2 with rotation COUNTERCLOCKWISE_90 at (235 | 9 | -288)
+[27Jan2025 07:18:36.285] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_3 with rotation COUNTERCLOCKWISE_90 at (248 | 18 | -236)
+[27Jan2025 07:18:36.286] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_3 with rotation COUNTERCLOCKWISE_90 at (248 | 18 | -236)
+[27Jan2025 07:18:36.286] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_3 at (248 | 18 | -236)
+[27Jan2025 07:18:36.286] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_3 at (248 | 18 | -236)
+[27Jan2025 07:18:36.286] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sewers_fork with rotation NONE at (243 | 17 | -253)
+[27Jan2025 07:18:36.287] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sewers_fork with rotation NONE at (243 | 17 | -253)
+[27Jan2025 07:18:36.287] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/sewers_fork at (243 | 17 | -253)
+[27Jan2025 07:18:36.288] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/sewers_fork at (243 | 17 | -253)
+[27Jan2025 07:18:36.288] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation CLOCKWISE_180 at (243 | 18 | -225)
+[27Jan2025 07:18:36.289] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation CLOCKWISE_180 at (243 | 18 | -225)
+[27Jan2025 07:18:36.289] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/large_spawner_cell_open at (243 | 18 | -225)
+[27Jan2025 07:18:36.289] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/large_spawner_cell_open at (243 | 18 | -225)
+[27Jan2025 07:18:36.289] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_3 with rotation CLOCKWISE_90 at (248 | 18 | -231)
+[27Jan2025 07:18:36.289] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_3 with rotation CLOCKWISE_90 at (248 | 18 | -231)
+[27Jan2025 07:18:36.289] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_3 at (248 | 18 | -231)
+[27Jan2025 07:18:36.290] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_3 at (248 | 18 | -231)
+[27Jan2025 07:18:36.290] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_turn with rotation CLOCKWISE_180 at (243 | 18 | -226)
+[27Jan2025 07:18:36.290] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_turn with rotation CLOCKWISE_180 at (243 | 18 | -226)
+[27Jan2025 07:18:36.290] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/crypt_turn at (243 | 18 | -226)
+[27Jan2025 07:18:36.290] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/crypt_turn at (243 | 18 | -226)
+[27Jan2025 07:18:36.290] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:hell/node/small_loot_room with rotation NONE at (234 | 8 | -235)
+[27Jan2025 07:18:36.293] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:hell/node/small_loot_room with rotation NONE at (234 | 8 | -235)
+[27Jan2025 07:18:36.486] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/node/ceiling/dome with rotation CLOCKWISE_180 at (249 | 23 | -220)
+[27Jan2025 07:18:36.487] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/node/ceiling/dome with rotation CLOCKWISE_180 at (249 | 23 | -220)
+[27Jan2025 07:18:36.487] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/node/ceiling/dome at (249 | 23 | -220)
+[27Jan2025 07:18:36.487] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/node/ceiling/dome at (249 | 23 | -220)
+[27Jan2025 07:18:36.487] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation CLOCKWISE_90 at (254 | 18 | -214)
+[27Jan2025 07:18:36.488] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation CLOCKWISE_90 at (254 | 18 | -214)
+[27Jan2025 07:18:36.488] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/large_spawner_cell_open at (254 | 18 | -214)
+[27Jan2025 07:18:36.488] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/large_spawner_cell_open at (254 | 18 | -214)
+[27Jan2025 07:18:36.488] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation CLOCKWISE_180 at (243 | 18 | -225)
+[27Jan2025 07:18:36.489] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation CLOCKWISE_180 at (243 | 18 | -225)
+[27Jan2025 07:18:36.489] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/large_spawner_cell_open at (243 | 18 | -225)
+[27Jan2025 07:18:36.490] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/large_spawner_cell_open at (243 | 18 | -225)
+[27Jan2025 07:18:36.490] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/crypt_graves with rotation CLOCKWISE_90 at (248 | 18 | -214)
+[27Jan2025 07:18:36.490] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/crypt_graves with rotation CLOCKWISE_90 at (248 | 18 | -214)
+[27Jan2025 07:18:36.490] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/crypt_graves at (248 | 18 | -214)
+[27Jan2025 07:18:36.490] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/crypt_graves at (248 | 18 | -214)
+[27Jan2025 07:18:36.490] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/crypt_graves with rotation CLOCKWISE_180 at (244 | 18 | -221)
+[27Jan2025 07:18:36.490] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/crypt_graves with rotation CLOCKWISE_180 at (244 | 18 | -221)
+[27Jan2025 07:18:36.492] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/crypt_graves at (244 | 18 | -221)
+[27Jan2025 07:18:36.492] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/crypt_graves at (244 | 18 | -221)
+[27Jan2025 07:18:36.492] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_turn with rotation CLOCKWISE_180 at (243 | 18 | -226)
+[27Jan2025 07:18:36.493] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_turn with rotation CLOCKWISE_180 at (243 | 18 | -226)
+[27Jan2025 07:18:36.493] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/crypt_turn at (243 | 18 | -226)
+[27Jan2025 07:18:36.494] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/crypt_turn at (243 | 18 | -226)
+[27Jan2025 07:18:36.494] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation COUNTERCLOCKWISE_90 at (239 | 9 | -218)
+[27Jan2025 07:18:36.494] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation COUNTERCLOCKWISE_90 at (239 | 9 | -218)
+[27Jan2025 07:18:36.494] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:hell/node/small_loot_room with rotation NONE at (234 | 8 | -235)
+[27Jan2025 07:18:36.495] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:hell/node/small_loot_room with rotation NONE at (234 | 8 | -235)
+[27Jan2025 07:18:36.495] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (238 | 9 | -213)
+[27Jan2025 07:18:36.497] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (238 | 9 | -213)
+[27Jan2025 07:18:36.497] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/variant_2 with rotation NONE at (250 | 9 | -212)
+[27Jan2025 07:18:36.497] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/variant_2 with rotation NONE at (250 | 9 | -212)
+[27Jan2025 07:18:36.497] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation NONE at (247 | 9 | -212)
+[27Jan2025 07:18:36.497] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation NONE at (247 | 9 | -212)
+[27Jan2025 07:18:36.538] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (238 | 9 | -213)
+[27Jan2025 07:18:36.538] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (238 | 9 | -213)
+[27Jan2025 07:18:36.538] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/variant_2 with rotation CLOCKWISE_180 at (250 | 9 | -207)
+[27Jan2025 07:18:36.538] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/variant_2 with rotation CLOCKWISE_180 at (250 | 9 | -207)
+[27Jan2025 07:18:36.538] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation NONE at (247 | 9 | -212)
+[27Jan2025 07:18:36.539] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation NONE at (247 | 9 | -212)
+[27Jan2025 07:18:37.432] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_4 with rotation COUNTERCLOCKWISE_90 at (240 | 45 | -308)
+[27Jan2025 07:18:37.432] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_4 with rotation COUNTERCLOCKWISE_90 at (240 | 45 | -308)
+[27Jan2025 07:18:37.432] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/stairs_top with rotation NONE at (238 | 45 | -303)
+[27Jan2025 07:18:37.433] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/stairs_top with rotation NONE at (238 | 45 | -303)
+[27Jan2025 07:18:37.433] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/light with rotation NONE at (250 | 50 | -300)
+[27Jan2025 07:18:37.434] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/light with rotation NONE at (250 | 50 | -300)
+[27Jan2025 07:18:37.434] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/light_switch with rotation NONE at (250 | 45 | -303)
+[27Jan2025 07:18:37.434] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/light_switch with rotation NONE at (250 | 45 | -303)
+[27Jan2025 07:18:37.435] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/chest with rotation CLOCKWISE_180 at (250 | 45 | -297)
+[27Jan2025 07:18:37.435] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/chest with rotation CLOCKWISE_180 at (250 | 45 | -297)
+[27Jan2025 07:18:37.435] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_light with rotation NONE at (247 | 45 | -302)
+[27Jan2025 07:18:37.435] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_light with rotation NONE at (247 | 45 | -302)
+[27Jan2025 07:18:37.435] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/stairs_bottom with rotation NONE at (238 | 36 | -303)
+[27Jan2025 07:18:37.435] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/stairs_bottom with rotation NONE at (238 | 36 | -303)
+[27Jan2025 07:18:37.436] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/default with rotation CLOCKWISE_90 at (244 | 36 | -293)
+[27Jan2025 07:18:37.436] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/default with rotation CLOCKWISE_90 at (244 | 36 | -293)
+[27Jan2025 07:18:37.436] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/fire with rotation CLOCKWISE_90 at (244 | 36 | -289)
+[27Jan2025 07:18:37.436] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/fire with rotation CLOCKWISE_90 at (244 | 36 | -289)
+[27Jan2025 07:18:37.436] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/spawner with rotation COUNTERCLOCKWISE_90 at (239 | 36 | -293)
+[27Jan2025 07:18:37.438] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=239, y=38, z=-292}
+[27Jan2025 07:18:37.438] [Worker-Main-3/ERROR] [Dungeon Crawl/]: Failed to fetch a mob spawner at (239, 38, -292)
+[27Jan2025 07:18:37.438] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=239, y=38, z=-292}
+[27Jan2025 07:18:37.438] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/spawner with rotation COUNTERCLOCKWISE_90 at (239 | 36 | -293)
+[27Jan2025 07:18:37.438] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/bookshelf with rotation COUNTERCLOCKWISE_90 at (239 | 36 | -289)
+[27Jan2025 07:18:37.438] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/bookshelf with rotation COUNTERCLOCKWISE_90 at (239 | 36 | -289)
+[27Jan2025 07:18:37.438] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_3 with rotation CLOCKWISE_90 at (240 | 36 | -294)
+[27Jan2025 07:18:37.439] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_3 with rotation CLOCKWISE_90 at (240 | 36 | -294)
+[27Jan2025 07:18:37.439] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/bookshelf with rotation NONE at (250 | 36 | -302)
+[27Jan2025 07:18:37.439] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/bookshelf with rotation NONE at (250 | 36 | -302)
+[27Jan2025 07:18:37.439] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/default with rotation CLOCKWISE_180 at (250 | 36 | -297)
+[27Jan2025 07:18:37.439] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/default with rotation CLOCKWISE_180 at (250 | 36 | -297)
+[27Jan2025 07:18:37.439] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation NONE at (247 | 36 | -302)
+[27Jan2025 07:18:37.439] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation NONE at (247 | 36 | -302)
+[27Jan2025 07:18:39.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SirDragon3d: Teleported SirDragon3d to 4milcar]
+[27Jan2025 07:18:44.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4milcar was shot by Skeleton
+[27Jan2025 07:18:44.990] [Server thread/DEBUG] [tombstone/]: A new grave of the player 4milcar was created at position [x:-1790, y:64, z:293, dim:minecraft:overworld]
+[27Jan2025 07:18:44.993] [Server thread/INFO] [tombstone/]: The player 4milcar has successfully been saved
+[27Jan2025 07:18:49.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [4milcar: Teleported 4milcar to SirDragon3d]
+[27Jan2025 07:19:12.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> se lagueo todo XD
+[27Jan2025 07:19:30.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> ano si cierto
+[27Jan2025 07:19:34.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> en el bubbles
+[27Jan2025 07:19:37.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> estan los bundles
+[27Jan2025 07:19:40.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> para que sepas
+[27Jan2025 07:19:41.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> wat
+[27Jan2025 07:19:44.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> hay como lore
+[27Jan2025 07:19:46.111] [Server thread/DEBUG] [FabricRegistrySync/]: Starting registry save
+[27Jan2025 07:19:46.111] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:command_argument_type
+[27Jan2025 07:19:46.111] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:item
+[27Jan2025 07:19:46.111] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_entity_type
+[27Jan2025 07:19:46.111] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:custom_stat
+[27Jan2025 07:19:46.111] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/foliage_placer_type
+[27Jan2025 07:19:46.111] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:stat_type
+[27Jan2025 07:19:46.111] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_rule
+[27Jan2025 07:19:46.111] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_type
+[27Jan2025 07:19:46.111] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:attribute
+[27Jan2025 07:19:46.111] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:position_source_type
+[27Jan2025 07:19:46.111] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:height_provider_type
+[27Jan2025 07:19:46.111] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_block_entity_modifier
+[27Jan2025 07:19:46.111] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/density_function_type
+[27Jan2025 07:19:46.111] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:fluid
+[27Jan2025 07:19:46.111] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:global_loot_modifier_serializers
+[27Jan2025 07:19:46.111] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_condition_type
+[27Jan2025 07:19:46.111] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_pool_element
+[27Jan2025 07:19:46.111] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:activity
+[27Jan2025 07:19:46.112] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_serializer
+[27Jan2025 07:19:46.112] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:frog_variant
+[27Jan2025 07:19:46.112] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:banner_pattern
+[27Jan2025 07:19:46.112] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:instrument
+[27Jan2025 07:19:46.112] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:decorated_pot_patterns
+[27Jan2025 07:19:46.112] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature_size_type
+[27Jan2025 07:19:46.112] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:point_of_interest_type
+[27Jan2025 07:19:46.112] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:mob_effect
+[27Jan2025 07:19:46.112] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_pool_entry_type
+[27Jan2025 07:19:46.112] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/block_state_provider_type
+[27Jan2025 07:19:46.112] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/chunk_generator
+[27Jan2025 07:19:46.112] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:float_provider_type
+[27Jan2025 07:19:46.112] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:chunk_status
+[27Jan2025 07:19:46.112] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:enchantment
+[27Jan2025 07:19:46.112] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_function_type
+[27Jan2025 07:19:46.112] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_processor
+[27Jan2025 07:19:46.112] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_score_provider_type
+[27Jan2025 07:19:46.112] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/tree_decorator_type
+[27Jan2025 07:19:46.112] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:schedule
+[27Jan2025 07:19:46.112] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_condition
+[27Jan2025 07:19:46.112] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:entity_type
+[27Jan2025 07:19:46.112] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_profession
+[27Jan2025 07:19:46.112] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:potion
+[27Jan2025 07:19:46.112] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_type
+[27Jan2025 07:19:46.112] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:int_provider_type
+[27Jan2025 07:19:46.112] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature
+[27Jan2025 07:19:46.112] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:cat_variant
+[27Jan2025 07:19:46.112] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:pos_rule_test
+[27Jan2025 07:19:46.112] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_placement
+[27Jan2025 07:19:46.112] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_nbt_provider_type
+[27Jan2025 07:19:46.112] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:menu
+[27Jan2025 07:19:46.112] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/trunk_placer_type
+[27Jan2025 07:19:46.112] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:creative_mode_tab
+[27Jan2025 07:19:46.112] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/placement_modifier_type
+[27Jan2025 07:19:46.112] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/carver
+[27Jan2025 07:19:46.112] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_number_provider_type
+[27Jan2025 07:19:46.112] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_piece
+[27Jan2025 07:19:46.112] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sound_event
+[27Jan2025 07:19:46.112] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:particle_type
+[27Jan2025 07:19:46.112] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:game_event
+[27Jan2025 07:19:46.112] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/biome_source
+[27Jan2025 07:19:46.112] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/root_placer_type
+[27Jan2025 07:19:46.112] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_type
+[27Jan2025 07:19:46.113] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:painting_variant
+[27Jan2025 07:19:46.113] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:fluid_type
+[27Jan2025 07:19:46.113] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_predicate_type
+[27Jan2025 07:19:46.113] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block
+[27Jan2025 07:19:46.113] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:entity_data_serializers
+[27Jan2025 07:19:46.113] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sensor_type
+[27Jan2025 07:19:46.113] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_test
+[27Jan2025 07:19:46.113] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:memory_module_type
+[27Jan2025 07:19:46.113] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving empty registry data
+[27Jan2025 07:19:46.113] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jan2025 07:19:46.135] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jan2025 07:19:54.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> mira
+[27Jan2025 07:20:32.627] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting fr/rakambda/fallingtree/common/tree/TreePartType
+[27Jan2025 07:20:35.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> por que tienes un sombrero chino? XD
+[27Jan2025 07:20:43.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> la memoria de pancracio
+[27Jan2025 07:20:43.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> eres el reiden o que?
+[27Jan2025 07:20:50.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> murio?
+[27Jan2025 07:20:52.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> como?
+[27Jan2025 07:20:57.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> un esqueleto
+[27Jan2025 07:21:04.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> esos }
+[27Jan2025 07:21:08.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> hijos de...
+[27Jan2025 07:21:19.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> haremos una granja de esqueletos en su honor
+[27Jan2025 07:21:30.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> buuu
+[27Jan2025 07:21:34.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> ya te empezo a ir lag
+[27Jan2025 07:21:47.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> vamos al sur
+[27Jan2025 07:21:50.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> ok
+[27Jan2025 07:21:52.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> sureste
+[27Jan2025 07:22:09.353] [Worker-Main-2/DEBUG] [ModernFix/]: Structure realmrpg_quests:custom_mobs/villager_none is being run through DFU (hash 11a01e698c1b4d2fd9e8b872fac69f06817f0a9cd4d11cccc7256292a21a53b8), this will cause launch time delays
+[27Jan2025 07:22:09.587] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[27Jan2025 07:22:09.588] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[27Jan2025 07:22:09.589] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[27Jan2025 07:22:09.589] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_end_1_pool
+[27Jan2025 07:22:09.589] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_end_1_pool
+[27Jan2025 07:22:36.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> no se cuantos biomas y nos salen los mismos 3 XD
+[27Jan2025 07:22:44.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4milcar was slain by Grizzly Bear
+[27Jan2025 07:22:44.391] [Server thread/DEBUG] [tombstone/]: A new grave of the player 4milcar was created at position [x:-1641, y:70, z:549, dim:minecraft:overworld]
+[27Jan2025 07:22:44.398] [Server thread/INFO] [tombstone/]: The player 4milcar has successfully been saved
+[27Jan2025 07:22:48.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> XDDDD
+[27Jan2025 07:22:55.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> clip
+[27Jan2025 07:22:56.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> pense que era friendly XDDD
+[27Jan2025 07:23:29.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> tepeate pues
+[27Jan2025 07:24:28.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> pense que era friendly XDDD
+[27Jan2025 07:24:34.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> otra vez we?
+[27Jan2025 07:24:34.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [4milcar: Teleported 4milcar to SirDragon3d]
+[27Jan2025 07:24:43.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> le di flechita hacia arriba pal tb :v
+[27Jan2025 07:24:46.116] [Server thread/DEBUG] [FabricRegistrySync/]: Starting registry save
+[27Jan2025 07:24:46.116] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:command_argument_type
+[27Jan2025 07:24:46.116] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:item
+[27Jan2025 07:24:46.116] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_entity_type
+[27Jan2025 07:24:46.116] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:custom_stat
+[27Jan2025 07:24:46.116] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/foliage_placer_type
+[27Jan2025 07:24:46.116] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:stat_type
+[27Jan2025 07:24:46.116] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_rule
+[27Jan2025 07:24:46.116] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_type
+[27Jan2025 07:24:46.116] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:attribute
+[27Jan2025 07:24:46.116] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:position_source_type
+[27Jan2025 07:24:46.116] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:height_provider_type
+[27Jan2025 07:24:46.116] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_block_entity_modifier
+[27Jan2025 07:24:46.116] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/density_function_type
+[27Jan2025 07:24:46.116] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:fluid
+[27Jan2025 07:24:46.116] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:global_loot_modifier_serializers
+[27Jan2025 07:24:46.116] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_condition_type
+[27Jan2025 07:24:46.116] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_pool_element
+[27Jan2025 07:24:46.116] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:activity
+[27Jan2025 07:24:46.116] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_serializer
+[27Jan2025 07:24:46.117] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:frog_variant
+[27Jan2025 07:24:46.117] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:banner_pattern
+[27Jan2025 07:24:46.117] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:instrument
+[27Jan2025 07:24:46.117] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:decorated_pot_patterns
+[27Jan2025 07:24:46.117] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature_size_type
+[27Jan2025 07:24:46.117] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:point_of_interest_type
+[27Jan2025 07:24:46.117] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:mob_effect
+[27Jan2025 07:24:46.117] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_pool_entry_type
+[27Jan2025 07:24:46.117] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/block_state_provider_type
+[27Jan2025 07:24:46.117] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/chunk_generator
+[27Jan2025 07:24:46.117] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:float_provider_type
+[27Jan2025 07:24:46.117] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:chunk_status
+[27Jan2025 07:24:46.117] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:enchantment
+[27Jan2025 07:24:46.117] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_function_type
+[27Jan2025 07:24:46.117] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_processor
+[27Jan2025 07:24:46.117] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_score_provider_type
+[27Jan2025 07:24:46.117] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/tree_decorator_type
+[27Jan2025 07:24:46.117] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:schedule
+[27Jan2025 07:24:46.117] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_condition
+[27Jan2025 07:24:46.117] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:entity_type
+[27Jan2025 07:24:46.117] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_profession
+[27Jan2025 07:24:46.117] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:potion
+[27Jan2025 07:24:46.117] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_type
+[27Jan2025 07:24:46.117] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:int_provider_type
+[27Jan2025 07:24:46.117] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature
+[27Jan2025 07:24:46.117] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:cat_variant
+[27Jan2025 07:24:46.117] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:pos_rule_test
+[27Jan2025 07:24:46.117] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_placement
+[27Jan2025 07:24:46.117] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_nbt_provider_type
+[27Jan2025 07:24:46.117] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:menu
+[27Jan2025 07:24:46.117] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/trunk_placer_type
+[27Jan2025 07:24:46.117] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:creative_mode_tab
+[27Jan2025 07:24:46.117] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/placement_modifier_type
+[27Jan2025 07:24:46.117] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/carver
+[27Jan2025 07:24:46.117] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_number_provider_type
+[27Jan2025 07:24:46.117] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_piece
+[27Jan2025 07:24:46.117] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sound_event
+[27Jan2025 07:24:46.117] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:particle_type
+[27Jan2025 07:24:46.117] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:game_event
+[27Jan2025 07:24:46.117] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/biome_source
+[27Jan2025 07:24:46.117] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/root_placer_type
+[27Jan2025 07:24:46.117] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_type
+[27Jan2025 07:24:46.117] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:painting_variant
+[27Jan2025 07:24:46.117] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:fluid_type
+[27Jan2025 07:24:46.117] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_predicate_type
+[27Jan2025 07:24:46.117] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block
+[27Jan2025 07:24:46.117] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:entity_data_serializers
+[27Jan2025 07:24:46.117] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sensor_type
+[27Jan2025 07:24:46.117] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_test
+[27Jan2025 07:24:46.117] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:memory_module_type
+[27Jan2025 07:24:46.117] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving empty registry data
+[27Jan2025 07:24:46.118] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jan2025 07:24:46.142] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jan2025 07:24:56.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> uta madre
+[27Jan2025 07:24:56.737] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/gossip/GossipType
+[27Jan2025 07:24:59.817] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:angler_additions_3_pool
+[27Jan2025 07:25:01.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> los mismos 3 biomas
+[27Jan2025 07:25:23.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> el server va muy bien
+[27Jan2025 07:25:27.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> demasiado
+[27Jan2025 07:25:35.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> creo que aldea
+[27Jan2025 07:25:37.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> el bop no le da ningun problema
+[27Jan2025 07:25:56.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> tengo hierro
+[27Jan2025 07:25:58.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> para escudo
+[27Jan2025 07:26:01.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> god
+[27Jan2025 07:26:02.396] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Creating a dungeon at (-1516 | 29 | 1124).
+[27Jan2025 07:26:02.398] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Generating layout for layer 0
+[27Jan2025 07:26:02.399] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting xiroc/dungeoncrawl/dungeon/Tile$Flag
+[27Jan2025 07:26:02.399] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Generated Layer 0 with 6(0) Nodes and 4(0) Rooms
+[27Jan2025 07:26:02.400] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Generating layout for layer 1
+[27Jan2025 07:26:02.400] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Generated Layer 1 with 6(0) Nodes and 5(0) Rooms
+[27Jan2025 07:26:02.400] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Generating layout for layer 2
+[27Jan2025 07:26:02.400] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Generated Layer 2 with 11(0) Nodes and 5(0) Rooms
+[27Jan2025 07:26:02.400] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Generating layout for layer 3
+[27Jan2025 07:26:02.401] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Generated Layer 3 with 11(0) Nodes and 4(0) Rooms
+[27Jan2025 07:26:02.401] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Generating layout for layer 4
+[27Jan2025 07:26:02.401] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Generated Layer 4 with 10(0) Nodes and 5(0) Rooms
+[27Jan2025 07:26:02.610] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[27Jan2025 07:26:02.610] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[27Jan2025 07:26:02.611] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[27Jan2025 07:26:02.611] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_end_1_pool
+[27Jan2025 07:26:02.611] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_end_1_pool
+[27Jan2025 07:26:02.611] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_end_1_pool
+[27Jan2025 07:26:29.090] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/AbstractIllager$IllagerArmPose
+[27Jan2025 07:26:48.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> recolecta comida si puedes
+[27Jan2025 07:27:12.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> tb hay que meter el de armaduras esteticas
+[27Jan2025 07:27:22.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> esta
+[27Jan2025 07:27:28.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> nel
+[27Jan2025 07:27:32.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> como se llama?
+[27Jan2025 07:27:37.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> no recuerdo
+[27Jan2025 07:27:40.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> luego lo paso
+[27Jan2025 07:27:42.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> a ya
+[27Jan2025 07:27:46.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> te refieres al otro slot
+[27Jan2025 07:27:57.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> no
+[27Jan2025 07:27:59.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> invisible armor o algo asi
+[27Jan2025 07:28:02.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> ese
+[27Jan2025 07:28:08.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> si
+[27Jan2025 07:28:13.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> para las armaduras samurai
+[27Jan2025 07:28:16.186] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Creating a dungeon at (-1820 | 67 | 1156).
+[27Jan2025 07:28:16.186] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Generating layout for layer 0
+[27Jan2025 07:28:16.186] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Generated Layer 0 with 4(0) Nodes and 4(0) Rooms
+[27Jan2025 07:28:16.186] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Generating layout for layer 1
+[27Jan2025 07:28:16.187] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Generated Layer 1 with 6(0) Nodes and 4(0) Rooms
+[27Jan2025 07:28:16.187] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Generating layout for layer 2
+[27Jan2025 07:28:16.187] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Generated Layer 2 with 4(8) Nodes and 4(0) Rooms
+[27Jan2025 07:28:16.187] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Generating layout for layer 3
+[27Jan2025 07:28:16.187] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Generated Layer 3 with 4(7) Nodes and 5(0) Rooms
+[27Jan2025 07:28:16.187] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Generating layout for layer 4
+[27Jan2025 07:28:16.187] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Generated Layer 4 with 7(3) Nodes and 4(0) Rooms

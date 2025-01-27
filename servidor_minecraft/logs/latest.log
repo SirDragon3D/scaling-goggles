@@ -1665,3 +1665,89 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [27Jan2025 07:18:15.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4milcar was shot by Skeleton
 [27Jan2025 07:18:15.950] [Server thread/INFO] [tombstone/]: The player 4milcar has successfully been saved
 [27Jan2025 07:18:19.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [4milcar: Teleported 4milcar to SirDragon3d]
+[27Jan2025 07:18:33.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SirDragon3d was shot by Skeleton
+[27Jan2025 07:18:33.544] [Server thread/INFO] [tombstone/]: The player SirDragon3d has successfully been saved
+[27Jan2025 07:18:35.907] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[27Jan2025 07:18:35.907] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[27Jan2025 07:18:35.907] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[27Jan2025 07:18:35.908] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_end_1_pool
+[27Jan2025 07:18:35.908] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_end_1_pool
+[27Jan2025 07:18:37.438] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=239, y=38, z=-292}
+[27Jan2025 07:18:37.438] [Worker-Main-3/ERROR] [Dungeon Crawl/]: Failed to fetch a mob spawner at (239, 38, -292)
+[27Jan2025 07:18:37.438] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=239, y=38, z=-292}
+[27Jan2025 07:18:39.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SirDragon3d: Teleported SirDragon3d to 4milcar]
+[27Jan2025 07:18:44.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4milcar was shot by Skeleton
+[27Jan2025 07:18:44.993] [Server thread/INFO] [tombstone/]: The player 4milcar has successfully been saved
+[27Jan2025 07:18:49.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [4milcar: Teleported 4milcar to SirDragon3d]
+[27Jan2025 07:19:12.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> se lagueo todo XD
+[27Jan2025 07:19:30.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> ano si cierto
+[27Jan2025 07:19:34.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> en el bubbles
+[27Jan2025 07:19:37.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> estan los bundles
+[27Jan2025 07:19:40.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> para que sepas
+[27Jan2025 07:19:41.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> wat
+[27Jan2025 07:19:44.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> hay como lore
+[27Jan2025 07:19:54.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> mira
+[27Jan2025 07:20:32.627] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting fr/rakambda/fallingtree/common/tree/TreePartType
+[27Jan2025 07:20:35.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> por que tienes un sombrero chino? XD
+[27Jan2025 07:20:43.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> la memoria de pancracio
+[27Jan2025 07:20:43.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> eres el reiden o que?
+[27Jan2025 07:20:50.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> murio?
+[27Jan2025 07:20:52.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> como?
+[27Jan2025 07:20:57.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> un esqueleto
+[27Jan2025 07:21:04.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> esos }
+[27Jan2025 07:21:08.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> hijos de...
+[27Jan2025 07:21:19.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> haremos una granja de esqueletos en su honor
+[27Jan2025 07:21:30.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> buuu
+[27Jan2025 07:21:34.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> ya te empezo a ir lag
+[27Jan2025 07:21:47.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> vamos al sur
+[27Jan2025 07:21:50.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> ok
+[27Jan2025 07:21:52.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> sureste
+[27Jan2025 07:22:09.587] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[27Jan2025 07:22:09.588] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[27Jan2025 07:22:09.589] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[27Jan2025 07:22:09.589] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_end_1_pool
+[27Jan2025 07:22:09.589] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_end_1_pool
+[27Jan2025 07:22:36.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> no se cuantos biomas y nos salen los mismos 3 XD
+[27Jan2025 07:22:44.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4milcar was slain by Grizzly Bear
+[27Jan2025 07:22:44.398] [Server thread/INFO] [tombstone/]: The player 4milcar has successfully been saved
+[27Jan2025 07:22:48.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> XDDDD
+[27Jan2025 07:22:55.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> clip
+[27Jan2025 07:22:56.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> pense que era friendly XDDD
+[27Jan2025 07:23:29.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> tepeate pues
+[27Jan2025 07:24:28.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> pense que era friendly XDDD
+[27Jan2025 07:24:34.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> otra vez we?
+[27Jan2025 07:24:34.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [4milcar: Teleported 4milcar to SirDragon3d]
+[27Jan2025 07:24:43.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> le di flechita hacia arriba pal tb :v
+[27Jan2025 07:24:56.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> uta madre
+[27Jan2025 07:24:56.737] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/gossip/GossipType
+[27Jan2025 07:24:59.817] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:angler_additions_3_pool
+[27Jan2025 07:25:01.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> los mismos 3 biomas
+[27Jan2025 07:25:23.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> el server va muy bien
+[27Jan2025 07:25:27.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> demasiado
+[27Jan2025 07:25:35.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> creo que aldea
+[27Jan2025 07:25:37.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> el bop no le da ningun problema
+[27Jan2025 07:25:56.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> tengo hierro
+[27Jan2025 07:25:58.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> para escudo
+[27Jan2025 07:26:01.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> god
+[27Jan2025 07:26:02.399] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting xiroc/dungeoncrawl/dungeon/Tile$Flag
+[27Jan2025 07:26:02.610] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[27Jan2025 07:26:02.610] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[27Jan2025 07:26:02.611] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[27Jan2025 07:26:02.611] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_end_1_pool
+[27Jan2025 07:26:02.611] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_end_1_pool
+[27Jan2025 07:26:02.611] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_end_1_pool
+[27Jan2025 07:26:29.090] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/AbstractIllager$IllagerArmPose
+[27Jan2025 07:26:48.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> recolecta comida si puedes
+[27Jan2025 07:27:12.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> tb hay que meter el de armaduras esteticas
+[27Jan2025 07:27:22.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> esta
+[27Jan2025 07:27:28.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> nel
+[27Jan2025 07:27:32.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> como se llama?
+[27Jan2025 07:27:37.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> no recuerdo
+[27Jan2025 07:27:40.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> luego lo paso
+[27Jan2025 07:27:42.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> a ya
+[27Jan2025 07:27:46.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> te refieres al otro slot
+[27Jan2025 07:27:57.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> no
+[27Jan2025 07:27:59.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> invisible armor o algo asi
+[27Jan2025 07:28:02.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> ese
+[27Jan2025 07:28:08.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> si
+[27Jan2025 07:28:13.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> para las armaduras samurai

@@ -338,6 +338,7 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "forested_field": "2025-01-27 05:44:44 +0000",
+      "dead_forest": "2025-01-27 07:22:21 +0000",
       "snowy_maple_woods": "2025-01-27 05:51:27 +0000"
     },
     "done": false
@@ -1210,8 +1211,10 @@
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2025-01-27 05:45:39 +0000",
       "minecraft:taiga": "2025-01-27 05:52:26 +0000",
+      "minecraft:frozen_river": "2025-01-27 07:22:06 +0000",
       "minecraft:frozen_ocean": "2025-01-27 06:19:56 +0000",
-      "minecraft:deep_frozen_ocean": "2025-01-27 06:21:20 +0000"
+      "minecraft:deep_frozen_ocean": "2025-01-27 06:21:20 +0000",
+      "minecraft:snowy_beach": "2025-01-27 07:22:02 +0000"
     },
     "done": false
   },
@@ -4032,6 +4035,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-01-27 07:19:56 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/acacia_log_bridge_middle": {
     "criteria": {
       "has_planks": "2025-01-27 06:52:24 +0000"
@@ -4089,6 +4098,12 @@
   "cfm:recipes/decorations/mangrove_chair": {
     "criteria": {
       "has_planks": "2025-01-27 06:52:10 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flint_block": {
+    "criteria": {
+      "has_flint": "2025-01-27 07:19:56 +0000"
     },
     "done": true
   },
@@ -4291,6 +4306,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2025-01-27 07:17:19 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/item_shelf": {
     "criteria": {
       "minecraft:wooden_slabs": "2025-01-27 06:54:35 +0000"
@@ -4363,6 +4384,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/root": {
+    "criteria": {
+      "useitem": "2025-01-27 07:16:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mangrove_stairs": {
     "criteria": {
       "has_planks": "2025-01-27 06:52:10 +0000"
@@ -4372,6 +4399,12 @@
   "mcwbridges:recipes/rope_mangrove_bridge": {
     "criteria": {
       "has_planks": "2025-01-27 06:52:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2025-01-27 07:19:56 +0000"
     },
     "done": true
   },
@@ -4414,6 +4447,12 @@
   "minecraft:recipes/transportation/acacia_chest_boat": {
     "criteria": {
       "has_boat": "2025-01-27 06:46:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/turtle_helmet": {
+    "criteria": {
+      "has_scute": "2025-01-27 07:20:02 +0000"
     },
     "done": true
   },
@@ -4573,6 +4612,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2025-01-27 07:19:56 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/cave_book": {
     "criteria": {
       "cave_book": "2025-01-27 07:12:21 +0000"
@@ -4690,6 +4735,12 @@
   "minecraft:recipes/food/cooked_cod": {
     "criteria": {
       "has_cod": "2025-01-27 06:48:54 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2025-01-27 07:16:59 +0000"
     },
     "done": true
   },
