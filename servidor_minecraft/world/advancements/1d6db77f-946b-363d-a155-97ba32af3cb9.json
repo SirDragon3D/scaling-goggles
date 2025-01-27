@@ -1209,7 +1209,9 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2025-01-27 05:45:39 +0000",
-      "minecraft:taiga": "2025-01-27 05:52:26 +0000"
+      "minecraft:taiga": "2025-01-27 05:52:26 +0000",
+      "minecraft:frozen_ocean": "2025-01-27 06:19:56 +0000",
+      "minecraft:deep_frozen_ocean": "2025-01-27 06:21:20 +0000"
     },
     "done": false
   },
@@ -3048,6 +3050,36 @@
     },
     "done": true
   },
+  "croptopia:recipes/ham_sandwich": {
+    "criteria": {
+      "has_cooked_porkchop": "2025-01-27 06:09:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-01-27 06:09:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_porkchop": "2025-01-27 06:09:32 +0000"
+    },
+    "done": false
+  },
+  "mcwbridges:recipes/bridge_torch": {
+    "criteria": {
+      "has_planks": "2025-01-27 06:12:32 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sconce": {
+    "criteria": {
+      "has_torch": "2025-01-27 06:12:32 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/sentry": {
     "criteria": {
       "has_iron": "2025-01-27 06:13:10 +0000"
@@ -3105,12 +3137,6 @@
   "supplementaries:recipes/candle_holders/candle_holder_lime": {
     "criteria": {
       "has_iron_ingot": "2025-01-27 06:13:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/snow": {
-    "criteria": {
-      "has_snowball": "2025-01-27 06:14:33 +0000"
     },
     "done": true
   },
@@ -3450,12 +3476,6 @@
     },
     "done": true
   },
-  "mcwbridges:recipes/bridge_torch": {
-    "criteria": {
-      "has_planks": "2025-01-27 06:12:32 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/misc/speed_module": {
     "criteria": {
       "has_iron": "2025-01-27 06:13:10 +0000"
@@ -3495,12 +3515,6 @@
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2025-01-27 06:13:10 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/ham_sandwich": {
-    "criteria": {
-      "has_cooked_porkchop": "2025-01-27 06:09:27 +0000"
     },
     "done": true
   },
@@ -3630,12 +3644,6 @@
     },
     "done": true
   },
-  "supplementaries:recipes/sconce": {
-    "criteria": {
-      "has_torch": "2025-01-27 06:12:32 +0000"
-    },
-    "done": true
-  },
   "mcwtrpdoors:recipes/metal/metal_trapdoor": {
     "criteria": {
       "has_logs": "2025-01-27 06:13:10 +0000"
@@ -3645,12 +3653,6 @@
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2025-01-27 06:13:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/root": {
-    "criteria": {
-      "consumed_item": "2025-01-27 06:09:32 +0000"
     },
     "done": true
   },
@@ -3811,12 +3813,6 @@
     },
     "done": true
   },
-  "minecraft:husbandry/balanced_diet": {
-    "criteria": {
-      "cooked_porkchop": "2025-01-27 06:09:32 +0000"
-    },
-    "done": false
-  },
   "cfm:recipes/decorations/lime_grill": {
     "criteria": {
       "has_iron": "2025-01-27 06:13:10 +0000"
@@ -3847,12 +3843,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/snow_block": {
-    "criteria": {
-      "has_snowball": "2025-01-27 06:14:33 +0000"
-    },
-    "done": true
-  },
   "croptopia:recipes/misc/cooking_pot": {
     "criteria": {
       "has_iron": "2025-01-27 06:13:10 +0000"
@@ -3862,6 +3852,156 @@
   "mcwlights:recipes/garden_light": {
     "criteria": {
       "has_wood": "2025-01-27 06:13:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-01-27 06:14:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-01-27 06:14:33 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-01-27 06:18:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-01-27 06:18:32 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/transportation/echo_boat": {
+    "criteria": {
+      "in_water": "2025-01-27 06:20:05 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/willow_boat": {
+    "criteria": {
+      "in_water": "2025-01-27 06:20:05 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/transportation/bloom_boat": {
+    "criteria": {
+      "in_water": "2025-01-27 06:20:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2025-01-27 06:20:05 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/umbran_boat": {
+    "criteria": {
+      "in_water": "2025-01-27 06:20:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2025-01-27 06:20:05 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/dead_boat": {
+    "criteria": {
+      "in_water": "2025-01-27 06:20:05 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/magic_boat": {
+    "criteria": {
+      "in_water": "2025-01-27 06:20:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2025-01-27 06:20:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2025-01-27 06:20:05 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/fir_boat": {
+    "criteria": {
+      "in_water": "2025-01-27 06:20:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2025-01-27 06:20:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2025-01-27 06:20:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2025-01-27 06:20:05 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/redwood_boat": {
+    "criteria": {
+      "in_water": "2025-01-27 06:20:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2025-01-27 06:20:05 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/hellbark_boat": {
+    "criteria": {
+      "in_water": "2025-01-27 06:20:05 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/jacaranda_boat": {
+    "criteria": {
+      "in_water": "2025-01-27 06:20:05 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/mahogany_boat": {
+    "criteria": {
+      "in_water": "2025-01-27 06:20:05 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/palm_boat": {
+    "criteria": {
+      "in_water": "2025-01-27 06:20:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2025-01-27 06:20:05 +0000"
     },
     "done": true
   },

@@ -1483,5 +1483,41 @@
     },
     "done": true
   },
+  "croptopia:recipes/campfire_toast": {
+    "criteria": {
+      "has_bread": "2025-01-27 06:40:38 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/toast_from_bread": {
+    "criteria": {
+      "has_bread": "2025-01-27 06:40:38 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/cheeseburger": {
+    "criteria": {
+      "has_bread": "2025-01-27 06:40:38 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/toast_from_smoking_bread": {
+    "criteria": {
+      "has_bread": "2025-01-27 06:40:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-01-27 06:40:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "bread": "2025-01-27 06:40:42 +0000"
+    },
+    "done": false
+  },
   "DataVersion": 3465
 }
