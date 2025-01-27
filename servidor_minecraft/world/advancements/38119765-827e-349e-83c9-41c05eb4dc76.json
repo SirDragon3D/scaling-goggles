@@ -597,7 +597,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:old_growth_pine_taiga": "2025-01-27 06:01:00 +0000"
+      "minecraft:old_growth_pine_taiga": "2025-01-27 06:01:00 +0000",
+      "minecraft:deep_frozen_ocean": "2025-01-27 06:45:04 +0000"
     },
     "done": false
   },
@@ -1461,6 +1462,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-01-27 06:54:26 +0000",
       "minecraft:zombie": "2025-01-27 06:05:42 +0000"
     },
     "done": false
@@ -1483,9 +1485,322 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_button": {
+    "criteria": {
+      "has_planks": "2025-01-27 06:51:11 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_cabinet": {
+    "criteria": {
+      "has_planks": "2025-01-27 06:51:10 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_chair": {
+    "criteria": {
+      "has_planks": "2025-01-27 06:51:10 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_acacia": {
+    "criteria": {
+      "has_planks": "2025-01-27 06:51:11 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/transportation/echo_boat": {
+    "criteria": {
+      "in_water": "2025-01-27 06:45:16 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/acacia_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2025-01-27 06:51:10 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_kitchen_sink_dark": {
+    "criteria": {
+      "has_bottom": "2025-01-27 06:51:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-01-27 06:49:16 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/willow_boat": {
+    "criteria": {
+      "in_water": "2025-01-27 06:45:16 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/transportation/bloom_boat": {
+    "criteria": {
+      "in_water": "2025-01-27 06:45:16 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_desk": {
+    "criteria": {
+      "has_planks": "2025-01-27 06:51:10 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/cage": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-01-27 06:54:33 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_table": {
+    "criteria": {
+      "has_planks": "2025-01-27 06:51:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2025-01-27 06:45:16 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/mangrove_chair": {
+    "criteria": {
+      "has_planks": "2025-01-27 06:54:15 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/umbran_boat": {
+    "criteria": {
+      "in_water": "2025-01-27 06:45:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-01-27 06:51:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2025-01-27 06:45:16 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/bomb": {
+    "criteria": {
+      "has_string": "2025-01-27 06:51:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2025-01-27 06:51:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_grill_cooking": {
+    "criteria": {
+      "has_cod": "2025-01-27 06:49:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-01-27 06:51:21 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/dead_boat": {
+    "criteria": {
+      "in_water": "2025-01-27 06:45:16 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/acacia_rail_bridge": {
+    "criteria": {
+      "has_planks": "2025-01-27 06:51:10 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-01-27 06:51:10 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/magic_boat": {
+    "criteria": {
+      "in_water": "2025-01-27 06:45:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2025-01-27 06:51:10 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_kitchen_sink_light": {
+    "criteria": {
+      "has_bottom": "2025-01-27 06:51:10 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_park_bench": {
+    "criteria": {
+      "has_planks": "2025-01-27 06:51:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-01-27 06:51:35 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/campfire_toast": {
     "criteria": {
       "has_bread": "2025-01-27 06:40:38 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/mortar_and_pestle": {
+    "criteria": {
+      "has_bowl": "2025-01-27 06:53:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-01-27 06:54:15 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/acacia_planks": {
+    "criteria": {
+      "has_planks": "2025-01-27 06:51:10 +0000"
+    },
+    "done": true
+  },
+  "lootr:social": {
+    "criteria": {
+      "opened_barrel": "2025-01-27 06:49:09 +0000",
+      "opened_chest": "2025-01-27 06:49:04 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-01-27 06:49:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_sign": {
+    "criteria": {
+      "has_planks": "2025-01-27 06:51:10 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/mangrove_kitchen_sink_light": {
+    "criteria": {
+      "has_bottom": "2025-01-27 06:54:15 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/mangrove_kitchen_sink_dark": {
+    "criteria": {
+      "has_bottom": "2025-01-27 06:54:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-01-27 06:49:06 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/mangrove/mangrove_blossom_trapdoor": {
+    "criteria": {
+      "has_plankss": "2025-01-27 06:54:15 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/mangrove_coffee_table": {
+    "criteria": {
+      "has_planks": "2025-01-27 06:54:15 +0000"
+    },
+    "done": true
+  },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2025-01-27 06:49:09 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/slingshot": {
+    "criteria": {
+      "has_string": "2025-01-27 06:51:21 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2025-01-27 06:51:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mangrove_sign": {
+    "criteria": {
+      "has_planks": "2025-01-27 06:54:15 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2025-01-27 06:51:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2025-01-27 06:45:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_grill_cooking": {
+    "criteria": {
+      "has_salmon": "2025-01-27 06:49:06 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/item_shelf": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-01-27 06:54:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_string": "2025-01-27 06:51:21 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_mangrove": {
+    "criteria": {
+      "has_planks": "2025-01-27 06:54:15 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sack": {
+    "criteria": {
+      "has_string": "2025-01-27 06:51:21 +0000"
     },
     "done": true
   },
@@ -1495,9 +1810,141 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2025-01-27 06:45:16 +0000"
+    },
+    "done": true
+  },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2025-01-27 06:49:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-01-27 06:51:10 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/mangrove_crate": {
+    "criteria": {
+      "has_planks": "2025-01-27 06:54:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-01-27 06:51:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_slab": {
+    "criteria": {
+      "has_planks": "2025-01-27 06:51:10 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/mangrove_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2025-01-27 06:54:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_stairs": {
+    "criteria": {
+      "has_planks": "2025-01-27 06:54:15 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/rope_mangrove_bridge": {
+    "criteria": {
+      "has_planks": "2025-01-27 06:54:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-01-27 06:51:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-01-27 06:49:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-01-27 06:54:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-01-27 06:51:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-01-27 06:51:14 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/cheeseburger": {
     "criteria": {
       "has_bread": "2025-01-27 06:40:38 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/bamboo_spikes": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-01-27 06:54:33 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/fir_boat": {
+    "criteria": {
+      "in_water": "2025-01-27 06:45:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sponge": {
+    "criteria": {
+      "has_wet_sponge": "2025-01-27 06:51:35 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/mangrove_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2025-01-27 06:54:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_door": {
+    "criteria": {
+      "has_planks": "2025-01-27 06:54:15 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/wet_sponge_slab": {
+    "criteria": {
+      "has_wet_sponge": "2025-01-27 06:51:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-01-27 06:54:17 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/mangrove_planks": {
+    "criteria": {
+      "has_planks": "2025-01-27 06:54:15 +0000"
     },
     "done": true
   },
@@ -1507,17 +1954,306 @@
     },
     "done": true
   },
+  "supplementaries:recipes/bellows": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-01-27 06:54:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2025-01-27 06:45:16 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/print_whispering": {
+    "criteria": {
+      "has_logs": "2025-01-27 06:54:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2025-01-27 06:40:42 +0000"
     },
     "done": true
   },
-  "minecraft:husbandry/balanced_diet": {
+  "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
-      "bread": "2025-01-27 06:40:42 +0000"
+      "in_water": "2025-01-27 06:45:16 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/blackboard": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-01-27 06:54:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2025-01-27 06:45:16 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/redwood_boat": {
+    "criteria": {
+      "in_water": "2025-01-27 06:45:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-01-27 06:51:10 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/food_press": {
+    "criteria": {
+      "has_piston": "2025-01-27 06:54:19 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/mangrove_park_bench": {
+    "criteria": {
+      "has_planks": "2025-01-27 06:54:15 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:husbandry/sus_stew": {
+    "criteria": {
+      "stew": "2025-01-27 06:53:01 +0000"
+    },
+    "done": true
+  },
+  "mcwpaths:recipes/acacia": {
+    "criteria": {
+      "has_wood": "2025-01-27 06:51:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2025-01-27 06:49:07 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_acacia": {
+    "criteria": {
+      "has_the_recipe": "2025-01-27 06:51:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2025-01-27 06:45:16 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/sponge_slab": {
+    "criteria": {
+      "has_sponge": "2025-01-27 06:51:39 +0000"
+    },
+    "done": true
+  },
+  "mcwpaths:recipes/mangrove": {
+    "criteria": {
+      "has_wood": "2025-01-27 06:54:15 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_coffee_table": {
+    "criteria": {
+      "has_planks": "2025-01-27 06:51:10 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/mangrove_table": {
+    "criteria": {
+      "has_planks": "2025-01-27 06:54:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-01-27 06:49:06 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/hellbark_boat": {
+    "criteria": {
+      "in_water": "2025-01-27 06:45:16 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/jacaranda_boat": {
+    "criteria": {
+      "in_water": "2025-01-27 06:45:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mangrove_fence": {
+    "criteria": {
+      "has_planks": "2025-01-27 06:54:15 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/mahogany_boat": {
+    "criteria": {
+      "in_water": "2025-01-27 06:45:16 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/mangrove_cabinet": {
+    "criteria": {
+      "has_planks": "2025-01-27 06:54:15 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/mangrove_desk": {
+    "criteria": {
+      "has_planks": "2025-01-27 06:54:15 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/mangrove_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-01-27 06:54:15 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/mangrove_rail_bridge": {
+    "criteria": {
+      "has_planks": "2025-01-27 06:54:15 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/palm_boat": {
+    "criteria": {
+      "in_water": "2025-01-27 06:45:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2025-01-27 06:49:07 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/redstone/mangrove_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-01-27 06:54:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-01-27 06:54:15 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_mangrove": {
+    "criteria": {
+      "has_the_recipe": "2025-01-27 06:54:15 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/ladder_slab": {
+    "criteria": {
+      "has_ladder": "2025-01-27 06:49:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2025-01-27 06:51:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_button": {
+    "criteria": {
+      "has_planks": "2025-01-27 06:54:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-01-27 06:51:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-01-27 06:49:16 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_crate": {
+    "criteria": {
+      "has_planks": "2025-01-27 06:51:11 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/acacia_blossom_trapdoor": {
+    "criteria": {
+      "has_plankss": "2025-01-27 06:51:10 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/jar": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-01-27 06:54:33 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/mangrove_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2025-01-27 06:54:15 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/rope_acacia_bridge": {
+    "criteria": {
+      "has_planks": "2025-01-27 06:51:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2025-01-27 06:53:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "bread": "2025-01-27 06:40:42 +0000",
+      "suspicious_stew": "2025-01-27 06:53:01 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-01-27 06:49:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_slab": {
+    "criteria": {
+      "has_planks": "2025-01-27 06:54:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-01-27 06:51:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2025-01-27 06:45:16 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
