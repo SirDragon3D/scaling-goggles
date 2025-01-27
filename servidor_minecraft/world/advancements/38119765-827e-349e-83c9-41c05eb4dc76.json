@@ -337,6 +337,7 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "maple_woods": "2025-01-27 07:25:37 +0000",
       "forested_field": "2025-01-27 05:57:06 +0000",
       "dead_forest": "2025-01-27 07:22:22 +0000",
       "snowy_maple_woods": "2025-01-27 06:04:43 +0000"
@@ -599,7 +600,10 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2025-01-27 06:01:00 +0000",
+      "minecraft:taiga": "2025-01-27 07:25:40 +0000",
       "minecraft:frozen_river": "2025-01-27 07:22:05 +0000",
+      "minecraft:snowy_taiga": "2025-01-27 07:34:03 +0000",
+      "minecraft:grove": "2025-01-27 07:33:53 +0000",
       "minecraft:frozen_ocean": "2025-01-27 07:16:32 +0000",
       "minecraft:deep_frozen_ocean": "2025-01-27 06:45:04 +0000",
       "minecraft:snowy_beach": "2025-01-27 07:22:03 +0000"
@@ -1467,6 +1471,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-01-27 06:54:26 +0000",
+      "minecraft:spider": "2025-01-27 07:32:40 +0000",
       "minecraft:zombie": "2025-01-27 06:05:42 +0000",
       "minecraft:drowned": "2025-01-27 07:03:10 +0000"
     },
@@ -1493,6 +1498,12 @@
   "minecraft:recipes/redstone/acacia_button": {
     "criteria": {
       "has_planks": "2025-01-27 06:51:11 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/andesite_bridge_stair": {
+    "criteria": {
+      "has_planks": "2025-01-27 07:28:36 +0000"
     },
     "done": true
   },
@@ -1568,6 +1579,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2025-01-27 07:28:10 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/willow_boat": {
     "criteria": {
       "in_water": "2025-01-27 06:45:16 +0000"
@@ -1586,6 +1603,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2025-01-27 07:28:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-01-27 07:33:24 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/oak/oak_swamp_trapdoor": {
     "criteria": {
       "has_logs": "2025-01-27 07:20:33 +0000"
@@ -1598,9 +1627,21 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/balustrade_andesite_bridge": {
+    "criteria": {
+      "has_planks": "2025-01-27 07:28:36 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/acacia_desk": {
     "criteria": {
       "has_planks": "2025-01-27 06:51:10 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/andesite": {
+    "criteria": {
+      "has_planks": "2025-01-27 07:28:36 +0000"
     },
     "done": true
   },
@@ -1826,6 +1867,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-01-27 07:33:24 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/oak_upgraded_fence": {
     "criteria": {
       "has_log": "2025-01-27 07:20:33 +0000"
@@ -1850,6 +1897,12 @@
       "opened_chest": "2025-01-27 06:49:04 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-01-27 07:33:24 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/misc/black_dye": {
     "criteria": {
@@ -1887,9 +1940,21 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/andesite_bridge": {
+    "criteria": {
+      "has_planks": "2025-01-27 07:28:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2025-01-27 07:20:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-01-27 07:28:36 +0000"
     },
     "done": true
   },
@@ -2001,6 +2066,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-01-27 07:28:10 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/oak/oak_cottage_trapdoor": {
     "criteria": {
       "has_logs": "2025-01-27 07:20:33 +0000"
@@ -2058,6 +2129,12 @@
   "mcwwindows:recipes/stone": {
     "criteria": {
       "has_the_recipe": "2025-01-27 07:20:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-01-27 07:28:36 +0000"
     },
     "done": true
   },
@@ -2260,6 +2337,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-01-27 07:28:36 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/misc/apple_pie": {
     "criteria": {
       "has_apple": "2025-01-27 07:03:39 +0000"
@@ -2317,6 +2400,18 @@
   "minecraft:recipes/building_blocks/sponge": {
     "criteria": {
       "has_wet_sponge": "2025-01-27 06:51:35 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/rock_path": {
+    "criteria": {
+      "has_andesite": "2025-01-27 07:28:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-01-27 07:28:36 +0000"
     },
     "done": true
   },
@@ -2464,6 +2559,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-01-27 07:28:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_fence_gate": {
     "criteria": {
       "has_planks": "2025-01-27 06:51:10 +0000"
@@ -2542,6 +2643,18 @@
     },
     "done": true
   },
+  "mcwpaths:recipes/andesite": {
+    "criteria": {
+      "has_wood": "2025-01-27 07:28:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-01-27 07:28:36 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/granite": {
     "criteria": {
       "has_the_recipe": "2025-01-27 07:20:33 +0000"
@@ -2587,6 +2700,12 @@
   "biomesoplenty:recipes/transportation/hellbark_boat": {
     "criteria": {
       "in_water": "2025-01-27 06:45:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-01-27 07:28:10 +0000"
     },
     "done": true
   },
@@ -2692,6 +2811,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_andesite": "2025-01-27 07:28:36 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/sign_post_mangrove": {
     "criteria": {
       "has_the_recipe": "2025-01-27 06:54:15 +0000"
@@ -2788,6 +2913,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/andesite_wall": {
+    "criteria": {
+      "has_andesite": "2025-01-27 07:28:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab": {
+    "criteria": {
+      "has_andesite": "2025-01-27 07:28:36 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/mangrove_log_bridge_middle": {
     "criteria": {
       "has_planks": "2025-01-27 06:54:15 +0000"
@@ -2848,6 +2985,12 @@
   "mcwwindows:recipes/metal": {
     "criteria": {
       "has_the_recipe": "2025-01-27 07:20:33 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/andesite_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-01-27 07:28:36 +0000"
     },
     "done": true
   },

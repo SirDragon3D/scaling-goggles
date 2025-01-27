@@ -1751,3 +1751,43 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [27Jan2025 07:28:02.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> ese
 [27Jan2025 07:28:08.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> si
 [27Jan2025 07:28:13.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> para las armaduras samurai
+[27Jan2025 07:28:36.392] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/gameevent/GameEventListener$DeliveryMode
+[27Jan2025 07:28:40.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> diavlo
+[27Jan2025 07:28:43.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> no es una aldea
+[27Jan2025 07:28:51.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> es una base de hunters
+[27Jan2025 07:28:57.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> mem meo
+[27Jan2025 07:29:10.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SirDragon3d has made the advancement [Ambush]
+[27Jan2025 07:29:11.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SirDragon3d was slain by Hunter
+[27Jan2025 07:29:11.501] [Server thread/INFO] [tombstone/]: The player SirDragon3d has successfully been saved
+[27Jan2025 07:30:46.874] [Netty Epoll Server IO #4/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/network/SMessageUpgradePerk$SyncType
+[27Jan2025 07:30:56.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> que rico es mear loco
+[27Jan2025 07:30:59.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> ya estoy
+[27Jan2025 07:31:03.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> que es un hunter
+[27Jan2025 07:31:22.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> un pillager
+[27Jan2025 07:31:40.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> son buenos para food
+[27Jan2025 07:31:51.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> tengo saco
+[27Jan2025 07:33:43.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SirDragon3d has made the advancement [Disme A Dozen]
+[27Jan2025 07:33:50.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> hay cofres de loot
+[27Jan2025 07:33:57.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> traen muchas felchas
+[27Jan2025 07:34:01.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> guarda waypoint
+[27Jan2025 07:34:04.726] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/illusivesoulworks/comforts/common/ComfortsEvents$Result
+[27Jan2025 07:34:04.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SirDragon3d has made the advancement [Sweet Dreams]
+[27Jan2025 07:34:18.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> mucha carne
+[27Jan2025 07:34:26.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4milcar was slain by Zombie
+[27Jan2025 07:34:26.946] [Server thread/INFO] [tombstone/]: The player 4milcar has successfully been saved
+[27Jan2025 07:34:33.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> bruh XD
+[27Jan2025 07:34:33.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> puto niño
+[27Jan2025 07:34:51.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> ya estoy empezando a ir lag
+[27Jan2025 07:35:05.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> seh
+[27Jan2025 07:35:06.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [4milcar: Teleported 4milcar to SirDragon3d]
+[27Jan2025 07:35:08.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> yo peleo
+[27Jan2025 07:35:14.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> quedate aqui
+[27Jan2025 07:35:17.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [4milcar: Set own game mode to Spectator Mode]
+[27Jan2025 07:35:27.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SirDragon3d has made the advancement [Not Today, Thank You]
+[27Jan2025 07:35:45.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [4milcar: Set own game mode to Survival Mode]
+[27Jan2025 07:36:01.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> vamos a hacer base temp pa dejarlo aqui
+[27Jan2025 07:36:08.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> ok
+[27Jan2025 07:36:16.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> lootea
+[27Jan2025 07:36:29.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> toy subiendo
+[27Jan2025 07:37:00.515] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/projectile/FishingHook$OpenWaterType
+[27Jan2025 07:37:57.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4milcar has made the advancement [Ashes 'n Bones]
