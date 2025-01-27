@@ -1766,3 +1766,50 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [27Jan2025 05:47:21.015] [Netty Epoll Server IO #6/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
 [27Jan2025 05:47:40.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SirDragon3d has made the advancement [Stone Age]
 [27Jan2025 05:47:47.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SirDragon3d has made the advancement [Getting an Upgrade]
+[27Jan2025 05:50:21.024] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/PathFindingStatus
+[27Jan2025 05:50:21.025] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/AbstractAdvancedPathNavigate$RestrictionType
+[27Jan2025 05:50:21.029] [Citadel Pathfinding Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/SurfaceType
+[27Jan2025 05:50:43.268] [pool-6-thread-2/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna]] from pos BlockPos{x=-235, y=74, z=-293}
+[27Jan2025 05:50:44.073] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-236, y=71, z=-293} but found not block entity block Block{minecraft:stone_stairs}[facing=north,half=bottom,shape=straight,waterlogged=false] at location
+[27Jan2025 05:50:44.073] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:stone_stairs}[facing=north,half=bottom,shape=straight,waterlogged=false] but failed at location BlockPos{x=-236, y=71, z=-293}
+[27Jan2025 05:50:44.074] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-236, y=71, z=-294} but found not block entity block Block{minecraft:stone} at location
+[27Jan2025 05:50:44.074] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-236, y=71, z=-294}
+[27Jan2025 05:50:44.074] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-235, y=74, z=-294} but found not block entity block Block{minecraft:spruce_fence}[east=false,north=false,south=false,waterlogged=false,west=false] at location
+[27Jan2025 05:50:44.075] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=false,north=false,south=false,waterlogged=false,west=false] but failed at location BlockPos{x=-235, y=74, z=-294}
+[27Jan2025 05:50:44.075] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-235, y=73, z=-294} but found not block entity block Block{supplementaries:candle_holder}[candles=1,face=ceiling,facing=north,lit=true,waterlogged=false] at location
+[27Jan2025 05:50:44.076] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{supplementaries:candle_holder}[candles=1,face=ceiling,facing=north,lit=true,waterlogged=false] but failed at location BlockPos{x=-235, y=73, z=-294}
+[27Jan2025 05:50:44.076] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-235, y=74, z=-292} but found not block entity block Block{minecraft:spruce_fence}[east=false,north=false,south=false,waterlogged=false,west=false] at location
+[27Jan2025 05:50:44.076] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=false,north=false,south=false,waterlogged=false,west=false] but failed at location BlockPos{x=-235, y=74, z=-292}
+[27Jan2025 05:50:44.077] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-235, y=73, z=-292} but found not block entity block Block{supplementaries:candle_holder}[candles=1,face=ceiling,facing=north,lit=true,waterlogged=false] at location
+[27Jan2025 05:50:44.077] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{supplementaries:candle_holder}[candles=1,face=ceiling,facing=north,lit=true,waterlogged=false] but failed at location BlockPos{x=-235, y=73, z=-292}
+[27Jan2025 05:50:44.105] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-235, y=74, z=-293} but found not block entity block Block{minecraft:spruce_fence}[east=false,north=true,south=true,waterlogged=false,west=false] at location
+[27Jan2025 05:50:44.105] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=false,north=true,south=true,waterlogged=false,west=false] but failed at location BlockPos{x=-235, y=74, z=-293}
+[27Jan2025 05:52:22.039] [IO-Worker-21/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/nbt/StreamTagVisitor$ValueResult
+[27Jan2025 05:52:22.041] [IO-Worker-21/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/nbt/StreamTagVisitor$EntryResult
+[27Jan2025 05:52:26.317] [Worker-Main-9/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/gossip/GossipType
+[27Jan2025 05:53:00.868] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=25, y=73, z=-94} BlockPos{x=25, y=71, z=-92}
+[27Jan2025 05:53:09.430] [Worker-Main-13/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[27Jan2025 05:53:09.431] [Worker-Main-13/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[27Jan2025 05:53:09.431] [Worker-Main-13/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[27Jan2025 05:53:09.431] [Worker-Main-13/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_end_1_pool
+[27Jan2025 05:53:09.431] [Worker-Main-13/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_end_1_pool
+[27Jan2025 05:55:45.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SirDragon3d has made the advancement [Monster Hunter]
+[27Jan2025 05:56:56.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SirDragon3d was slain by Zombie
+[27Jan2025 05:56:56.128] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/SpawnHelper$SpawnResult
+[27Jan2025 05:56:56.139] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/LangKey
+[27Jan2025 05:56:56.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SirDragon3d has made the advancement [Your First Grave]
+[27Jan2025 05:56:56.151] [Server thread/INFO] [tombstone/]: The player SirDragon3d has successfully been saved
+[27Jan2025 05:57:02.902] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/item/ItemCastableMagic$CastingTarget
+[27Jan2025 05:57:05.019] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 4milcar[/[::1]:42056] logged in with entity id 5882 at (30.5, 75.0, -94.5)
+[27Jan2025 05:57:05.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4milcar joined the game
+[27Jan2025 05:57:05.157] [Server thread/INFO] [Jade/]: Syncing config to 4milcar (38119765-827e-349e-83c9-41c05eb4dc76)
+[27Jan2025 05:57:33.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SirDragon3d has made the advancement [A Strange Grave Dust]
+[27Jan2025 05:58:52.827] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting de/keksuccino/fancymenu/networking/PacketHandler$PacketDirection
+[27Jan2025 05:58:55.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> me ves skin?
+[27Jan2025 05:58:59.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> si
+[27Jan2025 05:59:06.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> chingada madre
+[27Jan2025 05:59:21.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> no me ves?
+[27Jan2025 05:59:29.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> seh
+[27Jan2025 05:59:33.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> bruh
+[27Jan2025 05:59:38.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> peor no veo nestras skins
+[27Jan2025 05:59:41.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> da igual

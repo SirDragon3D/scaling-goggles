@@ -11,9 +11,27 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/grass": {
+    "criteria": {
+      "has_planks": "2025-01-27 05:47:34 +0000"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/spruce": {
     "criteria": {
       "has_planks": "2025-01-27 05:45:14 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/orange_cooler": {
+    "criteria": {
+      "has_chest": "2025-01-27 05:48:54 +0000"
+    },
+    "done": true
+  },
+  "mutantmonsters:root": {
+    "criteria": {
+      "killed_something": "2025-01-27 05:50:22 +0000"
     },
     "done": true
   },
@@ -35,9 +53,27 @@
     },
     "done": true
   },
+  "croptopia:recipes/pork_jerky": {
+    "criteria": {
+      "has_pork": "2025-01-27 05:50:23 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/oak_coffee_table": {
+    "criteria": {
+      "has_log": "2025-01-27 05:51:46 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_jungle_fence_gate": {
     "criteria": {
       "has_stick": "2025-01-27 05:45:22 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/diorite": {
+    "criteria": {
+      "has_the_recipe": "2025-01-27 05:51:46 +0000"
     },
     "done": true
   },
@@ -47,9 +83,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/secret_birch_sign_item": {
+    "criteria": {
+      "has_sign": "2025-01-27 05:47:13 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_spruce_kitchen_counter": {
     "criteria": {
       "has_log": "2025-01-27 05:45:14 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/brown_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-01-27 05:48:54 +0000"
     },
     "done": true
   },
@@ -62,6 +110,18 @@
   "cfm:recipes/decorations/spruce_coffee_table": {
     "criteria": {
       "has_log": "2025-01-27 05:45:14 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/warped": {
+    "criteria": {
+      "has_the_recipe": "2025-01-27 05:51:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2025-01-27 05:52:59 +0000"
     },
     "done": true
   },
@@ -101,9 +161,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2025-01-27 05:50:32 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/rope_spruce_bridge": {
     "criteria": {
       "has_planks": "2025-01-27 05:45:18 +0000"
+    },
+    "done": true
+  },
+  "colourfulearth:recipes/decorations/dirt_dyed_orange": {
+    "criteria": {
+      "has_dirt": "2025-01-27 05:47:34 +0000"
     },
     "done": true
   },
@@ -113,9 +185,33 @@
     },
     "done": true
   },
+  "mcwwindows:recipes/dark_oak": {
+    "criteria": {
+      "has_the_recipe": "2025-01-27 05:51:46 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_magenta": {
     "criteria": {
       "has_stick": "2025-01-27 05:45:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-01-27 05:47:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2025-01-27 05:47:40 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_mail_box": {
+    "criteria": {
+      "has_chest": "2025-01-27 05:48:54 +0000"
     },
     "done": true
   },
@@ -131,9 +227,27 @@
     },
     "done": true
   },
+  "supplementaries:recipes/soap": {
+    "criteria": {
+      "has_porkchop": "2025-01-27 05:50:23 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/gray_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-01-27 05:48:54 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/prismarine": {
     "criteria": {
       "has_qq": "2025-01-27 05:44:42 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/oak/oak_swamp_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-27 05:51:46 +0000"
     },
     "done": true
   },
@@ -149,15 +263,76 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_acacia_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-01-27 05:48:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2025-01-27 05:45:22 +0000"
     },
     "done": true
   },
+  "mcwwindows:recipes/blinds": {
+    "criteria": {
+      "has_wood": "2025-01-27 05:52:59 +0000",
+      "has_the_recipe": "2025-01-27 05:52:59 +0000"
+    },
+    "done": true
+  },
+  "colourfulearth:recipes/decorations/dirt_dyed_lime": {
+    "criteria": {
+      "has_dirt": "2025-01-27 05:47:34 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_mail_box": {
+    "criteria": {
+      "has_chest": "2025-01-27 05:48:54 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/blue_cooler": {
+    "criteria": {
+      "has_chest": "2025-01-27 05:48:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dirt_washed_yellow.json": {
+    "criteria": {
+      "has_dirt": "2025-01-27 05:47:34 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_birch_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-01-27 05:47:13 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_spruce_fence_gate": {
     "criteria": {
       "has_stick": "2025-01-27 05:45:22 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/fridge_dark": {
+    "criteria": {
+      "has_chest": "2025-01-27 05:48:54 +0000"
+    },
+    "done": true
+  },
+  "colourfulearth:recipes/decorations/dirt_dyed_blue": {
+    "criteria": {
+      "has_dirt": "2025-01-27 05:47:34 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/oak/oak_paper_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-27 05:51:46 +0000"
     },
     "done": true
   },
@@ -185,9 +360,21 @@
     },
     "done": true
   },
+  "colourfulearth:recipes/decorations/dirt_dyed_grey": {
+    "criteria": {
+      "has_dirt": "2025-01-27 05:47:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2025-01-27 05:45:18 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/dark_prismarine": {
+    "criteria": {
+      "has_the_recipe": "2025-01-27 05:51:46 +0000"
     },
     "done": true
   },
@@ -200,6 +387,61 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-01-27 05:46:02 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/oak_log_slab": {
+    "criteria": {
+      "has_oak_log": "2025-01-27 05:51:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-01-27 05:47:40 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_warped_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-01-27 05:47:13 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_mail_box": {
+    "criteria": {
+      "has_chest": "2025-01-27 05:48:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:zombie": "2025-01-27 05:55:45 +0000",
+      "minecraft:zombie_villager": "2025-01-27 05:56:28 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/oak_crate": {
+    "criteria": {
+      "has_log": "2025-01-27 05:51:46 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/oak_kitchen_sink_dark": {
+    "criteria": {
+      "has_bottom": "2025-01-27 05:52:59 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/oak_desk_cabinet": {
+    "criteria": {
+      "has_log": "2025-01-27 05:51:46 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/fridge_light": {
+    "criteria": {
+      "has_chest": "2025-01-27 05:48:54 +0000"
     },
     "done": true
   },
@@ -233,9 +475,33 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/cyan_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-01-27 05:48:54 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/components": {
+    "criteria": {
+      "has_wood": "2025-01-27 05:51:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2025-01-27 05:47:40 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/curtain_rods": {
     "criteria": {
       "has_wood": "2025-01-27 05:45:22 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_mangrove_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-01-27 05:48:54 +0000"
     },
     "done": true
   },
@@ -251,6 +517,18 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/secret_cherry_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-01-27 05:47:13 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_dark_oak_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-01-27 05:47:13 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_andesite_with_vanilla_cobblestone": {
     "criteria": {
       "has_cobblestone": "2025-01-27 05:46:02 +0000"
@@ -263,9 +541,39 @@
     },
     "done": true
   },
+  "colourfulearth:recipes/decorations/dirt_dyed_red": {
+    "criteria": {
+      "has_dirt": "2025-01-27 05:47:34 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-01-27 05:48:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dirt_washed_blue.json": {
+    "criteria": {
+      "has_dirt": "2025-01-27 05:47:34 +0000"
+    },
+    "done": true
+  },
+  "colourfulearth:recipes/decorations/dirt_dyed_brown": {
+    "criteria": {
+      "has_dirt": "2025-01-27 05:47:34 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/nether": {
     "criteria": {
       "has_nether_brick": "2025-01-27 05:44:42 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/parapets": {
+    "criteria": {
+      "has_wood": "2025-01-27 05:52:59 +0000"
     },
     "done": true
   },
@@ -275,9 +583,33 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_mangrove_mail_box": {
+    "criteria": {
+      "has_chest": "2025-01-27 05:48:54 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/pork_jerky": {
+    "criteria": {
+      "has_the_recipe": "2025-01-27 05:50:23 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/reinforced_acacia_fence": {
     "criteria": {
       "has_stick": "2025-01-27 05:45:22 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_crimson_sign_item": {
+    "criteria": {
+      "has_sign": "2025-01-27 05:47:13 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/oak_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2025-01-27 05:52:59 +0000"
     },
     "done": true
   },
@@ -293,9 +625,33 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_jungle_mail_box": {
+    "criteria": {
+      "has_chest": "2025-01-27 05:48:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
     "criteria": {
       "has_mossy_cobblestone": "2025-01-27 05:46:02 +0000"
+    },
+    "done": true
+  },
+  "colourfulearth:recipes/decorations/dirt_dyed_magenta": {
+    "criteria": {
+      "has_dirt": "2025-01-27 05:47:34 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/birch": {
+    "criteria": {
+      "has_the_recipe": "2025-01-27 05:51:46 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/oak/oak_glass_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-27 05:51:46 +0000"
     },
     "done": true
   },
@@ -317,6 +673,18 @@
     },
     "done": true
   },
+  "mcwwindows:recipes/cherry": {
+    "criteria": {
+      "has_the_recipe": "2025-01-27 05:51:46 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_acacia_sign_item": {
+    "criteria": {
+      "has_sign": "2025-01-27 05:47:13 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_spruce_coffee_table": {
     "criteria": {
       "has_planks": "2025-01-27 05:45:14 +0000"
@@ -326,6 +694,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
     "criteria": {
       "has_mossy_cobblestone": "2025-01-27 05:46:02 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/oak/oak_mystic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-27 05:51:46 +0000"
     },
     "done": true
   },
@@ -341,9 +715,33 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_oak_mail_box": {
+    "criteria": {
+      "has_chest": "2025-01-27 05:48:54 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/vanilla_dirt_chest": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-27 05:47:34 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/oak_upgraded_fence": {
+    "criteria": {
+      "has_log": "2025-01-27 05:51:46 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/balustrade_mossy_cobblestone_bridge": {
     "criteria": {
       "has_planks": "2025-01-27 05:46:02 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-01-27 05:48:54 +0000"
     },
     "done": true
   },
@@ -359,6 +757,24 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/cyan_cooler": {
+    "criteria": {
+      "has_chest": "2025-01-27 05:48:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-01-27 05:50:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2025-01-27 05:52:59 +0000"
+    },
+    "done": true
+  },
   "mcwpaths:recipes/spruce": {
     "criteria": {
       "has_wood": "2025-01-27 05:45:18 +0000"
@@ -368,6 +784,12 @@
   "cfm:recipes/decorations/stripped_spruce_chair": {
     "criteria": {
       "has_planks": "2025-01-27 05:45:14 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_crimson_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-01-27 05:47:13 +0000"
     },
     "done": true
   },
@@ -383,9 +805,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2025-01-27 05:47:40 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/spruce_kitchen_sink_dark": {
     "criteria": {
       "has_bottom": "2025-01-27 05:45:18 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/oak/oak_beach_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-27 05:51:46 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/quartz": {
+    "criteria": {
+      "has_the_recipe": "2025-01-27 05:51:46 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/crimson_mail_box": {
+    "criteria": {
+      "has_chest": "2025-01-27 05:48:54 +0000"
     },
     "done": true
   },
@@ -404,6 +850,18 @@
   "supplementaries:recipes/timber_frame": {
     "criteria": {
       "forge:rods/wooden": "2025-01-27 05:45:22 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/red_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-01-27 05:48:54 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/oak_planks": {
+    "criteria": {
+      "has_planks": "2025-01-27 05:52:59 +0000"
     },
     "done": true
   },
@@ -431,9 +889,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-01-27 05:52:59 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-01-27 05:48:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2025-01-27 05:45:14 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/oak/oak_whispering_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-27 05:51:46 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/red_cooler": {
+    "criteria": {
+      "has_chest": "2025-01-27 05:48:54 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_dark_oak_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-01-27 05:48:54 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/oak_upgraded_gate": {
+    "criteria": {
+      "has_log": "2025-01-27 05:51:46 +0000"
     },
     "done": true
   },
@@ -449,9 +943,27 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/crimson_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-01-27 05:48:54 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/oak_desk": {
+    "criteria": {
+      "has_log": "2025-01-27 05:51:46 +0000"
+    },
+    "done": true
+  },
   "mcwfurnitures:recipes/spruce": {
     "criteria": {
       "has_wood": "2025-01-27 05:45:14 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/oak_blinds": {
+    "criteria": {
+      "has_log": "2025-01-27 05:51:46 +0000"
     },
     "done": true
   },
@@ -467,9 +979,33 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/acacia_mail_box": {
+    "criteria": {
+      "has_chest": "2025-01-27 05:48:54 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:biomesoplenty/root": {
     "criteria": {
       "forested_field": "2025-01-27 05:44:44 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/oak/oak_blossom_trapdoor": {
+    "criteria": {
+      "has_plankss": "2025-01-27 05:52:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2025-01-27 05:52:59 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/pink_cooler": {
+    "criteria": {
+      "has_chest": "2025-01-27 05:48:54 +0000"
     },
     "done": true
   },
@@ -497,9 +1033,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_grill_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-01-27 05:50:23 +0000"
+    },
+    "done": true
+  },
   "mcwfencesbop:recipes/hellbark": {
     "criteria": {
       "has_acacia": "2025-01-27 05:44:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dirt_washed_orange.json": {
+    "criteria": {
+      "has_dirt": "2025-01-27 05:47:34 +0000"
     },
     "done": true
   },
@@ -521,15 +1069,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/dirt_washed_light_blue.json": {
+    "criteria": {
+      "has_dirt": "2025-01-27 05:47:34 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_jungle_sign_item": {
+    "criteria": {
+      "has_sign": "2025-01-27 05:47:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2025-01-27 05:47:40 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_spruce_sign_item": {
+    "criteria": {
+      "has_sign": "2025-01-27 05:47:13 +0000"
+    },
+    "done": true
+  },
   "naturescompass:natures_compass_sapling": {
     "criteria": {
       "has_recipe": "2025-01-27 05:45:14 +0000"
     },
     "done": true
   },
+  "cfm:recipes/decorations/jungle_mail_box": {
+    "criteria": {
+      "has_chest": "2025-01-27 05:48:54 +0000"
+    },
+    "done": true
+  },
   "new_slab_variants:recipes/building_blocks/spruce_log_slab": {
     "criteria": {
       "has_spruce_log": "2025-01-27 05:45:14 +0000"
+    },
+    "done": true
+  },
+  "colourfulearth:recipes/decorations/dirt_dyed_cyan": {
+    "criteria": {
+      "has_dirt": "2025-01-27 05:47:34 +0000"
     },
     "done": true
   },
@@ -545,9 +1129,27 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/green_cooler": {
+    "criteria": {
+      "has_chest": "2025-01-27 05:48:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-01-27 05:50:22 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/clock_block": {
     "criteria": {
       "minecraft:planks": "2025-01-27 05:45:18 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_crimson_mail_box": {
+    "criteria": {
+      "has_chest": "2025-01-27 05:48:54 +0000"
     },
     "done": true
   },
@@ -557,15 +1159,69 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/oak_table": {
+    "criteria": {
+      "has_log": "2025-01-27 05:51:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-01-27 05:50:32 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/oak/oak_cottage_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-27 05:51:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2025-01-27 05:45:22 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-01-27 05:51:46 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/purple_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-01-27 05:48:54 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/oak": {
+    "criteria": {
+      "has_wood": "2025-01-27 05:51:46 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/green_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-01-27 05:48:54 +0000"
+    },
+    "done": true
+  },
   "mcwfencesbop:recipes/palm_hedge": {
     "criteria": {
       "has_birch": "2025-01-27 05:44:42 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/blue_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-01-27 05:48:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-01-27 05:50:23 +0000"
     },
     "done": true
   },
@@ -587,9 +1243,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-01-27 05:47:40 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/lime_cooler": {
+    "criteria": {
+      "has_chest": "2025-01-27 05:48:54 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/stone": {
+    "criteria": {
+      "has_the_recipe": "2025-01-27 05:51:46 +0000"
+    },
+    "done": true
+  },
   "realmrpg_quests:root": {
     "criteria": {
       "root_0": "2025-01-27 05:44:42 +0000"
+    },
+    "done": true
+  },
+  "colourfulearth:recipes/decorations/dirt_dyed_purple": {
+    "criteria": {
+      "has_dirt": "2025-01-27 05:47:34 +0000"
     },
     "done": true
   },
@@ -605,6 +1285,24 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/oak/oak_barn_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-27 05:51:46 +0000"
+    },
+    "done": true
+  },
+  "mcwlights:recipes/tiki_torches": {
+    "criteria": {
+      "has_the_recipe": "2025-01-27 05:47:47 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/white_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-01-27 05:48:54 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/reinforced_dark_oak_fence": {
     "criteria": {
       "has_stick": "2025-01-27 05:45:22 +0000"
@@ -614,6 +1312,24 @@
   "securitycraft:recipes/misc/reinforced_oak_fence": {
     "criteria": {
       "has_stick": "2025-01-27 05:45:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2025-01-27 05:47:40 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/crimson": {
+    "criteria": {
+      "has_the_recipe": "2025-01-27 05:51:46 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/asian_red_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-01-27 05:52:59 +0000"
     },
     "done": true
   },
@@ -641,9 +1357,27 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/oak/oak_barred_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-27 05:51:46 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/spruce/spruce_tropical_trapdoor": {
     "criteria": {
       "has_logs": "2025-01-27 05:45:14 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_acacia_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-01-27 05:47:13 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_crimson_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-01-27 05:48:54 +0000"
     },
     "done": true
   },
@@ -659,9 +1393,33 @@
     },
     "done": true
   },
+  "mcwwindows:recipes/deepslate": {
+    "criteria": {
+      "has_the_recipe": "2025-01-27 05:51:46 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/warped_mail_box": {
+    "criteria": {
+      "has_chest": "2025-01-27 05:48:54 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/reinforced_crimson_fence": {
     "criteria": {
       "has_stick": "2025-01-27 05:45:22 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/cobblestone": {
+    "criteria": {
+      "has_planks": "2025-01-27 05:47:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2025-01-27 05:47:40 +0000"
     },
     "done": true
   },
@@ -695,15 +1453,69 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-01-27 05:51:46 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_desk": {
+    "criteria": {
+      "has_planks": "2025-01-27 05:51:46 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_white": {
     "criteria": {
       "has_stick": "2025-01-27 05:45:22 +0000"
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/secret_sign_item": {
+    "criteria": {
+      "has_sign": "2025-01-27 05:47:13 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/jungle": {
+    "criteria": {
+      "has_the_recipe": "2025-01-27 05:51:46 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/magenta_cooler": {
+    "criteria": {
+      "has_chest": "2025-01-27 05:48:54 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_crate": {
+    "criteria": {
+      "has_planks": "2025-01-27 05:51:46 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/gray_cooler": {
+    "criteria": {
+      "has_chest": "2025-01-27 05:48:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2025-01-27 05:47:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_lilac": {
     "criteria": {
       "has_lilac": "2025-01-27 05:45:15 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/oak_kitchen_counter": {
+    "criteria": {
+      "has_log": "2025-01-27 05:51:46 +0000"
     },
     "done": true
   },
@@ -725,15 +1537,99 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_oak_kitchen_counter": {
+    "criteria": {
+      "has_log": "2025-01-27 05:51:46 +0000"
+    },
+    "done": true
+  },
+  "colourfulearth:recipes/decorations/dirt_dyed_yellow": {
+    "criteria": {
+      "has_dirt": "2025-01-27 05:47:34 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/timber_cross_brace": {
     "criteria": {
       "forge:rods/wooden": "2025-01-27 05:45:22 +0000"
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_jungle_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-01-27 05:48:54 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/pork_and_beans": {
+    "criteria": {
+      "has_pork": "2025-01-27 05:50:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dirt_washed_lime.json": {
+    "criteria": {
+      "has_dirt": "2025-01-27 05:47:34 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/yellow_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-01-27 05:48:54 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_table": {
+    "criteria": {
+      "has_planks": "2025-01-27 05:51:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-01-27 05:52:59 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2025-01-27 05:51:46 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-01-27 05:48:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2025-01-27 05:47:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2025-01-27 05:47:40 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/spruce/spruce_mystic_trapdoor": {
     "criteria": {
       "has_logs": "2025-01-27 05:45:14 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/oak": {
+    "criteria": {
+      "has_wood": "2025-01-27 05:51:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2025-01-27 05:47:40 +0000"
     },
     "done": true
   },
@@ -749,15 +1645,45 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/oak_bedside_cabinet": {
+    "criteria": {
+      "has_log": "2025-01-27 05:51:46 +0000"
+    },
+    "done": true
+  },
   "mcwfencesbop:recipes/hellbark_hedge": {
     "criteria": {
       "has_birch": "2025-01-27 05:44:42 +0000"
     },
     "done": true
   },
+  "supplementaries:recipes/flower_box": {
+    "criteria": {
+      "has_dirt": "2025-01-27 05:47:34 +0000"
+    },
+    "done": true
+  },
   "mcwfencesbop:recipes/jacaranda_hedge": {
     "criteria": {
       "has_birch": "2025-01-27 05:44:42 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_mangrove_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-01-27 05:47:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dirt_washed_grey.json": {
+    "criteria": {
+      "has_dirt": "2025-01-27 05:47:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dirt_washed_green.json": {
+    "criteria": {
+      "has_dirt": "2025-01-27 05:47:34 +0000"
     },
     "done": true
   },
@@ -773,6 +1699,30 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_oak_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2025-01-27 05:51:46 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/carnitas": {
+    "criteria": {
+      "has_porkchop": "2025-01-27 05:50:23 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_warped_sign_item": {
+    "criteria": {
+      "has_sign": "2025-01-27 05:47:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dirt_washed_cyan.json": {
+    "criteria": {
+      "has_dirt": "2025-01-27 05:47:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/spruce_sign": {
     "criteria": {
       "has_planks": "2025-01-27 05:45:18 +0000"
@@ -785,15 +1735,51 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/laser_block": {
+    "criteria": {
+      "has_stone": "2025-01-27 05:47:40 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/spruce/spruce_blossom_trapdoor": {
     "criteria": {
       "has_plankss": "2025-01-27 05:45:18 +0000"
     },
     "done": true
   },
+  "mcwpaths:recipes/oak": {
+    "criteria": {
+      "has_wood": "2025-01-27 05:52:59 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/oak_mail_box": {
+    "criteria": {
+      "has_chest": "2025-01-27 05:48:54 +0000"
+    },
+    "done": true
+  },
+  "colourfulearth:recipes/decorations/dirt_dyed_light_blue": {
+    "criteria": {
+      "has_dirt": "2025-01-27 05:47:34 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/blackstone": {
+    "criteria": {
+      "has_the_recipe": "2025-01-27 05:51:46 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/spruce/spruce_paper_trapdoor": {
     "criteria": {
       "has_logs": "2025-01-27 05:45:14 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/magenta_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-01-27 05:48:54 +0000"
     },
     "done": true
   },
@@ -815,6 +1801,24 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/oak_chair": {
+    "criteria": {
+      "has_log": "2025-01-27 05:51:46 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/oak/oak_tropical_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-27 05:51:46 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_warped_mail_box": {
+    "criteria": {
+      "has_chest": "2025-01-27 05:48:54 +0000"
+    },
+    "done": true
+  },
   "mcwfencesbop:recipes/dead_hedge": {
     "criteria": {
       "has_birch": "2025-01-27 05:44:42 +0000"
@@ -833,9 +1837,27 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_oak_cabinet": {
+    "criteria": {
+      "has_log": "2025-01-27 05:51:46 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/checker": {
+    "criteria": {
+      "has_cobblestone": "2025-01-27 05:47:40 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_spruce_crate": {
     "criteria": {
       "has_planks": "2025-01-27 05:45:14 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/purple_cooler": {
+    "criteria": {
+      "has_chest": "2025-01-27 05:48:54 +0000"
     },
     "done": true
   },
@@ -857,11 +1879,36 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/dirt_washed_light_grey.json": {
+    "criteria": {
+      "has_dirt": "2025-01-27 05:47:34 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
-      "forested_field": "2025-01-27 05:44:44 +0000"
+      "forested_field": "2025-01-27 05:44:44 +0000",
+      "snowy_maple_woods": "2025-01-27 05:51:27 +0000"
     },
     "done": false
+  },
+  "cfm:recipes/decorations/black_cooler": {
+    "criteria": {
+      "has_chest": "2025-01-27 05:48:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-01-27 05:52:59 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_jungle_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-01-27 05:47:13 +0000"
+    },
+    "done": true
   },
   "mcwtrpdoors:recipes/spruce/spruce_swamp_trapdoor": {
     "criteria": {
@@ -875,9 +1922,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2025-01-27 05:52:59 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/reinforced_warped_fence": {
     "criteria": {
       "has_stick": "2025-01-27 05:45:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-01-27 05:50:23 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/sandstone": {
+    "criteria": {
+      "has_the_recipe": "2025-01-27 05:51:46 +0000"
     },
     "done": true
   },
@@ -890,6 +1955,12 @@
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2025-01-27 05:45:14 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_bacon": {
+    "criteria": {
+      "has_porkchop": "2025-01-27 05:50:23 +0000"
     },
     "done": true
   },
@@ -911,15 +1982,33 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/secret_dark_oak_sign_item": {
+    "criteria": {
+      "has_sign": "2025-01-27 05:47:13 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/decorations/sign_post_spruce": {
     "criteria": {
       "has_planks": "2025-01-27 05:45:18 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/dirt_washed_pink.json": {
+    "criteria": {
+      "has_dirt": "2025-01-27 05:47:34 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_light_blue": {
     "criteria": {
       "has_stick": "2025-01-27 05:45:22 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/asian_red_bridge": {
+    "criteria": {
+      "has_planks": "2025-01-27 05:52:59 +0000"
     },
     "done": true
   },
@@ -935,15 +2024,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/dirt_washed_magenta.json": {
+    "criteria": {
+      "has_dirt": "2025-01-27 05:47:34 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/spruce_crate": {
     "criteria": {
       "has_log": "2025-01-27 05:45:14 +0000"
     },
     "done": true
   },
+  "cfm:recipes/decorations/dark_oak_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-01-27 05:48:54 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/print_classic": {
+    "criteria": {
+      "has_logs": "2025-01-27 05:51:46 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_mangrove_sign_item": {
+    "criteria": {
+      "has_sign": "2025-01-27 05:47:13 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_park_bench": {
+    "criteria": {
+      "has_log": "2025-01-27 05:51:46 +0000"
+    },
+    "done": true
+  },
   "betterdeserttemples:root": {
     "criteria": {
       "always": "2025-01-27 05:44:42 +0000"
+    },
+    "done": true
+  },
+  "colourfulearth:recipes/decorations/dirt_dyed_light_grey": {
+    "criteria": {
+      "has_dirt": "2025-01-27 05:47:34 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/oak/oak_four_panel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-27 05:51:46 +0000"
     },
     "done": true
   },
@@ -959,9 +2090,39 @@
     },
     "done": true
   },
+  "mcwwindows:recipes/shutters": {
+    "criteria": {
+      "has_wood": "2025-01-27 05:52:59 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/orange_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-01-27 05:48:54 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/rope_oak_bridge": {
+    "criteria": {
+      "has_planks": "2025-01-27 05:52:59 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_acacia_fence_gate": {
     "criteria": {
       "has_stick": "2025-01-27 05:45:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2025-01-27 05:52:59 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/pink_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-01-27 05:48:54 +0000"
     },
     "done": true
   },
@@ -977,9 +2138,27 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/oak_rail_bridge": {
+    "criteria": {
+      "has_planks": "2025-01-27 05:52:59 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_coffee_table": {
+    "criteria": {
+      "has_planks": "2025-01-27 05:51:46 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/spruce_upgraded_gate": {
     "criteria": {
       "has_log": "2025-01-27 05:45:14 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_birch_mail_box": {
+    "criteria": {
+      "has_chest": "2025-01-27 05:48:54 +0000"
     },
     "done": true
   },
@@ -989,9 +2168,27 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/light_blue_cooler": {
+    "criteria": {
+      "has_chest": "2025-01-27 05:48:54 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/light_blue_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-01-27 05:48:54 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/mossy_cobblestone_bridge": {
     "criteria": {
       "has_planks": "2025-01-27 05:46:02 +0000"
+    },
+    "done": true
+  },
+  "colourfulearth:recipes/decorations/dirt_dyed_green": {
+    "criteria": {
+      "has_dirt": "2025-01-27 05:47:34 +0000"
     },
     "done": true
   },
@@ -1001,15 +2198,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2025-01-27 05:47:47 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_blue": {
     "criteria": {
       "has_stick": "2025-01-27 05:45:22 +0000"
     },
     "done": true
   },
+  "mcwbridges:recipes/cobblestone_bridge": {
+    "criteria": {
+      "has_planks": "2025-01-27 05:47:40 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/reinforced_cherry_fence": {
     "criteria": {
       "has_stick": "2025-01-27 05:45:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dirt_washed_white.json": {
+    "criteria": {
+      "has_dirt": "2025-01-27 05:47:34 +0000"
     },
     "done": true
   },
@@ -1031,6 +2246,18 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/secret_bamboo_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-01-27 05:47:13 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/granite": {
+    "criteria": {
+      "has_the_recipe": "2025-01-27 05:51:46 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/notice_board": {
     "criteria": {
       "minecraft:planks": "2025-01-27 05:45:18 +0000"
@@ -1040,6 +2267,18 @@
   "mcwfences:recipes/deepslate": {
     "criteria": {
       "has_deepslate": "2025-01-27 05:44:42 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/andesite": {
+    "criteria": {
+      "has_the_recipe": "2025-01-27 05:51:46 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/oak_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-01-27 05:51:46 +0000"
     },
     "done": true
   },
@@ -1061,9 +2300,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/dirt_washed_purple.json": {
+    "criteria": {
+      "has_dirt": "2025-01-27 05:47:34 +0000"
+    },
+    "done": true
+  },
+  "colourfulearth:recipes/decorations/dirt_dyed_black": {
+    "criteria": {
+      "has_dirt": "2025-01-27 05:47:34 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/mangrove": {
+    "criteria": {
+      "has_the_recipe": "2025-01-27 05:51:46 +0000"
+    },
+    "done": true
+  },
   "mcwfencesbop:recipes/yellow_autumn_hedge": {
     "criteria": {
       "has_birch": "2025-01-27 05:44:42 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/oak_bark_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-27 05:51:46 +0000"
     },
     "done": true
   },
@@ -1073,15 +2336,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-01-27 05:50:32 +0000"
+    },
+    "done": true
+  },
+  "mcwlights:recipes/paper_lamp": {
+    "criteria": {
+      "has_the_recipe": "2025-01-27 05:47:47 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/spruce_log_bridge_middle": {
     "criteria": {
       "has_planks": "2025-01-27 05:45:18 +0000"
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/secret_cherry_sign_item": {
+    "criteria": {
+      "has_sign": "2025-01-27 05:47:13 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/oak/oak_barrel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-27 05:51:46 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/oak": {
+    "criteria": {
+      "has_planks": "2025-01-27 05:51:46 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/light_gray_cooler": {
+    "criteria": {
+      "has_chest": "2025-01-27 05:48:54 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/acacia/mangrove_bark_trapdoor": {
     "criteria": {
       "has_logs": "2025-01-27 05:45:14 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/cobblestone_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-01-27 05:47:40 +0000"
     },
     "done": true
   },
@@ -1097,6 +2402,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/oak_park_bench": {
+    "criteria": {
+      "has_log": "2025-01-27 05:51:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_stick": "2025-01-27 05:45:22 +0000"
@@ -1109,9 +2420,27 @@
     },
     "done": true
   },
+  "mcwwindows:recipes/red_sandstone": {
+    "criteria": {
+      "has_the_recipe": "2025-01-27 05:51:46 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_cyan": {
     "criteria": {
       "has_stick": "2025-01-27 05:45:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-01-27 05:47:47 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/black_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-01-27 05:48:54 +0000"
     },
     "done": true
   },
@@ -1121,9 +2450,33 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/oak/oak_ranch_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-27 05:51:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-01-27 05:52:59 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/spruce_desk_cabinet": {
     "criteria": {
       "has_log": "2025-01-27 05:45:14 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/mangrove_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-01-27 05:48:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dirt_washed_black.json": {
+    "criteria": {
+      "has_dirt": "2025-01-27 05:47:34 +0000"
     },
     "done": true
   },
@@ -1136,6 +2489,18 @@
   "securitycraft:recipes/redstone/reinforced_mangrove_fence_gate": {
     "criteria": {
       "has_stick": "2025-01-27 05:45:22 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_dark_oak_mail_box": {
+    "criteria": {
+      "has_chest": "2025-01-27 05:48:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dirt_washed_brown.json": {
+    "criteria": {
+      "has_dirt": "2025-01-27 05:47:34 +0000"
     },
     "done": true
   },
@@ -1154,6 +2519,12 @@
   "mcwfencesbop:recipes/umbran": {
     "criteria": {
       "has_acacia": "2025-01-27 05:44:42 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/mangrove_mail_box": {
+    "criteria": {
+      "has_chest": "2025-01-27 05:48:54 +0000"
     },
     "done": true
   },
@@ -1205,6 +2576,60 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/yellow_cooler": {
+    "criteria": {
+      "has_chest": "2025-01-27 05:48:54 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_mail_box": {
+    "criteria": {
+      "has_chest": "2025-01-27 05:48:54 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/white_cooler": {
+    "criteria": {
+      "has_chest": "2025-01-27 05:48:54 +0000"
+    },
+    "done": true
+  },
+  "colourfulearth:recipes/decorations/dirt_dyed_white": {
+    "criteria": {
+      "has_dirt": "2025-01-27 05:47:34 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/acacia": {
+    "criteria": {
+      "has_the_recipe": "2025-01-27 05:51:46 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_chair": {
+    "criteria": {
+      "has_planks": "2025-01-27 05:51:46 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/cobblestone_bridge_stair": {
+    "criteria": {
+      "has_planks": "2025-01-27 05:47:40 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_cobblestone_bridge": {
+    "criteria": {
+      "has_planks": "2025-01-27 05:47:40 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/oak_kitchen_sink_light": {
+    "criteria": {
+      "has_bottom": "2025-01-27 05:52:59 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_diorite": {
     "criteria": {
       "has_cobblestone": "2025-01-27 05:46:02 +0000"
@@ -1214,6 +2639,18 @@
   "cfm:recipes/decorations/stripped_spruce_kitchen_drawer": {
     "criteria": {
       "has_log": "2025-01-27 05:45:14 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/bricks": {
+    "criteria": {
+      "has_the_recipe": "2025-01-27 05:51:46 +0000"
+    },
+    "done": true
+  },
+  "colourfulearth:recipes/decorations/dirt_dyed_pink": {
+    "criteria": {
+      "has_dirt": "2025-01-27 05:47:34 +0000"
     },
     "done": true
   },
@@ -1229,15 +2666,46 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/oak_cabinet": {
+    "criteria": {
+      "has_log": "2025-01-27 05:51:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2025-01-27 05:55:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:old_growth_pine_taiga": "2025-01-27 05:45:39 +0000"
+      "minecraft:old_growth_pine_taiga": "2025-01-27 05:45:39 +0000",
+      "minecraft:taiga": "2025-01-27 05:52:26 +0000"
     },
     "done": false
+  },
+  "securitycraft:recipes/building_blocks/secret_bamboo_sign_item": {
+    "criteria": {
+      "has_sign": "2025-01-27 05:47:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dirt_washed_red.json": {
+    "criteria": {
+      "has_dirt": "2025-01-27 05:47:34 +0000"
+    },
+    "done": true
   },
   "mcwfencesbop:recipes/magic_hedge": {
     "criteria": {
       "has_birch": "2025-01-27 05:44:42 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/warped_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-01-27 05:48:54 +0000"
     },
     "done": true
   },
@@ -1253,9 +2721,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-01-27 05:47:40 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/lime_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-01-27 05:48:54 +0000"
+    },
+    "done": true
+  },
+  "mcwpaths:recipes/cobblestone": {
+    "criteria": {
+      "has_wood": "2025-01-27 05:47:40 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/oak": {
+    "criteria": {
+      "has_wood": "2025-01-27 05:51:46 +0000"
+    },
+    "done": true
+  },
   "mcwfencesbop:recipes/palm": {
     "criteria": {
       "has_acacia": "2025-01-27 05:44:42 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/oak_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-01-27 05:48:54 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/prismarine": {
+    "criteria": {
+      "has_the_recipe": "2025-01-27 05:51:46 +0000"
     },
     "done": true
   },
@@ -1265,9 +2769,33 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_acacia_mail_box": {
+    "criteria": {
+      "has_chest": "2025-01-27 05:48:54 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_birch_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-01-27 05:48:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-01-27 05:46:02 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_oak_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-01-27 05:47:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2025-01-27 05:47:40 +0000"
     },
     "done": true
   },
@@ -1289,9 +2817,21 @@
     },
     "done": true
   },
+  "mcwwindows:recipes/metal": {
+    "criteria": {
+      "has_the_recipe": "2025-01-27 05:51:46 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_spruce_bedside_cabinet": {
     "criteria": {
       "has_planks": "2025-01-27 05:45:14 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/brown_cooler": {
+    "criteria": {
+      "has_chest": "2025-01-27 05:48:54 +0000"
     },
     "done": true
   },
@@ -1301,9 +2841,27 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/light_gray_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-01-27 05:48:54 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/reinforced_spruce_fence": {
     "criteria": {
       "has_stick": "2025-01-27 05:45:22 +0000"
+    },
+    "done": true
+  },
+  "mcwlights:recipes/lantern": {
+    "criteria": {
+      "has_the_recipe": "2025-01-27 05:47:47 +0000"
+    },
+    "done": true
+  },
+  "mcwlights:recipes/torches": {
+    "criteria": {
+      "has_the_recipe": "2025-01-27 05:47:47 +0000"
     },
     "done": true
   },
@@ -1313,9 +2871,21 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_warped_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-01-27 05:48:54 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/spruce_table": {
     "criteria": {
       "has_log": "2025-01-27 05:45:14 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_spruce_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-01-27 05:47:13 +0000"
     },
     "done": true
   },
