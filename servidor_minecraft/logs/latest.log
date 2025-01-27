@@ -1879,3 +1879,12 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [27Jan2025 06:08:42.348] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SirDragon3d[/[::1]:49110] logged in with entity id 8848 at (-96.41082237324595, 71.0, -115.51396791290713)
 [27Jan2025 06:08:42.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SirDragon3d joined the game
 [27Jan2025 06:08:42.389] [Server thread/INFO] [Jade/]: Syncing config to SirDragon3d (1d6db77f-946b-363d-a155-97ba32af3cb9)
+[27Jan2025 06:13:10.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SirDragon3d has made the advancement [Acquire Hardware]
+[27Jan2025 06:15:25.821] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 4milcar[/[::1]:51440] logged in with entity id 9944 at (-233.1931979202898, 63.0, -60.208545579139304)
+[27Jan2025 06:15:25.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4milcar joined the game
+[27Jan2025 06:15:25.862] [Server thread/INFO] [Jade/]: Syncing config to 4milcar (38119765-827e-349e-83c9-41c05eb4dc76)
+[27Jan2025 06:16:23.911] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 4milcar lost connection: Timed out
+[27Jan2025 06:16:23.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4milcar left the game
+[27Jan2025 06:17:31.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SirDragon3d was blown up by Creeper
+[27Jan2025 06:17:31.221] [Server thread/INFO] [tombstone/]: The player SirDragon3d has successfully been saved
+[27Jan2025 06:18:06.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SirDragon3d has made the advancement [Ashes 'n Bones]
