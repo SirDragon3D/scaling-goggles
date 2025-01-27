@@ -4080,6 +4080,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2025-01-27 07:10:21 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/mangrove_chair": {
     "criteria": {
       "has_planks": "2025-01-27 06:52:10 +0000"
@@ -4237,6 +4243,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
+    "criteria": {
+      "has_coast_armor_trim_smithing_template": "2025-01-27 07:05:00 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/mangrove_coffee_table": {
     "criteria": {
       "has_planks": "2025-01-27 06:52:10 +0000"
@@ -4246,6 +4258,12 @@
   "lootr:1barrel": {
     "criteria": {
       "opened_barrel": "2025-01-27 06:48:43 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candy": {
+    "criteria": {
+      "has_paper": "2025-01-27 07:12:18 +0000"
     },
     "done": true
   },
@@ -4285,6 +4303,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/present": {
+    "criteria": {
+      "has_paper": "2025-01-27 07:12:18 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/umbran_chest_boat": {
     "criteria": {
       "has_boat": "2025-01-27 06:46:47 +0000"
@@ -4312,6 +4336,12 @@
   "supplementaries:recipes/boat_jar": {
     "criteria": {
       "minecraft:boats": "2025-01-27 06:46:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-01-27 07:12:18 +0000"
     },
     "done": true
   },
@@ -4423,6 +4453,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-01-27 07:05:00 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2025-01-27 07:12:20 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/redwood_chest_boat": {
     "criteria": {
       "has_boat": "2025-01-27 06:46:47 +0000"
@@ -4531,6 +4573,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/cave_book": {
+    "criteria": {
+      "cave_book": "2025-01-27 07:12:21 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/mangrove_desk": {
     "criteria": {
       "has_planks": "2025-01-27 06:52:10 +0000"
@@ -4594,6 +4642,12 @@
   "cfm:recipes/decorations/acacia_crate": {
     "criteria": {
       "has_planks": "2025-01-27 06:52:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-01-27 07:12:18 +0000"
     },
     "done": true
   },

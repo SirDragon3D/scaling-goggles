@@ -1570,6 +1570,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2025-01-27 07:08:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/cherry_boat": {
     "criteria": {
       "in_water": "2025-01-27 06:45:16 +0000"
@@ -1763,6 +1769,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/candy": {
+    "criteria": {
+      "has_paper": "2025-01-27 07:09:28 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/acacia_desk_cabinet": {
     "criteria": {
       "has_planks": "2025-01-27 06:51:10 +0000"
@@ -1811,6 +1823,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/present": {
+    "criteria": {
+      "has_paper": "2025-01-27 07:09:28 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/bridge_torch": {
     "criteria": {
       "has_planks": "2025-01-27 06:59:28 +0000"
@@ -1844,6 +1862,12 @@
   "minecraft:recipes/redstone/acacia_pressure_plate": {
     "criteria": {
       "has_planks": "2025-01-27 06:51:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-01-27 07:09:28 +0000"
     },
     "done": true
   },
@@ -2000,6 +2024,12 @@
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2025-01-27 06:45:16 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2025-01-27 07:09:29 +0000"
     },
     "done": true
   },
@@ -2246,6 +2276,12 @@
   "cfm:recipes/decorations/acacia_crate": {
     "criteria": {
       "has_planks": "2025-01-27 06:51:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-01-27 07:09:28 +0000"
     },
     "done": true
   },
