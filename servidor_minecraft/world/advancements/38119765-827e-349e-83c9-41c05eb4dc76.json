@@ -1463,7 +1463,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-01-27 06:54:26 +0000",
-      "minecraft:zombie": "2025-01-27 06:05:42 +0000"
+      "minecraft:zombie": "2025-01-27 06:05:42 +0000",
+      "minecraft:drowned": "2025-01-27 07:03:10 +0000"
     },
     "done": false
   },
@@ -1500,6 +1501,12 @@
   "cfm:recipes/decorations/acacia_chair": {
     "criteria": {
       "has_planks": "2025-01-27 06:51:10 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/apple_juice": {
+    "criteria": {
+      "has_apple": "2025-01-27 07:03:39 +0000"
     },
     "done": true
   },
@@ -1653,6 +1660,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/misc/apple_sapling": {
+    "criteria": {
+      "has_apple": "2025-01-27 07:03:39 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/acacia_park_bench": {
     "criteria": {
       "has_planks": "2025-01-27 06:51:10 +0000"
@@ -1798,6 +1811,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/bridge_torch": {
+    "criteria": {
+      "has_planks": "2025-01-27 06:59:28 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/sack": {
     "criteria": {
       "has_string": "2025-01-27 06:51:21 +0000"
@@ -1882,9 +1901,21 @@
     },
     "done": true
   },
+  "croptopia:recipes/misc/apple_pie": {
+    "criteria": {
+      "has_apple": "2025-01-27 07:03:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/fishing_rod": {
     "criteria": {
       "has_string": "2025-01-27 06:51:21 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/fruit_smoothie": {
+    "criteria": {
+      "has_fruit": "2025-01-27 07:03:39 +0000"
     },
     "done": true
   },
@@ -1933,6 +1964,12 @@
   "new_slab_variants:recipes/building_blocks/wet_sponge_slab": {
     "criteria": {
       "has_wet_sponge": "2025-01-27 06:51:35 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sconce": {
+    "criteria": {
+      "has_torch": "2025-01-27 06:59:28 +0000"
     },
     "done": true
   },
@@ -2140,6 +2177,12 @@
     },
     "done": false
   },
+  "croptopia:recipes/documentation": {
+    "criteria": {
+      "has_crop": "2025-01-27 07:03:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/mangrove_trapdoor": {
     "criteria": {
       "has_planks": "2025-01-27 06:54:15 +0000"
@@ -2155,6 +2198,18 @@
   "supplementaries:recipes/sign_post_mangrove": {
     "criteria": {
       "has_the_recipe": "2025-01-27 06:54:15 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2025-01-27 07:03:10 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/fruit_salad": {
+    "criteria": {
+      "has_apple": "2025-01-27 07:03:39 +0000"
     },
     "done": true
   },
@@ -2226,8 +2281,10 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_cod": "2025-01-27 07:03:03 +0000",
       "bread": "2025-01-27 06:40:42 +0000",
-      "suspicious_stew": "2025-01-27 06:53:01 +0000"
+      "suspicious_stew": "2025-01-27 06:53:01 +0000",
+      "cooked_salmon": "2025-01-27 06:55:22 +0000"
     },
     "done": false
   },
@@ -2252,6 +2309,12 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2025-01-27 06:45:16 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2025-01-27 07:03:10 +0000"
     },
     "done": true
   },
