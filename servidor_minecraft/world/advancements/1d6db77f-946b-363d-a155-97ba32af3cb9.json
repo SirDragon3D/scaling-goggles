@@ -3069,6 +3069,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-01-27 06:09:32 +0000",
+      "cooked_beef": "2025-01-27 07:36:14 +0000",
       "rotten_flesh": "2025-01-27 06:44:49 +0000",
       "suspicious_stew": "2025-01-27 06:53:06 +0000",
       "cooked_salmon": "2025-01-27 06:53:35 +0000"
@@ -4078,6 +4079,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-01-27 07:35:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod_from_smoking": {
     "criteria": {
       "has_cod": "2025-01-27 06:48:54 +0000"
@@ -4853,6 +4860,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2025-01-27 07:37:29 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/fruit_salad": {
     "criteria": {
       "has_apple": "2025-01-27 07:34:20 +0000"
@@ -4952,6 +4965,12 @@
   "minecraft:recipes/building_blocks/mangrove_slab": {
     "criteria": {
       "has_planks": "2025-01-27 06:52:10 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2025-01-27 07:37:29 +0000"
     },
     "done": true
   },

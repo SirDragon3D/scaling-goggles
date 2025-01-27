@@ -1791,3 +1791,63 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [27Jan2025 07:36:29.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> toy subiendo
 [27Jan2025 07:37:00.515] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/projectile/FishingHook$OpenWaterType
 [27Jan2025 07:37:57.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4milcar has made the advancement [Ashes 'n Bones]
+[27Jan2025 07:38:36.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> hay un chingo de comida
+[27Jan2025 07:38:37.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4milcar was shot by Skeleton
+[27Jan2025 07:38:37.354] [Server thread/INFO] [tombstone/]: The player 4milcar has successfully been saved
+[27Jan2025 07:38:41.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> bruh XD
+[27Jan2025 07:38:42.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> maldito lag
+[27Jan2025 07:38:50.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> usa tp con el jorneys
+[27Jan2025 07:38:51.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> de verdad
+[27Jan2025 07:39:02.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> a claro
+[27Jan2025 07:39:04.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> XD
+[27Jan2025 07:39:16.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> como abria los waypoints?
+[27Jan2025 07:39:19.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> n
+[27Jan2025 07:39:22.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> i
+[27Jan2025 07:39:23.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> g
+[27Jan2025 07:39:24.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> g
+[27Jan2025 07:39:27.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> a
+[27Jan2025 07:40:13.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4milcar has reached the goal [Easy Opening]
+[27Jan2025 07:40:37.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> asda
+[27Jan2025 07:40:42.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4milcar was shot by Skeleton
+[27Jan2025 07:40:42.296] [Server thread/INFO] [tombstone/]: The player 4milcar has successfully been saved
+[27Jan2025 07:40:42.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [4milcar: Set own game mode to Creative Mode]
+[27Jan2025 07:40:52.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> te ayudo?
+[27Jan2025 07:41:03.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> sal con espectador
+[27Jan2025 07:41:05.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> que mas da
+[27Jan2025 07:41:30.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> ola?
+[27Jan2025 07:41:42.691] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 4milcar lost connection: Disconnected
+[27Jan2025 07:41:42.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4milcar left the game
+[27Jan2025 07:41:42.744] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[27Jan2025 07:42:51.955] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 4milcar[/[::1]:35860] logged in with entity id 33958 at (-1782.5, 17.0, 809.5)
+[27Jan2025 07:42:51.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4milcar joined the game
+[27Jan2025 07:42:52.020] [Server thread/INFO] [Jade/]: Syncing config to 4milcar (38119765-827e-349e-83c9-41c05eb4dc76)
+[27Jan2025 07:43:50.089] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 4milcar lost connection: Timed out
+[27Jan2025 07:43:50.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4milcar left the game
+[27Jan2025 07:45:47.301] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 4milcar[/[::1]:45552] logged in with entity id 34337 at (-1778.107806898679, 23.06383597911215, 832.9092235009504)
+[27Jan2025 07:45:47.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4milcar joined the game
+[27Jan2025 07:45:47.383] [Server thread/INFO] [Jade/]: Syncing config to 4milcar (38119765-827e-349e-83c9-41c05eb4dc76)
+[27Jan2025 07:46:04.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [4milcar: Teleported 4milcar to SirDragon3d]
+[27Jan2025 07:46:15.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [4milcar: Set own game mode to Survival Mode]
+[27Jan2025 07:46:26.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> que puto susto XD
+[27Jan2025 07:46:30.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> tengo hierro
+[27Jan2025 07:46:36.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> 27
+[27Jan2025 07:46:40.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> god
+[27Jan2025 07:46:45.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> con eso upgrademos las mochilas y escudos
+[27Jan2025 07:46:47.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> mañana nos hacemos armaduras
+[27Jan2025 07:46:49.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> ninjas
+[27Jan2025 07:46:57.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4milcar has made the advancement [Disme A Dozen]
+[27Jan2025 07:47:06.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> olv
+[27Jan2025 07:47:15.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> un boomerang
+[27Jan2025 07:47:17.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> que epico
+[27Jan2025 07:47:18.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> guarda spawn
+[27Jan2025 07:47:23.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4milcar has made the advancement [Acquire Hardware]
+[27Jan2025 07:47:29.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> mira esta ventana
+[27Jan2025 07:47:43.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> los cofres de afuera tienen mas flechas
+[27Jan2025 07:47:49.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> fui yo mano
+[27Jan2025 07:47:58.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> es que te vi a los ojos y no pude mas
+[27Jan2025 07:47:59.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> diavlo e hirviendo?
+[27Jan2025 07:48:10.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> haz cofre
+[27Jan2025 07:48:16.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> no tengo hueco pa nada XD
+[27Jan2025 07:48:16.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> tengo mochila
+[27Jan2025 07:48:21.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> tu tambien
+[27Jan2025 07:48:25.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> lo se
