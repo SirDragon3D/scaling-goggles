@@ -1583,11 +1583,13 @@
     "criteria": {
       "cooked_beef": "2025-01-27 16:15:50 +0000",
       "baked_potato": "2025-01-27 17:46:13 +0000",
+      "porkchop": "2025-01-28 12:02:35 +0000",
       "cooked_cod": "2025-01-27 07:03:03 +0000",
       "pumpkin_pie": "2025-01-28 11:05:12 +0000",
       "bread": "2025-01-27 06:40:42 +0000",
       "golden_apple": "2025-01-28 11:44:15 +0000",
       "suspicious_stew": "2025-01-27 06:53:01 +0000",
+      "cod": "2025-01-28 12:12:30 +0000",
       "cooked_salmon": "2025-01-27 06:55:22 +0000"
     },
     "done": false
@@ -8544,7 +8546,9 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:nether_wastes": "2025-01-28 11:28:47 +0000"
+      "minecraft:crimson_forest": "2025-01-28 12:14:55 +0000",
+      "minecraft:nether_wastes": "2025-01-28 11:28:47 +0000",
+      "minecraft:soul_sand_valley": "2025-01-28 11:55:57 +0000"
     },
     "done": false
   },
@@ -8599,6 +8603,12 @@
   "minecraft:recipes/misc/red_dye_from_rose_bush": {
     "criteria": {
       "has_rose_bush": "2025-01-28 11:07:08 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:nether/kill_wildfire": {
+    "criteria": {
+      "killed_wildfire": "2025-01-28 11:54:37 +0000"
     },
     "done": true
   },
@@ -8713,6 +8723,12 @@
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_quartz": "2025-01-28 11:21:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-01-28 12:00:47 +0000"
     },
     "done": true
   },

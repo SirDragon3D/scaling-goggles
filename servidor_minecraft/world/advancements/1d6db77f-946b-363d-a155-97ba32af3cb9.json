@@ -3114,6 +3114,7 @@
       "cooked_porkchop": "2025-01-27 06:09:32 +0000",
       "cooked_beef": "2025-01-27 07:36:14 +0000",
       "bread": "2025-01-27 19:27:25 +0000",
+      "golden_apple": "2025-01-28 11:57:55 +0000",
       "rotten_flesh": "2025-01-27 06:44:49 +0000",
       "suspicious_stew": "2025-01-27 06:53:06 +0000",
       "golden_carrot": "2025-01-28 11:45:28 +0000",
@@ -7881,6 +7882,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2025-01-28 12:12:14 +0000",
       "minecraft:nether_wastes": "2025-01-28 11:28:23 +0000"
     },
     "done": false
@@ -7924,6 +7926,12 @@
   "securitycraft:recipes/building_blocks/reinforced_purple_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-01-28 10:50:52 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/nether_bricks_bridge_stair": {
+    "criteria": {
+      "has_planks": "2025-01-28 11:52:49 +0000"
     },
     "done": true
   },
@@ -8125,6 +8133,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/nether_bricks_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-01-28 11:52:49 +0000"
+    },
+    "done": true
+  },
   "colourfulearth:recipes/decorations/grass_dyed_cyan": {
     "criteria": {
       "has_grass_block": "2025-01-28 11:02:31 +0000"
@@ -8197,6 +8211,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-28 11:52:49 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_gray_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-01-28 10:50:52 +0000"
@@ -8257,6 +8277,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-28 11:52:49 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_light_gray_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-01-28 10:50:52 +0000"
@@ -8287,9 +8313,21 @@
     },
     "done": true
   },
+  "new_slab_variants:recipes/building_blocks/crying_obsidian_slab": {
+    "criteria": {
+      "has_crying_obsidian": "2025-01-28 11:56:50 +0000"
+    },
+    "done": true
+  },
   "ironchest:recipes/decorations/chests/diamond_crystal_chest": {
     "criteria": {
       "has_glass": "2025-01-28 10:50:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-28 11:52:49 +0000"
     },
     "done": true
   },
@@ -8302,6 +8340,12 @@
   "new_slab_variants:recipes/building_blocks/netherrack_slab": {
     "criteria": {
       "has_netherrack": "2025-01-28 11:19:33 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/nether_bricks": {
+    "criteria": {
+      "has_planks": "2025-01-28 11:52:49 +0000"
     },
     "done": true
   },
@@ -8326,6 +8370,12 @@
   "minecraft:recipes/building_blocks/polished_basalt": {
     "criteria": {
       "has_basalt": "2025-01-28 11:24:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-01-28 11:56:50 +0000"
     },
     "done": true
   },
@@ -8467,6 +8517,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-28 11:52:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/grass_washed_white.json": {
     "criteria": {
       "has_grass_block": "2025-01-28 11:02:31 +0000"
@@ -8476,6 +8532,18 @@
   "colourfulearth:recipes/decorations/grass_dyed_lime": {
     "criteria": {
       "has_grass_block": "2025-01-28 11:02:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-28 11:52:49 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_nether_bricks_bridge": {
+    "criteria": {
+      "has_planks": "2025-01-28 11:52:49 +0000"
     },
     "done": true
   },
@@ -8512,6 +8580,12 @@
   "securitycraft:recipes/redstone/reinforced_observer": {
     "criteria": {
       "has_quartz": "2025-01-28 11:21:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-28 11:52:49 +0000"
     },
     "done": true
   },
@@ -8563,6 +8637,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/nether_bricks_bridge": {
+    "criteria": {
+      "has_planks": "2025-01-28 11:52:49 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_pink_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-01-28 10:50:52 +0000"
@@ -8578,6 +8658,12 @@
   "minecraft:recipes/decorations/grass_washed_cyan.json": {
     "criteria": {
       "has_grass_block": "2025-01-28 11:02:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-28 11:52:49 +0000"
     },
     "done": true
   },
@@ -8611,6 +8697,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-28 11:52:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2025-01-28 10:50:52 +0000"
@@ -8632,6 +8724,12 @@
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2025-01-28 11:15:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-01-28 11:56:50 +0000"
     },
     "done": true
   },
@@ -8737,6 +8835,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-28 11:52:49 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_yellow_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-01-28 10:50:52 +0000"
@@ -8770,6 +8874,12 @@
   "securitycraft:recipes/building_blocks/reinforced_light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-28 10:50:52 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:nether/find_citadel": {
+    "criteria": {
+      "citadel": "2025-01-28 11:52:33 +0000"
     },
     "done": true
   },

@@ -1566,3 +1566,45 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [28Jan2025 11:49:54.065] [Server thread/WARN] [tombstone/]: The death event of the player 4milcar was canceled by another mod
 [28Jan2025 11:49:54.067] [Server thread/INFO] [tombstone/]: The player 4milcar has successfully been saved
 [28Jan2025 11:50:15.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4milcar was fireballed by Blaze
+[28Jan2025 11:52:07.166] [Server thread/WARN] [tombstone/]: The death event of the player 4milcar was canceled by another mod
+[28Jan2025 11:52:07.169] [Server thread/INFO] [tombstone/]: The player 4milcar has successfully been saved
+[28Jan2025 11:52:13.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4milcar burned to death
+[28Jan2025 11:52:33.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SirDragon3d has made the advancement [A fortress? No, a citadel!]
+[28Jan2025 11:53:39.965] [Server thread/WARN] [tombstone/]: The death event of the player 4milcar was canceled by another mod
+[28Jan2025 11:53:39.968] [Server thread/INFO] [tombstone/]: The player 4milcar has successfully been saved
+[28Jan2025 11:54:03.769] [Server thread/WARN] [tombstone/]: The death event of the player 4milcar was canceled by another mod
+[28Jan2025 11:54:03.772] [Server thread/INFO] [tombstone/]: The player 4milcar has successfully been saved
+[28Jan2025 11:54:12.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4milcar was fireballed by Wildfire
+[28Jan2025 11:54:37.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4milcar has made the advancement [Drop it like it's hot]
+[28Jan2025 11:56:50.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SirDragon3d has made the advancement [Who is Cutting Onions?]
+[28Jan2025 11:56:56.713] [Server thread/WARN] [tombstone/]: The death event of the player 4milcar was canceled by another mod
+[28Jan2025 11:56:56.716] [Server thread/INFO] [tombstone/]: The player 4milcar has successfully been saved
+[28Jan2025 11:57:03.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4milcar burned to death
+[28Jan2025 11:58:17.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [4milcar: Teleported 4milcar to SirDragon3d]
+[28Jan2025 12:00:47.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4milcar has made the advancement [Hot Stuff]
+[28Jan2025 12:01:45.314] [Server thread/WARN] [tombstone/]: The death event of the player 4milcar was canceled by another mod
+[28Jan2025 12:01:45.317] [Server thread/INFO] [tombstone/]: The player 4milcar has successfully been saved
+[28Jan2025 12:01:55.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4milcar was fireballed by Blaze
+[28Jan2025 12:02:30.068] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/upgrades/PrimaryMatch
+[28Jan2025 12:10:26.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SirDragon3d: Teleported SirDragon3d to 4milcar]
+[28Jan2025 12:10:48.211] [Server thread/WARN] [tombstone/]: The death event of the player 4milcar was canceled by another mod
+[28Jan2025 12:10:48.217] [Server thread/INFO] [tombstone/]: The player 4milcar has successfully been saved
+[28Jan2025 12:10:55.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4milcar was slain by Wither Skeleton
+[28Jan2025 12:13:17.742] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_horse_armor
+[28Jan2025 12:13:21.463] [Server thread/WARN] [tombstone/]: The death event of the player 4milcar was canceled by another mod
+[28Jan2025 12:13:21.468] [Server thread/INFO] [tombstone/]: The player 4milcar has successfully been saved
+[28Jan2025 12:13:31.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4milcar was slain by Wither Skeleton
+[28Jan2025 12:14:10.012] [Server thread/WARN] [tombstone/]: The death event of the player 4milcar was canceled by another mod
+[28Jan2025 12:14:10.016] [Server thread/INFO] [tombstone/]: The player 4milcar has successfully been saved
+[28Jan2025 12:14:18.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SirDragon3d: Teleported 4milcar to SirDragon3d]
+[28Jan2025 12:14:19.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4milcar was slain by Wither Skeleton
+[28Jan2025 12:17:24.468] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[28Jan2025 12:17:24.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> [name:"coso del rey", x:-436, y:75, z:-451, dim:minecraft:the_nether]
+[28Jan2025 12:17:53.615] [Server thread/WARN] [tombstone/]: The death event of the player 4milcar was canceled by another mod
+[28Jan2025 12:17:53.617] [Server thread/INFO] [tombstone/]: The player 4milcar has successfully been saved
+[28Jan2025 12:17:59.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4milcar was fireballed by Blaze
+[28Jan2025 12:18:16.092] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/settings/main/Context
+[28Jan2025 12:18:46.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [4milcar: Teleported 4milcar to SirDragon3d]
+[28Jan2025 12:20:39.265] [Server thread/WARN] [tombstone/]: The death event of the player 4milcar was canceled by another mod
+[28Jan2025 12:20:39.268] [Server thread/INFO] [tombstone/]: The player 4milcar has successfully been saved
+[28Jan2025 12:20:44.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4milcar burned to death
