@@ -350,6 +350,7 @@
       "maple_woods": "2025-01-27 07:25:37 +0000",
       "crystalline_chasm": "2025-01-28 11:26:33 +0000",
       "orchard": "2025-01-27 20:25:43 +0000",
+      "field": "2025-01-28 12:43:08 +0000",
       "lavender_forest": "2025-01-27 20:25:35 +0000",
       "mediterranean_forest": "2025-01-28 10:53:12 +0000",
       "coniferous_forest": "2025-01-27 16:34:17 +0000",
@@ -1591,6 +1592,7 @@
       "bread": "2025-01-27 06:40:42 +0000",
       "golden_apple": "2025-01-28 11:44:15 +0000",
       "suspicious_stew": "2025-01-27 06:53:01 +0000",
+      "rotten_flesh": "2025-01-28 12:44:02 +0000",
       "cod": "2025-01-28 12:12:30 +0000",
       "cooked_salmon": "2025-01-27 06:55:22 +0000"
     },
@@ -8540,6 +8542,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2025-01-28 12:44:41 +0000"
+    },
+    "done": true
+  },
   "ironchest:recipes/decorations/chests/trapped_iron_chest": {
     "criteria": {
       "has_tripwire_hook": "2025-01-28 11:04:44 +0000"
@@ -8599,6 +8607,12 @@
   "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-01-28 11:31:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_grill_cooking": {
+    "criteria": {
+      "has_mutton": "2025-01-28 12:44:41 +0000"
     },
     "done": true
   },
@@ -8773,6 +8787,12 @@
   "ironchest:recipes/decorations/chests/trapped_obsidian_chest": {
     "criteria": {
       "has_tripwire_hook": "2025-01-28 11:04:44 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/cashew_chicken": {
+    "criteria": {
+      "has_cooked_chicken": "2025-01-28 12:45:19 +0000"
     },
     "done": true
   },
@@ -9010,6 +9030,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2025-01-28 12:44:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2025-01-28 11:17:53 +0000"
@@ -9049,6 +9075,12 @@
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_soul_sand": "2025-01-28 11:46:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2025-01-28 12:44:41 +0000"
     },
     "done": true
   },
