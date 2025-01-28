@@ -1608,3 +1608,23 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [28Jan2025 12:20:39.265] [Server thread/WARN] [tombstone/]: The death event of the player 4milcar was canceled by another mod
 [28Jan2025 12:20:39.268] [Server thread/INFO] [tombstone/]: The player 4milcar has successfully been saved
 [28Jan2025 12:20:44.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4milcar burned to death
+[28Jan2025 12:22:39.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [4milcar: Teleported 4milcar to SirDragon3d]
+[28Jan2025 12:22:52.114] [Server thread/WARN] [tombstone/]: The death event of the player 4milcar was canceled by another mod
+[28Jan2025 12:22:52.117] [Server thread/INFO] [tombstone/]: The player 4milcar has successfully been saved
+[28Jan2025 12:23:06.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4milcar was slain by Wither Skeleton
+[28Jan2025 12:24:38.579] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
+[28Jan2025 12:24:46.548] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7944ms or 158 ticks behind
+[28Jan2025 12:24:50.530] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
+[28Jan2025 12:24:50.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SirDragon3d has completed the challenge [Subspace Bubble]
+[28Jan2025 12:25:10.465] [Worker-Main-51/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:angler_additions_3_pool
+[28Jan2025 12:25:10.663] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[28Jan2025 12:25:10.663] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[28Jan2025 12:25:10.665] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[28Jan2025 12:25:10.665] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_end_1_pool
+[28Jan2025 12:25:10.665] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_end_1_pool
+[28Jan2025 12:25:16.243] [Worker-Main-48/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[28Jan2025 12:25:16.243] [Worker-Main-48/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[28Jan2025 12:25:16.243] [Worker-Main-48/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_end_1_pool
+[28Jan2025 12:25:16.244] [Worker-Main-48/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_end_1_pool
+[28Jan2025 12:26:41.260] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/amendments/common/IBellConnection$Type
+[28Jan2025 12:28:00.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SirDragon3d: Teleported SirDragon3d to 4milcar]
