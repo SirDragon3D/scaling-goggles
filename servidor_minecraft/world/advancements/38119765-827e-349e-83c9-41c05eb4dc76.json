@@ -7586,6 +7586,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/chilli_relleno": {
+    "criteria": {
+      "has_egg": "2025-01-28 08:47:41 +0000"
+    },
+    "done": true
+  },
   "mcwfurnituresbop:recipes/fir": {
     "criteria": {
       "has_wood": "2025-01-28 08:32:26 +0000"
@@ -7607,6 +7613,12 @@
   "minecraft:recipes/decorations/grass_washed_black.json": {
     "criteria": {
       "has_grass_block": "2025-01-28 08:35:39 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/scrambled_eggs": {
+    "criteria": {
+      "has_egg": "2025-01-28 08:47:41 +0000"
     },
     "done": true
   },
@@ -7649,6 +7661,12 @@
   "colourfulearth:recipes/decorations/grass_dyed_light_grey": {
     "criteria": {
       "has_grass_block": "2025-01-28 08:35:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-01-28 08:47:41 +0000"
     },
     "done": true
   },
@@ -7742,6 +7760,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/pancake_fd": {
+    "criteria": {
+      "forge:eggs": "2025-01-28 08:47:41 +0000"
+    },
+    "done": true
+  },
   "colourfulearth:recipes/decorations/grass_dyed_white": {
     "criteria": {
       "has_grass_block": "2025-01-28 08:35:39 +0000"
@@ -7766,9 +7790,21 @@
     },
     "done": true
   },
+  "croptopia:recipes/egg_roll": {
+    "criteria": {
+      "has_egg": "2025-01-28 08:47:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/grass_washed_lime.json": {
     "criteria": {
       "has_grass_block": "2025-01-28 08:35:39 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/meringue": {
+    "criteria": {
+      "has_egg": "2025-01-28 08:47:41 +0000"
     },
     "done": true
   },
