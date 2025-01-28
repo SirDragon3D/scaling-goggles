@@ -6654,6 +6654,7 @@
   },
   "croptopia:gather_food": {
     "criteria": {
+      "toast": "2025-01-28 08:14:08 +0000",
       "calamari": "2025-01-27 19:14:18 +0000"
     },
     "done": false
@@ -7550,6 +7551,18 @@
   "spartanshields:recipes/steel_tower_shield": {
     "criteria": {
       "has_steel_ingot": "2025-01-28 08:04:29 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/buttered_toast": {
+    "criteria": {
+      "has_toast": "2025-01-28 08:14:08 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/toast_with_jam": {
+    "criteria": {
+      "has_toast": "2025-01-28 08:14:08 +0000"
     },
     "done": true
   },
