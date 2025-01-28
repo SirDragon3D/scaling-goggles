@@ -337,6 +337,8 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "shrubland": "2025-01-28 12:29:07 +0000",
+      "rocky_shrubland": "2025-01-28 12:30:01 +0000",
       "scrubland": "2025-01-28 10:53:47 +0000",
       "bayou": "2025-01-28 10:47:32 +0000",
       "erupting_inferno": "2025-01-28 11:15:35 +0000",
@@ -8136,6 +8138,12 @@
   "securitycraft:recipes/building_blocks/reinforced_red_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-01-28 10:50:52 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:adventure/way_sign": {
+    "criteria": {
+      "bastion": "2025-01-28 12:35:00 +0000"
     },
     "done": true
   },

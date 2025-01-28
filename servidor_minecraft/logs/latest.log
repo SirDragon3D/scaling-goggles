@@ -1628,3 +1628,25 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [28Jan2025 12:25:16.244] [Worker-Main-48/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_end_1_pool
 [28Jan2025 12:26:41.260] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/amendments/common/IBellConnection$Type
 [28Jan2025 12:28:00.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SirDragon3d: Teleported SirDragon3d to 4milcar]
+[28Jan2025 12:32:13.382] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 4milcar moved too quickly! -0.2362905031250193,-10.339792891463496,2.038673648386066
+[28Jan2025 12:32:44.815] [pool-7-thread-2/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy]] from pos BlockPos{x=-3893, y=74, z=-2981}
+[28Jan2025 12:32:46.022] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-3893, y=74, z=-2980} but found not block entity block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] at location
+[28Jan2025 12:32:46.023] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] but failed at location BlockPos{x=-3893, y=74, z=-2980}
+[28Jan2025 12:32:46.023] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-3893, y=73, z=-2980} but found not block entity block Block{minecraft:lantern}[hanging=true,waterlogged=false] at location
+[28Jan2025 12:32:46.023] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:lantern}[hanging=true,waterlogged=false] but failed at location BlockPos{x=-3893, y=73, z=-2980}
+[28Jan2025 12:32:46.131] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-3893, y=74, z=-2981} but found not block entity block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] at location
+[28Jan2025 12:32:46.132] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] but failed at location BlockPos{x=-3893, y=74, z=-2981}
+[28Jan2025 12:34:57.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4milcar has made the advancement [This Must be a Sign!]
+[28Jan2025 12:35:00.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SirDragon3d has made the advancement [This Must be a Sign!]
+[28Jan2025 12:36:21.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> do you hear me?
+[28Jan2025 12:39:27.610] [Server thread/WARN] [tombstone/]: The death event of the player SirDragon3d was canceled by another mod
+[28Jan2025 12:39:27.615] [Server thread/INFO] [tombstone/]: The player SirDragon3d has successfully been saved
+[28Jan2025 12:39:45.816] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SirDragon3d lost connection: Disconnected
+[28Jan2025 12:39:45.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SirDragon3d left the game
+[28Jan2025 12:39:45.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SirDragon3d was slain by Zombie
+[28Jan2025 12:39:45.872] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[28Jan2025 12:41:14.050] [Worker-Main-48/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[28Jan2025 12:41:14.051] [Worker-Main-48/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[28Jan2025 12:41:14.051] [Worker-Main-48/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[28Jan2025 12:41:14.051] [Worker-Main-48/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_end_1_pool
+[28Jan2025 12:41:14.051] [Worker-Main-48/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_end_1_pool
