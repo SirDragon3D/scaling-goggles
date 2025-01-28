@@ -7574,6 +7574,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/nether_bricks_bridge_stair": {
+    "criteria": {
+      "has_planks": "2025-01-28 08:58:14 +0000"
+    },
+    "done": true
+  },
   "colourfulearth:recipes/decorations/grass_dyed_brown": {
     "criteria": {
       "has_grass_block": "2025-01-28 08:35:39 +0000"
@@ -7598,6 +7604,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/nether_bricks_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-01-28 08:58:14 +0000"
+    },
+    "done": true
+  },
   "colourfulearth:recipes/decorations/grass_dyed_cyan": {
     "criteria": {
       "has_grass_block": "2025-01-28 08:35:39 +0000"
@@ -7613,6 +7625,12 @@
   "minecraft:recipes/decorations/grass_washed_black.json": {
     "criteria": {
       "has_grass_block": "2025-01-28 08:35:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-28 08:58:14 +0000"
     },
     "done": true
   },
@@ -7646,15 +7664,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-28 08:58:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/grass_washed_purple.json": {
     "criteria": {
       "has_grass_block": "2025-01-28 08:35:39 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-28 08:58:14 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/fir_planks": {
     "criteria": {
       "has_logs": "2025-01-28 08:32:26 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/nether_bricks": {
+    "criteria": {
+      "has_planks": "2025-01-28 08:58:14 +0000"
     },
     "done": true
   },
@@ -7724,6 +7760,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-28 08:58:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/grass_washed_white.json": {
     "criteria": {
       "has_grass_block": "2025-01-28 08:35:39 +0000"
@@ -7736,6 +7778,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-28 08:58:14 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_nether_bricks_bridge": {
+    "criteria": {
+      "has_planks": "2025-01-28 08:58:14 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/buttered_toast": {
     "criteria": {
       "has_toast": "2025-01-28 08:14:08 +0000"
@@ -7745,6 +7799,12 @@
   "colourfulearth:recipes/decorations/grass_dyed_light_blue": {
     "criteria": {
       "has_grass_block": "2025-01-28 08:35:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-28 08:58:14 +0000"
     },
     "done": true
   },
@@ -7772,6 +7832,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/nether_bricks_bridge": {
+    "criteria": {
+      "has_planks": "2025-01-28 08:58:14 +0000"
+    },
+    "done": true
+  },
   "spartanshields:recipes/steel_basic_shield": {
     "criteria": {
       "has_steel_ingot": "2025-01-28 08:04:29 +0000"
@@ -7787,6 +7853,18 @@
   "minecraft:recipes/decorations/grass_washed_cyan.json": {
     "criteria": {
       "has_grass_block": "2025-01-28 08:35:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-28 08:58:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-28 08:58:14 +0000"
     },
     "done": true
   },
@@ -7817,6 +7895,12 @@
   "minecraft:recipes/decorations/grass_washed_magenta.json": {
     "criteria": {
       "has_grass_block": "2025-01-28 08:35:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-28 08:58:14 +0000"
     },
     "done": true
   },
