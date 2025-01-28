@@ -7678,6 +7678,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-01-28 09:16:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-01-28 08:58:14 +0000"
@@ -7717,6 +7723,12 @@
   "colourfulearth:recipes/decorations/grass_dyed_light_grey": {
     "criteria": {
       "has_grass_block": "2025-01-28 08:35:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ice_from_freezing": {
+    "criteria": {
+      "has_water": "2025-01-28 09:16:55 +0000"
     },
     "done": true
   },
@@ -7933,6 +7945,12 @@
   "minecraft:recipes/decorations/grass_washed_magenta.json": {
     "criteria": {
       "has_grass_block": "2025-01-28 08:35:39 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_water_bottle": {
+    "criteria": {
+      "has_water": "2025-01-28 09:16:55 +0000"
     },
     "done": true
   },
