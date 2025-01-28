@@ -1669,3 +1669,11 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [28Jan2025 12:49:22.620] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:lantern}[hanging=true,waterlogged=false] but failed at location BlockPos{x=-868, y=92, z=1253}
 [28Jan2025 12:49:23.620] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-869, y=93, z=1253} but found not block entity block Block{minecraft:spruce_fence}[east=true,north=false,south=false,waterlogged=false,west=true] at location
 [28Jan2025 12:49:23.621] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=true,north=false,south=false,waterlogged=false,west=true] but failed at location BlockPos{x=-869, y=93, z=1253}
+[28Jan2025 12:52:41.928] [Worker-Main-51/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=250, y=-19, z=151}
+[28Jan2025 12:52:41.928] [Worker-Main-51/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=250, y=-19, z=149}
+[28Jan2025 12:53:15.414] [Server thread/WARN] [tombstone/]: The death event of the player 4milcar was canceled by another mod
+[28Jan2025 12:53:15.418] [Server thread/INFO] [tombstone/]: The player 4milcar has successfully been saved
+[28Jan2025 12:54:15.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4milcar was shot by Skeleton
+[28Jan2025 12:58:05.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4milcar has made the advancement [The Lighthouse]
+[28Jan2025 12:59:55.316] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/material/MapColor$Brightness
+[28Jan2025 12:59:55.331] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4927ms or 98 ticks behind

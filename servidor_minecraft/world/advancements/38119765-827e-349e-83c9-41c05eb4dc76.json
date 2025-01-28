@@ -8530,6 +8530,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_mangrove_wood": {
+    "criteria": {
+      "has_log": "2025-01-28 12:52:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_planks": {
+    "criteria": {
+      "has_logs": "2025-01-28 12:52:26 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_mangrove_coffee_table": {
+    "criteria": {
+      "has_log": "2025-01-28 12:52:26 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/advanced_feeding_upgrade": {
     "criteria": {
       "has_feeding_upgrade": "2025-01-28 11:44:58 +0000"
@@ -8571,6 +8589,18 @@
   "ironchest:recipes/decorations/chests/trapped_diamond_chest": {
     "criteria": {
       "has_tripwire_hook": "2025-01-28 11:04:44 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_mangrove_upgraded_fence": {
+    "criteria": {
+      "has_log": "2025-01-28 12:52:26 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/stripped_oak_wood_slab": {
+    "criteria": {
+      "has_stripped_oak_wood": "2025-01-28 12:52:31 +0000"
     },
     "done": true
   },
@@ -8760,6 +8790,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_mangrove_bedside_cabinet": {
+    "criteria": {
+      "has_log": "2025-01-28 12:52:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blackstone_stairs": {
     "criteria": {
       "has_blackstone": "2025-01-28 11:24:25 +0000"
@@ -8832,6 +8868,12 @@
     },
     "done": true
   },
+  "new_slab_variants:recipes/building_blocks/stripped_mangrove_log_slab": {
+    "criteria": {
+      "has_stripped_mangrove_log": "2025-01-28 12:52:26 +0000"
+    },
+    "done": true
+  },
   "new_slab_variants:recipes/building_blocks/soul_sand_slab": {
     "criteria": {
       "has_soul_sand": "2025-01-28 11:46:26 +0000"
@@ -8850,9 +8892,21 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_mangrove_park_bench": {
+    "criteria": {
+      "has_planks": "2025-01-28 12:52:26 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/blackstone_bridge_pier": {
     "criteria": {
       "has_planks": "2025-01-28 11:24:25 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_mangrove_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-01-28 12:52:26 +0000"
     },
     "done": true
   },
@@ -8865,6 +8919,12 @@
   "minecraft:recipes/building_blocks/polished_basalt": {
     "criteria": {
       "has_basalt": "2025-01-28 11:24:25 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_mangrove_chair": {
+    "criteria": {
+      "has_log": "2025-01-28 12:52:26 +0000"
     },
     "done": true
   },
@@ -8904,6 +8964,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_mangrove_blinds": {
+    "criteria": {
+      "has_log": "2025-01-28 12:52:26 +0000"
+    },
+    "done": true
+  },
   "spartanshields:recipes/obsidian_tower_shield": {
     "criteria": {
       "has_obsidian": "2025-01-28 11:34:51 +0000"
@@ -8931,6 +8997,12 @@
   "supplementaries:recipes/globe_sepia": {
     "criteria": {
       "has_globe": "2025-01-28 12:35:42 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_mangrove_table": {
+    "criteria": {
+      "has_log": "2025-01-28 12:52:26 +0000"
     },
     "done": true
   },
@@ -8970,6 +9042,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_mangrove_cabinet": {
+    "criteria": {
+      "has_planks": "2025-01-28 12:52:26 +0000"
+    },
+    "done": true
+  },
   "ironchest:recipes/decorations/chests/trapped_dirt_chest": {
     "criteria": {
       "has_tripwire_hook": "2025-01-28 11:04:44 +0000"
@@ -8982,6 +9060,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mangrove_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-01-28 12:52:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_nether_bricks": {
     "criteria": {
       "has_nether_wart": "2025-01-28 11:42:43 +0000"
@@ -8991,6 +9075,12 @@
   "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-01-28 11:24:25 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_mangrove_desk": {
+    "criteria": {
+      "has_log": "2025-01-28 12:52:26 +0000"
     },
     "done": true
   },
@@ -9096,6 +9186,18 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_mangrove_desk_cabinet": {
+    "criteria": {
+      "has_log": "2025-01-28 12:52:26 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_mangrove_crate": {
+    "criteria": {
+      "has_log": "2025-01-28 12:52:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_blaze_rod": "2025-01-28 11:43:37 +0000"
@@ -9129,6 +9231,12 @@
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
       "has_obsidian": "2025-01-28 11:34:51 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_mangrove_upgraded_gate": {
+    "criteria": {
+      "has_log": "2025-01-28 12:52:26 +0000"
     },
     "done": true
   },
