@@ -629,6 +629,7 @@
       "minecraft:deep_frozen_ocean": "2025-01-27 06:45:04 +0000",
       "minecraft:snowy_beach": "2025-01-27 07:22:03 +0000",
       "minecraft:flower_forest": "2025-01-27 20:19:20 +0000",
+      "minecraft:frozen_peaks": "2025-01-28 08:40:39 +0000",
       "minecraft:deep_dark": "2025-01-27 17:00:50 +0000",
       "minecraft:meadow": "2025-01-27 17:33:05 +0000",
       "minecraft:plains": "2025-01-27 17:42:49 +0000"
@@ -1500,6 +1501,7 @@
       "minecraft:creeper": "2025-01-27 17:02:32 +0000",
       "minecraft:wither_skeleton": "2025-01-27 17:55:44 +0000",
       "minecraft:stray": "2025-01-27 17:55:28 +0000",
+      "minecraft:enderman": "2025-01-28 08:35:39 +0000",
       "minecraft:zombie": "2025-01-27 06:05:42 +0000",
       "minecraft:drowned": "2025-01-27 07:03:10 +0000"
     },
@@ -7548,9 +7550,171 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/grass_washed_brown.json": {
+    "criteria": {
+      "has_grass_block": "2025-01-28 08:35:39 +0000"
+    },
+    "done": true
+  },
   "spartanshields:recipes/steel_tower_shield": {
     "criteria": {
       "has_steel_ingot": "2025-01-28 08:04:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grass_washed_blue.json": {
+    "criteria": {
+      "has_grass_block": "2025-01-28 08:35:39 +0000"
+    },
+    "done": true
+  },
+  "colourfulearth:recipes/decorations/grass_dyed_yellow": {
+    "criteria": {
+      "has_grass_block": "2025-01-28 08:35:39 +0000"
+    },
+    "done": true
+  },
+  "colourfulearth:recipes/decorations/grass_dyed_brown": {
+    "criteria": {
+      "has_grass_block": "2025-01-28 08:35:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grass_washed_pink.json": {
+    "criteria": {
+      "has_grass_block": "2025-01-28 08:35:39 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnituresbop:recipes/fir": {
+    "criteria": {
+      "has_wood": "2025-01-28 08:32:26 +0000"
+    },
+    "done": true
+  },
+  "colourfulearth:recipes/decorations/grass_dyed_cyan": {
+    "criteria": {
+      "has_grass_block": "2025-01-28 08:35:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grass_washed_grey.json": {
+    "criteria": {
+      "has_grass_block": "2025-01-28 08:35:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grass_washed_black.json": {
+    "criteria": {
+      "has_grass_block": "2025-01-28 08:35:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grass_washed_light_blue.json": {
+    "criteria": {
+      "has_grass_block": "2025-01-28 08:35:39 +0000"
+    },
+    "done": true
+  },
+  "colourfulearth:recipes/decorations/grass_dyed_blue": {
+    "criteria": {
+      "has_grass_block": "2025-01-28 08:35:39 +0000"
+    },
+    "done": true
+  },
+  "croptopia:eatcrafted": {
+    "criteria": {
+      "eat_crafted": "2025-01-28 08:30:58 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/fir_wood": {
+    "criteria": {
+      "has_log": "2025-01-28 08:32:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grass_washed_purple.json": {
+    "criteria": {
+      "has_grass_block": "2025-01-28 08:35:39 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/fir_planks": {
+    "criteria": {
+      "has_logs": "2025-01-28 08:32:26 +0000"
+    },
+    "done": true
+  },
+  "colourfulearth:recipes/decorations/grass_dyed_light_grey": {
+    "criteria": {
+      "has_grass_block": "2025-01-28 08:35:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grass_washed_orange.json": {
+    "criteria": {
+      "has_grass_block": "2025-01-28 08:35:39 +0000"
+    },
+    "done": true
+  },
+  "colourfulearth:recipes/decorations/grass_dyed_red": {
+    "criteria": {
+      "has_grass_block": "2025-01-28 08:35:39 +0000"
+    },
+    "done": true
+  },
+  "colourfulearth:recipes/decorations/grass_dyed_magenta": {
+    "criteria": {
+      "has_grass_block": "2025-01-28 08:35:39 +0000"
+    },
+    "done": true
+  },
+  "colourfulearth:recipes/decorations/grass_dyed_grey": {
+    "criteria": {
+      "has_grass_block": "2025-01-28 08:35:39 +0000"
+    },
+    "done": true
+  },
+  "colourfulearth:recipes/decorations/grass_dyed_green": {
+    "criteria": {
+      "has_grass_block": "2025-01-28 08:35:39 +0000"
+    },
+    "done": true
+  },
+  "colourfulearth:recipes/decorations/grass_dyed_black": {
+    "criteria": {
+      "has_grass_block": "2025-01-28 08:35:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grass_washed_light_grey.json": {
+    "criteria": {
+      "has_grass_block": "2025-01-28 08:35:39 +0000"
+    },
+    "done": true
+  },
+  "colourfulearth:recipes/decorations/grass_dyed_orange": {
+    "criteria": {
+      "has_grass_block": "2025-01-28 08:35:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grass_washed_yellow.json": {
+    "criteria": {
+      "has_grass_block": "2025-01-28 08:35:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grass_washed_white.json": {
+    "criteria": {
+      "has_grass_block": "2025-01-28 08:35:39 +0000"
+    },
+    "done": true
+  },
+  "colourfulearth:recipes/decorations/grass_dyed_lime": {
+    "criteria": {
+      "has_grass_block": "2025-01-28 08:35:39 +0000"
     },
     "done": true
   },
@@ -7560,15 +7724,69 @@
     },
     "done": true
   },
+  "colourfulearth:recipes/decorations/grass_dyed_light_blue": {
+    "criteria": {
+      "has_grass_block": "2025-01-28 08:35:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grass_washed_red.json": {
+    "criteria": {
+      "has_grass_block": "2025-01-28 08:35:39 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/toast_with_jam": {
     "criteria": {
       "has_toast": "2025-01-28 08:14:08 +0000"
     },
     "done": true
   },
+  "colourfulearth:recipes/decorations/grass_dyed_white": {
+    "criteria": {
+      "has_grass_block": "2025-01-28 08:35:39 +0000"
+    },
+    "done": true
+  },
   "spartanshields:recipes/steel_basic_shield": {
     "criteria": {
       "has_steel_ingot": "2025-01-28 08:04:29 +0000"
+    },
+    "done": true
+  },
+  "colourfulearth:recipes/decorations/grass_dyed_purple": {
+    "criteria": {
+      "has_grass_block": "2025-01-28 08:35:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grass_washed_cyan.json": {
+    "criteria": {
+      "has_grass_block": "2025-01-28 08:35:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grass_washed_lime.json": {
+    "criteria": {
+      "has_grass_block": "2025-01-28 08:35:39 +0000"
+    },
+    "done": true
+  },
+  "colourfulearth:recipes/decorations/grass_dyed_pink": {
+    "criteria": {
+      "has_grass_block": "2025-01-28 08:35:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grass_washed_magenta.json": {
+    "criteria": {
+      "has_grass_block": "2025-01-28 08:35:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grass_washed_green.json": {
+    "criteria": {
+      "has_grass_block": "2025-01-28 08:35:39 +0000"
     },
     "done": true
   },
