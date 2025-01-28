@@ -7547,5 +7547,17 @@
     },
     "done": true
   },
+  "spartanshields:recipes/steel_tower_shield": {
+    "criteria": {
+      "has_steel_ingot": "2025-01-28 08:04:29 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/steel_basic_shield": {
+    "criteria": {
+      "has_steel_ingot": "2025-01-28 08:04:29 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
