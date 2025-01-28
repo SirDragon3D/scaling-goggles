@@ -2912,8 +2912,10 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2025-01-28 11:41:42 +0000",
       "minecraft:pillager": "2025-01-28 11:11:45 +0000",
       "minecraft:skeleton": "2025-01-27 06:00:05 +0000",
+      "minecraft:ghast": "2025-01-28 11:39:22 +0000",
       "minecraft:vindicator": "2025-01-28 09:53:54 +0000",
       "minecraft:magma_cube": "2025-01-28 11:22:16 +0000",
       "minecraft:spider": "2025-01-27 05:59:08 +0000",
@@ -3114,6 +3116,7 @@
       "bread": "2025-01-27 19:27:25 +0000",
       "rotten_flesh": "2025-01-27 06:44:49 +0000",
       "suspicious_stew": "2025-01-27 06:53:06 +0000",
+      "golden_carrot": "2025-01-28 11:45:28 +0000",
       "cooked_chicken": "2025-01-27 07:53:28 +0000",
       "cooked_salmon": "2025-01-27 06:53:35 +0000"
     },
@@ -7930,6 +7933,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-01-28 11:46:28 +0000"
+    },
+    "done": true
+  },
   "ironchest:recipes/decorations/chests/trapped_copper_chest": {
     "criteria": {
       "has_tripwire_hook": "2025-01-28 11:04:14 +0000"
@@ -8302,6 +8311,12 @@
     },
     "done": true
   },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "in_better_fortress": "2025-01-28 11:40:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_netherrack": "2025-01-28 11:19:33 +0000"
@@ -8620,6 +8635,12 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-01-28 11:41:32 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_bathhouse": {
     "criteria": {
       "location0": "2025-01-28 11:03:28 +0000"
@@ -8692,6 +8713,12 @@
     },
     "done": true
   },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2025-01-28 11:39:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2025-01-28 10:49:47 +0000"
@@ -8701,6 +8728,12 @@
   "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-01-28 11:24:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-01-28 11:46:28 +0000"
     },
     "done": true
   },
@@ -8749,6 +8782,18 @@
   "securitycraft:recipes/building_blocks/reinforced_pink_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-28 10:50:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-01-28 11:41:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-01-28 11:46:28 +0000"
     },
     "done": true
   },

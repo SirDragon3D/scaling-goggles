@@ -1511,7 +1511,9 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-01-28 09:50:50 +0000",
+      "minecraft:blaze": "2025-01-28 11:41:22 +0000",
       "minecraft:skeleton": "2025-01-27 06:54:26 +0000",
+      "minecraft:ghast": "2025-01-28 11:39:25 +0000",
       "minecraft:hoglin": "2025-01-28 11:30:31 +0000",
       "minecraft:vindicator": "2025-01-28 09:47:56 +0000",
       "minecraft:spider": "2025-01-27 07:32:40 +0000",
@@ -1584,6 +1586,7 @@
       "cooked_cod": "2025-01-27 07:03:03 +0000",
       "pumpkin_pie": "2025-01-28 11:05:12 +0000",
       "bread": "2025-01-27 06:40:42 +0000",
+      "golden_apple": "2025-01-28 11:44:15 +0000",
       "suspicious_stew": "2025-01-27 06:53:01 +0000",
       "cooked_salmon": "2025-01-27 06:55:22 +0000"
     },
@@ -8521,6 +8524,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/advanced_feeding_upgrade": {
+    "criteria": {
+      "has_feeding_upgrade": "2025-01-28 11:44:58 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/pork_jerky": {
     "criteria": {
       "has_pork": "2025-01-28 11:30:31 +0000"
@@ -8569,6 +8578,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-01-28 11:43:37 +0000"
+    },
+    "done": true
+  },
   "ironchest:recipes/decorations/chests/trapped_copper_chest": {
     "criteria": {
       "has_tripwire_hook": "2025-01-28 11:04:44 +0000"
@@ -8614,6 +8629,12 @@
   "supplementaries:recipes/blackstone_tile": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-01-28 11:31:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-01-28 11:46:26 +0000"
     },
     "done": true
   },
@@ -8767,6 +8788,12 @@
     },
     "done": true
   },
+  "new_slab_variants:recipes/building_blocks/soul_sand_slab": {
+    "criteria": {
+      "has_soul_sand": "2025-01-28 11:46:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-01-28 11:31:29 +0000"
@@ -8782,6 +8809,12 @@
   "mcwbridges:recipes/blackstone_bridge_pier": {
     "criteria": {
       "has_planks": "2025-01-28 11:24:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "in_better_fortress": "2025-01-28 11:40:54 +0000"
     },
     "done": true
   },
@@ -8821,6 +8854,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/shaped_netherwart_stew": {
+    "criteria": {
+      "has_nether_wart": "2025-01-28 11:42:43 +0000"
+    },
+    "done": true
+  },
   "spartanshields:recipes/obsidian_tower_shield": {
     "criteria": {
       "has_obsidian": "2025-01-28 11:34:51 +0000"
@@ -8842,6 +8881,12 @@
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2025-01-28 11:17:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-01-28 11:42:43 +0000"
     },
     "done": true
   },
@@ -8884,6 +8929,12 @@
   "croptopia:recipes/shaped_bacon": {
     "criteria": {
       "has_porkchop": "2025-01-28 11:30:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-01-28 11:42:43 +0000"
     },
     "done": true
   },
@@ -8935,6 +8986,12 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-01-28 11:45:20 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_bathhouse": {
     "criteria": {
       "location0": "2025-01-28 11:03:17 +0000"
@@ -8959,6 +9016,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-01-28 11:46:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-01-28 11:24:25 +0000"
@@ -8968,6 +9031,12 @@
   "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-01-28 11:24:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-01-28 11:43:37 +0000"
     },
     "done": true
   },
@@ -8983,6 +9052,12 @@
     },
     "done": true
   },
+  "friendsandfoes:nether/find_citadel": {
+    "criteria": {
+      "citadel": "2025-01-28 11:45:31 +0000"
+    },
+    "done": true
+  },
   "new_slab_variants:recipes/building_blocks/cracked_polished_blackstone_bricks_slab": {
     "criteria": {
       "has_cracked_polished_blackstone_bricks": "2025-01-28 11:31:27 +0000"
@@ -8992,6 +9067,18 @@
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
       "has_obsidian": "2025-01-28 11:34:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-01-28 11:45:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-01-28 11:43:37 +0000"
     },
     "done": true
   },

@@ -1558,3 +1558,11 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [28Jan2025 11:40:45.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [4milcar: Teleported 4milcar to SirDragon3d]
 [28Jan2025 11:40:54.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SirDragon3d has made the advancement [A Terrible Fortress]
 [28Jan2025 11:40:54.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4milcar has made the advancement [A Terrible Fortress]
+[28Jan2025 11:41:32.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SirDragon3d has made the advancement [Spooky Scary Skeleton]
+[28Jan2025 11:43:37.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4milcar has made the advancement [Into Fire]
+[28Jan2025 11:45:20.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4milcar has made the advancement [Spooky Scary Skeleton]
+[28Jan2025 11:45:31.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4milcar has made the advancement [A fortress? No, a citadel!]
+[28Jan2025 11:46:28.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SirDragon3d has made the advancement [Into Fire]
+[28Jan2025 11:49:54.065] [Server thread/WARN] [tombstone/]: The death event of the player 4milcar was canceled by another mod
+[28Jan2025 11:49:54.067] [Server thread/INFO] [tombstone/]: The player 4milcar has successfully been saved
+[28Jan2025 11:50:15.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4milcar was fireballed by Blaze
