@@ -2914,6 +2914,7 @@
       "minecraft:creeper": "2025-01-27 05:59:57 +0000",
       "minecraft:phantom": "2025-01-28 09:55:01 +0000",
       "minecraft:wither_skeleton": "2025-01-27 17:58:56 +0000",
+      "minecraft:husk": "2025-01-28 11:05:55 +0000",
       "minecraft:cave_spider": "2025-01-27 17:18:18 +0000",
       "minecraft:enderman": "2025-01-27 16:26:34 +0000",
       "minecraft:stray": "2025-01-27 17:51:39 +0000",
@@ -7823,6 +7824,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/grass_washed_brown.json": {
+    "criteria": {
+      "has_grass_block": "2025-01-28 11:02:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-28 10:50:52 +0000"
@@ -7832,6 +7839,12 @@
   "securitycraft:recipes/building_blocks/reinforced_glass_pane": {
     "criteria": {
       "has_glass": "2025-01-28 10:50:52 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/trapped_iron_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-01-28 11:04:14 +0000"
     },
     "done": true
   },
@@ -7847,9 +7860,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/grass_washed_blue.json": {
+    "criteria": {
+      "has_grass_block": "2025-01-28 11:02:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-28 10:50:52 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/trapped_diamond_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-01-28 11:04:14 +0000"
+    },
+    "done": true
+  },
+  "colourfulearth:recipes/decorations/grass_dyed_yellow": {
+    "criteria": {
+      "has_grass_block": "2025-01-28 11:02:31 +0000"
     },
     "done": true
   },
@@ -7865,9 +7896,21 @@
     },
     "done": true
   },
+  "ironchest:recipes/decorations/chests/trapped_copper_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-01-28 11:04:14 +0000"
+    },
+    "done": true
+  },
   "ironchest:recipes/decorations/upgrades/gold_to_diamond_chest_upgrade": {
     "criteria": {
       "has_glass": "2025-01-28 10:50:52 +0000"
+    },
+    "done": true
+  },
+  "colourfulearth:recipes/decorations/grass_dyed_brown": {
+    "criteria": {
+      "has_grass_block": "2025-01-28 11:02:31 +0000"
     },
     "done": true
   },
@@ -7919,6 +7962,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/grass_washed_pink.json": {
+    "criteria": {
+      "has_grass_block": "2025-01-28 11:02:31 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/glass_bridge_stair": {
     "criteria": {
       "has_planks": "2025-01-28 10:50:52 +0000"
@@ -7961,9 +8010,27 @@
     },
     "done": true
   },
+  "colourfulearth:recipes/decorations/grass_dyed_cyan": {
+    "criteria": {
+      "has_grass_block": "2025-01-28 11:02:31 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/trapped_crystal_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-01-28 11:04:14 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_magenta_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-28 10:50:52 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/trapped_gold_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-01-28 11:04:14 +0000"
     },
     "done": true
   },
@@ -7979,6 +8046,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/grass_washed_grey.json": {
+    "criteria": {
+      "has_grass_block": "2025-01-28 11:02:31 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_yellow_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-01-28 10:50:52 +0000"
@@ -7988,6 +8061,18 @@
   "securitycraft:recipes/building_blocks/reinforced_green_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-01-28 10:50:52 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/trapped_obsidian_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-01-28 11:04:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grass_washed_black.json": {
+    "criteria": {
+      "has_grass_block": "2025-01-28 11:02:31 +0000"
     },
     "done": true
   },
@@ -8006,6 +8091,18 @@
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-28 10:50:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grass_washed_light_blue.json": {
+    "criteria": {
+      "has_grass_block": "2025-01-28 11:02:31 +0000"
+    },
+    "done": true
+  },
+  "colourfulearth:recipes/decorations/grass_dyed_blue": {
+    "criteria": {
+      "has_grass_block": "2025-01-28 11:02:31 +0000"
     },
     "done": true
   },
@@ -8045,6 +8142,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/grass_washed_purple.json": {
+    "criteria": {
+      "has_grass_block": "2025-01-28 11:02:31 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_purple_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-28 10:50:52 +0000"
@@ -8063,6 +8166,12 @@
     },
     "done": true
   },
+  "colourfulearth:recipes/decorations/grass_dyed_light_grey": {
+    "criteria": {
+      "has_grass_block": "2025-01-28 11:02:31 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_red_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-01-28 10:50:52 +0000"
@@ -8072,6 +8181,30 @@
   "securitycraft:recipes/building_blocks/reinforced_brown_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-01-28 10:50:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grass_washed_orange.json": {
+    "criteria": {
+      "has_grass_block": "2025-01-28 11:02:31 +0000"
+    },
+    "done": true
+  },
+  "colourfulearth:recipes/decorations/grass_dyed_red": {
+    "criteria": {
+      "has_grass_block": "2025-01-28 11:02:31 +0000"
+    },
+    "done": true
+  },
+  "colourfulearth:recipes/decorations/grass_dyed_magenta": {
+    "criteria": {
+      "has_grass_block": "2025-01-28 11:02:31 +0000"
+    },
+    "done": true
+  },
+  "colourfulearth:recipes/decorations/grass_dyed_grey": {
+    "criteria": {
+      "has_grass_block": "2025-01-28 11:02:31 +0000"
     },
     "done": true
   },
@@ -8105,6 +8238,18 @@
     },
     "done": true
   },
+  "colourfulearth:recipes/decorations/grass_dyed_green": {
+    "criteria": {
+      "has_grass_block": "2025-01-28 11:02:31 +0000"
+    },
+    "done": true
+  },
+  "colourfulearth:recipes/decorations/grass_dyed_black": {
+    "criteria": {
+      "has_grass_block": "2025-01-28 11:02:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-28 10:50:52 +0000"
@@ -8117,9 +8262,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/grass_washed_light_grey.json": {
+    "criteria": {
+      "has_grass_block": "2025-01-28 11:02:31 +0000"
+    },
+    "done": true
+  },
+  "colourfulearth:recipes/decorations/grass_dyed_orange": {
+    "criteria": {
+      "has_grass_block": "2025-01-28 11:02:31 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_white_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-01-28 10:50:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grass_washed_yellow.json": {
+    "criteria": {
+      "has_grass_block": "2025-01-28 11:02:31 +0000"
     },
     "done": true
   },
@@ -8129,9 +8292,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/grass_washed_white.json": {
+    "criteria": {
+      "has_grass_block": "2025-01-28 11:02:31 +0000"
+    },
+    "done": true
+  },
+  "colourfulearth:recipes/decorations/grass_dyed_lime": {
+    "criteria": {
+      "has_grass_block": "2025-01-28 11:02:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-01-28 11:04:14 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_magenta_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-01-28 10:50:52 +0000"
+    },
+    "done": true
+  },
+  "colourfulearth:recipes/decorations/grass_dyed_light_blue": {
+    "criteria": {
+      "has_grass_block": "2025-01-28 11:02:31 +0000"
     },
     "done": true
   },
@@ -8144,6 +8331,18 @@
   "minecraft:recipes/building_blocks/lime_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-28 10:50:52 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/trapped_dirt_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-01-28 11:04:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grass_washed_red.json": {
+    "criteria": {
+      "has_grass_block": "2025-01-28 11:02:31 +0000"
     },
     "done": true
   },
@@ -8171,9 +8370,27 @@
     },
     "done": true
   },
+  "colourfulearth:recipes/decorations/grass_dyed_white": {
+    "criteria": {
+      "has_grass_block": "2025-01-28 11:02:31 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_pink_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-01-28 10:50:52 +0000"
+    },
+    "done": true
+  },
+  "colourfulearth:recipes/decorations/grass_dyed_purple": {
+    "criteria": {
+      "has_grass_block": "2025-01-28 11:02:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grass_washed_cyan.json": {
+    "criteria": {
+      "has_grass_block": "2025-01-28 11:02:31 +0000"
     },
     "done": true
   },
@@ -8207,6 +8424,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/grass_washed_lime.json": {
+    "criteria": {
+      "has_grass_block": "2025-01-28 11:02:31 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_bathhouse": {
+    "criteria": {
+      "location0": "2025-01-28 11:03:28 +0000"
+    },
+    "done": true
+  },
+  "colourfulearth:recipes/decorations/grass_dyed_pink": {
+    "criteria": {
+      "has_grass_block": "2025-01-28 11:02:31 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_orange_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-01-28 10:50:52 +0000"
@@ -8216,6 +8451,12 @@
   "new_slab_variants:recipes/building_blocks/glass_slab": {
     "criteria": {
       "has_glass": "2025-01-28 10:50:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grass_washed_magenta.json": {
+    "criteria": {
+      "has_grass_block": "2025-01-28 11:02:31 +0000"
     },
     "done": true
   },
@@ -8276,6 +8517,12 @@
   "mcwroofs:recipes/concrete": {
     "criteria": {
       "has_planks": "2025-01-28 10:49:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grass_washed_green.json": {
+    "criteria": {
+      "has_grass_block": "2025-01-28 11:02:31 +0000"
     },
     "done": true
   },

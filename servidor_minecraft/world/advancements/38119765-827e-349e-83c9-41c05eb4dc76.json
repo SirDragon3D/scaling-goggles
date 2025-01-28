@@ -1514,6 +1514,7 @@
       "minecraft:creeper": "2025-01-27 17:02:32 +0000",
       "minecraft:witch": "2025-01-28 10:50:04 +0000",
       "minecraft:wither_skeleton": "2025-01-27 17:55:44 +0000",
+      "minecraft:husk": "2025-01-28 11:05:58 +0000",
       "minecraft:stray": "2025-01-27 17:55:28 +0000",
       "minecraft:enderman": "2025-01-28 08:35:39 +0000",
       "minecraft:silverfish": "2025-01-28 09:01:34 +0000",
@@ -1575,6 +1576,7 @@
       "cooked_beef": "2025-01-27 16:15:50 +0000",
       "baked_potato": "2025-01-27 17:46:13 +0000",
       "cooked_cod": "2025-01-27 07:03:03 +0000",
+      "pumpkin_pie": "2025-01-28 11:05:12 +0000",
       "bread": "2025-01-27 06:40:42 +0000",
       "suspicious_stew": "2025-01-27 06:53:01 +0000",
       "cooked_salmon": "2025-01-27 06:55:22 +0000"
@@ -8504,6 +8506,72 @@
   "tombstone:adventure/strong_or_careful": {
     "criteria": {
       "coded_trigger": "2025-01-28 09:53:17 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/trapped_iron_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-01-28 11:04:44 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/trapped_diamond_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-01-28 11:04:44 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/trapped_copper_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-01-28 11:04:44 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/fortuitous_militia": {
+    "criteria": {
+      "coded_trigger": "2025-01-28 10:59:59 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/feather_block": {
+    "criteria": {
+      "has_feather": "2025-01-28 10:57:20 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/trapped_crystal_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-01-28 11:04:44 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/trapped_gold_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-01-28 11:04:44 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/trapped_obsidian_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-01-28 11:04:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-01-28 11:04:44 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/trapped_dirt_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-01-28 11:04:44 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_bathhouse": {
+    "criteria": {
+      "location0": "2025-01-28 11:03:17 +0000"
     },
     "done": true
   },

@@ -1482,3 +1482,43 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [28Jan2025 10:58:39.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SirDragon3d: Set the weather to clear]
 [28Jan2025 10:58:55.808] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
 [28Jan2025 10:59:59.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4milcar has reached the goal [Fortuitous Militia]
+[28Jan2025 11:01:15.148] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-201}
+[28Jan2025 11:01:15.150] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-58, z=-205}
+[28Jan2025 11:01:15.407] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-193, y=-45, z=-211}
+[28Jan2025 11:01:15.408] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-210}
+[28Jan2025 11:01:15.408] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-49, z=-219}
+[28Jan2025 11:01:15.409] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-211}
+[28Jan2025 11:01:15.409] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=-45, z=-211}
+[28Jan2025 11:02:08.595] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting xiroc/dungeoncrawl/dungeon/Tile$Flag
+[28Jan2025 11:02:22.423] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_4_pool
+[28Jan2025 11:02:22.424] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_2_pool
+[28Jan2025 11:02:22.424] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_1_pool
+[28Jan2025 11:02:22.424] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:angler_additions_3_pool
+[28Jan2025 11:02:22.424] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
+[28Jan2025 11:02:22.425] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[28Jan2025 11:02:22.425] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[28Jan2025 11:02:22.425] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[28Jan2025 11:03:23.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SirDragon3d: Teleported SirDragon3d to 4milcar]
+[28Jan2025 11:05:23.348] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/moonlight/api/entity/ImprovedProjectileEntity$ColliderType
+[28Jan2025 11:05:25.077] [Server thread/WARN] [tombstone/]: The death event of the player 4milcar was canceled by another mod
+[28Jan2025 11:05:25.086] [Server thread/INFO] [tombstone/]: The player 4milcar has successfully been saved
+[28Jan2025 11:05:59.762] [Server thread/WARN] [tombstone/]: The death event of the player 4milcar was canceled by another mod
+[28Jan2025 11:05:59.767] [Server thread/INFO] [tombstone/]: The player 4milcar has successfully been saved
+[28Jan2025 11:06:15.115] [Server thread/WARN] [tombstone/]: The death event of the player 4milcar was canceled by another mod
+[28Jan2025 11:06:15.119] [Server thread/INFO] [tombstone/]: The player 4milcar has successfully been saved
+[28Jan2025 11:06:15.666] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/Helper$RomanNumeral
+[28Jan2025 11:06:17.014] [Server thread/WARN] [tombstone/]: The death event of the player SirDragon3d was canceled by another mod
+[28Jan2025 11:06:17.019] [Server thread/INFO] [tombstone/]: The player SirDragon3d has successfully been saved
+[28Jan2025 11:06:28.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4milcar was killed by Area Effect Cloud using magic
+[28Jan2025 11:06:28.421] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/SpawnHelper$SpawnResult
+[28Jan2025 11:06:29.673] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tictim/paraglider/impl/vessel/SimpleVesselContainer$ActionType
+[28Jan2025 11:06:29.673] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tictim/paraglider/api/vessel/VesselContainer$SetResult
+[28Jan2025 11:06:33.075] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/item/ItemCastableMagic$CastingTarget
+[28Jan2025 11:06:40.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [4milcar: Teleported 4milcar to SirDragon3d]
+[28Jan2025 11:07:14.812] [Server thread/WARN] [tombstone/]: The death event of the player 4milcar was canceled by another mod
+[28Jan2025 11:07:14.815] [Server thread/INFO] [tombstone/]: The player 4milcar has successfully been saved
+[28Jan2025 11:07:23.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4milcar was slain by Husk
+[28Jan2025 11:07:56.812] [Server thread/WARN] [tombstone/]: The death event of the player 4milcar was canceled by another mod
+[28Jan2025 11:07:56.818] [Server thread/INFO] [tombstone/]: The player 4milcar has successfully been saved
+[28Jan2025 11:08:06.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4milcar was slain by Husk
+[28Jan2025 11:08:12.741] [Netty Epoll Server IO #2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/network/SMessageUpgradePerk$SyncType
