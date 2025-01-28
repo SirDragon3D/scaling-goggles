@@ -1544,3 +1544,17 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [28Jan2025 11:29:49.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SirDragon3d has made the advancement [Those Were the Days]
 [28Jan2025 11:29:51.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4milcar has made the advancement [Those Were the Days]
 [28Jan2025 11:30:22.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [4milcar: Teleported 4milcar to SirDragon3d]
+[28Jan2025 11:33:04.462] [Server thread/WARN] [tombstone/]: The death event of the player SirDragon3d was canceled by another mod
+[28Jan2025 11:33:04.467] [Server thread/INFO] [tombstone/]: The player SirDragon3d has successfully been saved
+[28Jan2025 11:33:17.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SirDragon3d: Teleported SirDragon3d to 4milcar]
+[28Jan2025 11:34:18.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4milcar has made the advancement [War Pigs]
+[28Jan2025 11:34:26.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SirDragon3d has made the advancement [War Pigs]
+[28Jan2025 11:34:51.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4milcar has made the advancement [Ice Bucket Challenge]
+[28Jan2025 11:36:24.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SirDragon3d: Teleported SirDragon3d to 4milcar]
+[28Jan2025 11:37:25.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SirDragon3d: Teleported SirDragon3d to 4milcar]
+[28Jan2025 11:38:26.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SirDragon3d: Teleported 4milcar to SirDragon3d]
+[28Jan2025 11:39:22.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SirDragon3d has completed the challenge [Return to Sender]
+[28Jan2025 11:39:44.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SirDragon3d: Teleported SirDragon3d to 4milcar]
+[28Jan2025 11:40:45.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [4milcar: Teleported 4milcar to SirDragon3d]
+[28Jan2025 11:40:54.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SirDragon3d has made the advancement [A Terrible Fortress]
+[28Jan2025 11:40:54.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4milcar has made the advancement [A Terrible Fortress]

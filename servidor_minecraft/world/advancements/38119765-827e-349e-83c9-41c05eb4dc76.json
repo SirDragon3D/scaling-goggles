@@ -359,6 +359,7 @@
       "lavender_field": "2025-01-27 19:33:34 +0000",
       "fir_clearing": "2025-01-27 17:29:16 +0000",
       "grassland": "2025-01-27 20:26:42 +0000",
+      "undergrowth": "2025-01-28 11:30:00 +0000",
       "rainforest": "2025-01-27 20:36:20 +0000",
       "snowy_maple_woods": "2025-01-27 06:04:43 +0000",
       "crag": "2025-01-27 17:32:36 +0000"
@@ -1511,8 +1512,10 @@
     "criteria": {
       "minecraft:pillager": "2025-01-28 09:50:50 +0000",
       "minecraft:skeleton": "2025-01-27 06:54:26 +0000",
+      "minecraft:hoglin": "2025-01-28 11:30:31 +0000",
       "minecraft:vindicator": "2025-01-28 09:47:56 +0000",
       "minecraft:spider": "2025-01-27 07:32:40 +0000",
+      "minecraft:piglin_brute": "2025-01-28 11:30:53 +0000",
       "minecraft:creeper": "2025-01-27 17:02:32 +0000",
       "minecraft:witch": "2025-01-28 10:50:04 +0000",
       "minecraft:wither_skeleton": "2025-01-27 17:55:44 +0000",
@@ -8512,9 +8515,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-01-28 11:31:29 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/pork_jerky": {
+    "criteria": {
+      "has_pork": "2025-01-28 11:30:31 +0000"
+    },
+    "done": true
+  },
   "ironchest:recipes/decorations/chests/trapped_iron_chest": {
     "criteria": {
       "has_tripwire_hook": "2025-01-28 11:04:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-01-28 11:28:47 +0000"
+    },
+    "done": false
+  },
+  "ironchest:recipes/decorations/chests/diamond_obsidian_chest": {
+    "criteria": {
+      "has_obsidian": "2025-01-28 11:34:51 +0000"
     },
     "done": true
   },
@@ -8536,9 +8563,21 @@
     },
     "done": true
   },
+  "spartanshields:recipes/obsidian_basic_shield": {
+    "criteria": {
+      "has_obsidian": "2025-01-28 11:34:51 +0000"
+    },
+    "done": true
+  },
   "ironchest:recipes/decorations/chests/trapped_copper_chest": {
     "criteria": {
       "has_tripwire_hook": "2025-01-28 11:04:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-01-28 11:31:29 +0000"
     },
     "done": true
   },
@@ -8572,6 +8611,18 @@
     },
     "done": true
   },
+  "supplementaries:recipes/blackstone_tile": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-01-28 11:31:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-01-28 11:34:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite": {
     "criteria": {
       "has_quartz": "2025-01-28 11:21:54 +0000"
@@ -8581,6 +8632,12 @@
   "new_slab_variants:recipes/building_blocks/basalt_slab": {
     "criteria": {
       "has_basalt": "2025-01-28 11:24:25 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/bone_block_slab": {
+    "criteria": {
+      "has_bone_block": "2025-01-28 11:34:55 +0000"
     },
     "done": true
   },
@@ -8599,6 +8656,18 @@
   "minecraft:recipes/building_blocks/granite": {
     "criteria": {
       "has_quartz": "2025-01-28 11:21:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-01-28 11:31:29 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/pork_jerky": {
+    "criteria": {
+      "has_the_recipe": "2025-01-28 11:30:31 +0000"
     },
     "done": true
   },
@@ -8623,6 +8692,12 @@
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_quartz": "2025-01-28 11:21:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-01-28 11:30:31 +0000"
     },
     "done": true
   },
@@ -8662,9 +8737,45 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-01-28 11:34:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2025-01-28 11:34:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-01-28 11:24:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_grill_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-01-28 11:30:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-01-28 11:31:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-01-28 11:31:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-01-28 11:30:31 +0000"
     },
     "done": true
   },
@@ -8680,6 +8791,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-01-28 11:34:32 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/pork_and_beans": {
+    "criteria": {
+      "has_pork": "2025-01-28 11:30:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-01-28 11:31:29 +0000"
+    },
+    "done": true
+  },
   "mcwpaths:recipes/blackstone": {
     "criteria": {
       "has_wood": "2025-01-28 11:24:25 +0000"
@@ -8689,6 +8818,24 @@
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-01-28 11:24:25 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/obsidian_tower_shield": {
+    "criteria": {
+      "has_obsidian": "2025-01-28 11:34:51 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/gilded_blackstone_slab": {
+    "criteria": {
+      "has_gilded_blackstone": "2025-01-28 11:34:30 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/carnitas": {
+    "criteria": {
+      "has_porkchop": "2025-01-28 11:30:31 +0000"
     },
     "done": true
   },
@@ -8704,6 +8851,12 @@
     },
     "done": true
   },
+  "new_slab_variants:recipes/building_blocks/obsidian_slab": {
+    "criteria": {
+      "has_obsidian": "2025-01-28 11:34:51 +0000"
+    },
+    "done": true
+  },
   "new_slab_variants:recipes/building_blocks/calcite_slab": {
     "criteria": {
       "has_calcite": "2025-01-28 11:10:11 +0000"
@@ -8716,9 +8869,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-01-28 11:30:31 +0000"
+    },
+    "done": true
+  },
   "ironchest:recipes/decorations/chests/trapped_dirt_chest": {
     "criteria": {
       "has_tripwire_hook": "2025-01-28 11:04:44 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_bacon": {
+    "criteria": {
+      "has_porkchop": "2025-01-28 11:30:31 +0000"
     },
     "done": true
   },
@@ -8788,6 +8953,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-01-28 11:31:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-01-28 11:24:25 +0000"
@@ -8803,6 +8974,30 @@
   "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-01-28 11:24:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-01-28 11:29:51 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/cracked_polished_blackstone_bricks_slab": {
+    "criteria": {
+      "has_cracked_polished_blackstone_bricks": "2025-01-28 11:31:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-01-28 11:34:51 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stonecutting/blackstone_tile": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-01-28 11:31:29 +0000"
     },
     "done": true
   },
