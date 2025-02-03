@@ -641,6 +641,7 @@
       "minecraft:forest": "2025-01-27 16:25:31 +0000",
       "minecraft:frozen_ocean": "2025-01-27 07:16:32 +0000",
       "minecraft:deep_frozen_ocean": "2025-01-27 06:45:04 +0000",
+      "minecraft:ocean": "2025-01-28 13:01:32 +0000",
       "minecraft:snowy_beach": "2025-01-27 07:22:03 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-01-28 10:49:05 +0000",
       "minecraft:flower_forest": "2025-01-27 20:19:20 +0000",
@@ -8566,6 +8567,12 @@
     },
     "done": true
   },
+  "mcwpaths:recipes/dark_oak": {
+    "criteria": {
+      "has_wood": "2025-01-28 12:59:18 +0000"
+    },
+    "done": true
+  },
   "ironchest:recipes/decorations/chests/trapped_iron_chest": {
     "criteria": {
       "has_tripwire_hook": "2025-01-28 11:04:44 +0000"
@@ -8637,6 +8644,12 @@
   "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-01-28 11:31:29 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_dark_oak": {
+    "criteria": {
+      "has_planks": "2025-01-28 12:59:18 +0000"
     },
     "done": true
   },
@@ -8736,6 +8749,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-01-28 12:59:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-01-28 11:31:29 +0000"
@@ -8757,6 +8776,12 @@
   "supplementaries:recipes/feather_block": {
     "criteria": {
       "has_feather": "2025-01-28 10:57:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2025-01-28 12:59:18 +0000"
     },
     "done": true
   },
@@ -8799,6 +8824,12 @@
   "minecraft:recipes/building_blocks/blackstone_stairs": {
     "criteria": {
       "has_blackstone": "2025-01-28 11:24:25 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/dark_oak_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2025-01-28 12:59:18 +0000"
     },
     "done": true
   },
@@ -8904,6 +8935,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2025-01-28 12:59:18 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_mangrove_kitchen_counter": {
     "criteria": {
       "has_planks": "2025-01-28 12:52:26 +0000"
@@ -8919,6 +8956,12 @@
   "minecraft:recipes/building_blocks/polished_basalt": {
     "criteria": {
       "has_basalt": "2025-01-28 11:24:25 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/dark_oak_planks": {
+    "criteria": {
+      "has_planks": "2025-01-28 12:59:18 +0000"
     },
     "done": true
   },
@@ -8946,6 +8989,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-01-28 12:59:18 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_dark_oak": {
+    "criteria": {
+      "has_the_recipe": "2025-01-28 12:59:18 +0000"
+    },
+    "done": true
+  },
   "mcwpaths:recipes/blackstone": {
     "criteria": {
       "has_wood": "2025-01-28 11:24:25 +0000"
@@ -8955,6 +9010,12 @@
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-01-28 11:24:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-01-28 12:59:18 +0000"
     },
     "done": true
   },
@@ -9003,6 +9064,12 @@
   "cfm:recipes/decorations/stripped_mangrove_table": {
     "criteria": {
       "has_log": "2025-01-28 12:52:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2025-01-28 12:59:18 +0000"
     },
     "done": true
   },
@@ -9084,6 +9151,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-01-28 12:59:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-01-28 11:24:25 +0000"
@@ -9093,6 +9166,12 @@
   "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
       "has_quartz": "2025-01-28 11:21:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2025-01-28 12:59:18 +0000"
     },
     "done": true
   },
@@ -9108,15 +9187,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2025-01-28 12:59:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-01-28 11:24:25 +0000"
     },
     "done": true
   },
+  "dungeons_arise:find_lighthouse": {
+    "criteria": {
+      "location0": "2025-01-28 12:58:05 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/blackstone_bridge": {
     "criteria": {
       "has_planks": "2025-01-28 11:24:25 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/rope_dark_oak_bridge": {
+    "criteria": {
+      "has_planks": "2025-01-28 12:59:18 +0000"
     },
     "done": true
   },
@@ -9210,6 +9307,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/dark_oak_rail_bridge": {
+    "criteria": {
+      "has_planks": "2025-01-28 12:59:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/find_bastion": {
     "criteria": {
       "bastion": "2025-01-28 11:29:51 +0000"
@@ -9243,6 +9346,12 @@
   "minecraft:recipes/misc/skull_banner_pattern": {
     "criteria": {
       "has_wither_skeleton_skull": "2025-01-28 11:45:20 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_blossom_trapdoor": {
+    "criteria": {
+      "has_plankss": "2025-01-28 12:59:18 +0000"
     },
     "done": true
   },
