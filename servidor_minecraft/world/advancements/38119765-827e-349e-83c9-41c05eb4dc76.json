@@ -1529,5 +1529,35 @@
     },
     "done": true
   },
+  "adorabuild_structures:overworld_structures": {
+    "criteria": {
+      "always": "2025-02-03 17:03:23 +0000"
+    },
+    "done": true
+  },
+  "paraglider:all_vessels": {
+    "criteria": {
+      "code_triggered": "2025-02-03 17:11:12 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/copper_block_slab": {
+    "criteria": {
+      "has_copper_block": "2025-02-03 17:46:50 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/iron_block_slab": {
+    "criteria": {
+      "has_iron_block": "2025-02-03 17:48:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-02-03 18:22:40 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

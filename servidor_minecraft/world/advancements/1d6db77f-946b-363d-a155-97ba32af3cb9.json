@@ -331,11 +331,13 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "woodland": "2025-02-03 17:36:35 +0000",
       "shrubland": "2025-01-28 12:29:07 +0000",
       "rocky_shrubland": "2025-01-28 12:30:01 +0000",
       "scrubland": "2025-01-28 10:53:47 +0000",
       "bayou": "2025-01-28 10:47:32 +0000",
       "erupting_inferno": "2025-01-28 11:15:35 +0000",
+      "jade_cliffs": "2025-02-03 17:32:44 +0000",
       "old_growth_woodland": "2025-01-28 11:12:50 +0000",
       "maple_woods": "2025-01-27 19:19:09 +0000",
       "crystalline_chasm": "2025-01-28 11:26:24 +0000",
@@ -344,10 +346,13 @@
       "coniferous_forest": "2025-01-27 16:34:34 +0000",
       "forested_field": "2025-01-27 05:44:44 +0000",
       "dead_forest": "2025-01-27 07:22:21 +0000",
+      "volcanic_plains": "2025-02-03 17:38:17 +0000",
+      "lavender_field": "2025-02-03 17:31:47 +0000",
       "fir_clearing": "2025-01-27 17:29:17 +0000",
       "pumpkin_patch": "2025-01-27 19:17:53 +0000",
       "snowy_fir_clearing": "2025-01-27 19:17:20 +0000",
       "undergrowth": "2025-01-28 11:32:53 +0000",
+      "rainforest": "2025-02-03 17:39:35 +0000",
       "snowy_maple_woods": "2025-01-27 05:51:27 +0000",
       "crag": "2025-01-27 17:37:53 +0000"
     },
@@ -404,6 +409,7 @@
       "minecraft:cherry_grove": "2025-01-27 19:34:57 +0000",
       "minecraft:sunflower_plains": "2025-02-03 14:49:51 +0000",
       "minecraft:beach": "2025-01-28 10:53:23 +0000",
+      "minecraft:mangrove_swamp": "2025-02-03 17:45:51 +0000",
       "minecraft:river": "2025-01-27 16:58:56 +0000",
       "minecraft:lukewarm_ocean": "2025-01-28 09:53:37 +0000",
       "minecraft:stony_shore": "2025-01-27 08:00:58 +0000",
@@ -413,7 +419,9 @@
       "minecraft:forest": "2025-01-27 07:31:44 +0000",
       "minecraft:frozen_ocean": "2025-01-27 06:19:56 +0000",
       "minecraft:deep_frozen_ocean": "2025-01-27 06:21:20 +0000",
+      "minecraft:jungle": "2025-02-03 17:44:08 +0000",
       "minecraft:snowy_beach": "2025-01-27 07:22:02 +0000",
+      "minecraft:windswept_savanna": "2025-02-03 17:45:47 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-01-28 10:46:46 +0000",
       "minecraft:frozen_peaks": "2025-02-03 14:15:07 +0000",
       "minecraft:deep_dark": "2025-01-27 16:46:35 +0000",
@@ -561,6 +569,7 @@
       "cooked_porkchop": "2025-01-27 06:09:32 +0000",
       "cooked_mutton": "2025-02-03 15:44:19 +0000",
       "cooked_beef": "2025-01-27 07:36:14 +0000",
+      "beef": "2025-02-03 17:36:00 +0000",
       "apple": "2025-02-03 16:05:24 +0000",
       "bread": "2025-01-27 19:27:25 +0000",
       "golden_apple": "2025-01-28 11:57:55 +0000",
@@ -1312,7 +1321,8 @@
   },
   "croptopia:gather_all": {
     "criteria": {
-      "cucumber_seed": "2025-02-03 15:06:31 +0000"
+      "cucumber_seed": "2025-02-03 15:06:31 +0000",
+      "turmeric_seed": "2025-02-03 17:58:09 +0000"
     },
     "done": false
   },
@@ -1478,12 +1488,6 @@
     },
     "done": true
   },
-  "minecraft:adventure/voluntary_exile": {
-    "criteria": {
-      "voluntary_exile": "2025-02-03 16:48:36 +0000"
-    },
-    "done": true
-  },
   "comforts:hammock_blue": {
     "criteria": {
       "has_the_recipe": "2025-02-03 16:36:43 +0000"
@@ -1499,12 +1503,6 @@
   "comforts:sleeping_bag_brown": {
     "criteria": {
       "has_the_recipe": "2025-02-03 16:36:43 +0000"
-    },
-    "done": true
-  },
-  "adorabuild_structures:overworld_structures": {
-    "criteria": {
-      "always": "2025-02-03 16:36:51 +0000"
     },
     "done": true
   },
@@ -1535,6 +1533,62 @@
   "comforts:hammock_orange": {
     "criteria": {
       "has_the_recipe": "2025-02-03 16:36:43 +0000"
+    },
+    "done": true
+  },
+  "adorabuild_structures:overworld_structures": {
+    "criteria": {
+      "always": "2025-02-03 16:36:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-02-03 16:48:36 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/red_wool_slab": {
+    "criteria": {
+      "has_red_wool": "2025-02-03 17:12:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-02-03 17:22:45 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/stripped_spruce_log_slab": {
+    "criteria": {
+      "has_stripped_spruce_log": "2025-02-03 17:39:41 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/hay_block_slab": {
+    "criteria": {
+      "has_hay_block": "2025-02-03 17:48:24 +0000"
+    },
+    "done": true
+  },
+  "adorabuild_structures:tireless_legs": {
+    "criteria": {
+      "spruce_house_medium_1": "2025-02-03 18:04:25 +0000",
+      "acacia_house_medium_1": "2025-02-03 18:02:45 +0000",
+      "oak_house_small_1": "2025-02-03 17:49:57 +0000"
+    },
+    "done": false
+  },
+  "croptopia:gather_savanna": {
+    "criteria": {
+      "turmeric_seed": "2025-02-03 17:58:09 +0000"
+    },
+    "done": false
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-02-03 18:03:52 +0000"
     },
     "done": true
   },
