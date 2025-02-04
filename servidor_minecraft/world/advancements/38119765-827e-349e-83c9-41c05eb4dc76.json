@@ -1607,5 +1607,17 @@
     },
     "done": false
   },
+  "adorabuild_structures:nether_structures": {
+    "criteria": {
+      "example": "2025-02-04 19:21:24 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/red_wool_slab": {
+    "criteria": {
+      "has_red_wool": "2025-02-04 19:26:03 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
