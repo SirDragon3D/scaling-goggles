@@ -1604,57 +1604,9 @@
     },
     "done": true
   },
-  "minecraft:end/kill_dragon": {
+  "new_slab_variants:recipes/building_blocks/bookshelf_slab": {
     "criteria": {
-      "killed_dragon": "2025-02-04 19:36:18 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_aviary": {
-    "criteria": {
-      "location0": "2025-02-04 19:55:50 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/orcas_might": {
-    "criteria": {
-      "all_effects": "2025-02-04 18:49:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/brew_potion": {
-    "criteria": {
-      "potion": "2025-02-04 20:13:35 +0000"
-    },
-    "done": true
-  },
-  "friendsandfoes:adventure/the_magicians": {
-    "criteria": {
-      "killed_evoker": "2025-02-04 18:57:22 +0000"
-    },
-    "done": false
-  },
-  "dungeons_arise:find_heavenly_conqueror": {
-    "criteria": {
-      "location0": "2025-02-04 20:31:15 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/village_defender": {
-    "criteria": {
-      "coded_trigger": "2025-02-04 18:57:28 +0000"
-    },
-    "done": true
-  },
-  "create:copper": {
-    "criteria": {
-      "0": "2025-02-04 18:12:27 +0000"
-    },
-    "done": true
-  },
-  "adorabuild_structures:end_structures": {
-    "criteria": {
-      "example": "2025-02-04 19:28:22 +0000"
+      "has_bookshelf": "2025-02-04 16:58:11 +0000"
     },
     "done": true
   },
@@ -1664,27 +1616,33 @@
     },
     "done": true
   },
-  "minecraft:end/find_end_city": {
-    "criteria": {
-      "in_city": "2025-02-04 20:08:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:end/enter_end_gateway": {
-    "criteria": {
-      "entered_end_gateway": "2025-02-04 19:40:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:end/elytra": {
-    "criteria": {
-      "elytra": "2025-02-04 20:13:57 +0000"
-    },
-    "done": true
-  },
   "new_slab_variants:recipes/building_blocks/iron_block_slab": {
     "criteria": {
       "has_iron_block": "2025-02-04 17:11:54 +0000"
+    },
+    "done": true
+  },
+  "create:copper": {
+    "criteria": {
+      "0": "2025-02-04 18:12:27 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/orcas_might": {
+    "criteria": {
+      "all_effects": "2025-02-04 18:49:28 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:adventure/the_magicians": {
+    "criteria": {
+      "killed_evoker": "2025-02-04 18:57:22 +0000"
+    },
+    "done": false
+  },
+  "tombstone:adventure/village_defender": {
+    "criteria": {
+      "coded_trigger": "2025-02-04 18:57:28 +0000"
     },
     "done": true
   },
@@ -1694,7 +1652,19 @@
     },
     "done": true
   },
+  "adorabuild_structures:end_structures": {
+    "criteria": {
+      "example": "2025-02-04 19:28:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-02-04 19:28:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
     "criteria": {
       "entered_end": "2025-02-04 19:28:22 +0000"
     },
@@ -1706,21 +1676,51 @@
     },
     "done": true
   },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2025-02-04 19:36:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2025-02-04 19:40:52 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_aviary": {
+    "criteria": {
+      "location0": "2025-02-04 19:55:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2025-02-04 20:08:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2025-02-04 20:13:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2025-02-04 20:13:57 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_heavenly_conqueror": {
+    "criteria": {
+      "location0": "2025-02-04 20:31:15 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_heavenly_rider": {
     "criteria": {
       "location0": "2025-02-04 20:44:24 +0000"
-    },
-    "done": true
-  },
-  "new_slab_variants:recipes/building_blocks/bookshelf_slab": {
-    "criteria": {
-      "has_bookshelf": "2025-02-04 16:58:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/enter_the_end": {
-    "criteria": {
-      "entered_end": "2025-02-04 19:28:22 +0000"
     },
     "done": true
   },
