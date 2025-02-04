@@ -1947,3 +1947,9 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [04Feb2025 17:33:41.021] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/core/WarpMode
 [04Feb2025 17:33:43.104] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/api/EventResult
 [04Feb2025 17:34:14.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [4milcar: Teleported 4milcar to SirDragon3d]
+[04Feb2025 17:38:22.556] [Server thread/WARN] [tombstone/]: The death event of the player SirDragon3d was canceled by another mod
+[04Feb2025 17:38:22.565] [Server thread/INFO] [tombstone/]: The player SirDragon3d has successfully been saved
+[04Feb2025 17:38:44.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [4milcar: Set own game mode to Spectator Mode]
+[04Feb2025 17:38:47.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [4milcar: Set own game mode to Survival Mode]
+[04Feb2025 17:41:51.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SirDragon3d: Set own game mode to Spectator Mode]
+[04Feb2025 17:41:53.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SirDragon3d: Set own game mode to Survival Mode]
