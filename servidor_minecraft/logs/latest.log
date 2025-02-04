@@ -1988,3 +1988,16 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [04Feb2025 18:26:25.427] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 4milcar[/127.14.42.80:33431] logged in with entity id 29495 at (-1749.6141834518946, 78.9375, 1674.228985294465)
 [04Feb2025 18:26:25.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4milcar joined the game
 [04Feb2025 18:26:25.482] [Server thread/INFO] [Jade/]: Syncing config to 4milcar (38119765-827e-349e-83c9-41c05eb4dc76)
+[04Feb2025 18:27:36.051] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 4milcar moved too quickly! 7.932189797727915,-0.604424101326714,-6.221857452195309
+[04Feb2025 18:29:38.207] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/30201, l='ServerLevel[world]', x=-1394.50, y=116.00, z=1632.07] died, message: 'Nitwit was slain by Tiger'
+[04Feb2025 18:30:54.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4milcar has made the advancement [Best Friends Forever]
+[04Feb2025 18:31:27.048] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1670, y=64, z=1436} BlockPos{x=-1672, y=62, z=1437}
+[04Feb2025 18:33:11.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SirDragon3d: Teleported SirDragon3d to 4milcar]
+[04Feb2025 18:33:20.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SirDragon3d: Teleported 4milcar to SirDragon3d]
+[04Feb2025 18:35:20.573] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/scores/Team$Visibility
+[04Feb2025 18:35:20.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SirDragon3d: Created team [Dragons]]
+[04Feb2025 18:35:32.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SirDragon3d: Disabled friendly fire for team [Dragons]]
+[04Feb2025 18:35:57.668] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/protocol/game/ClientboundSetPlayerTeamPacket$Action
+[04Feb2025 18:35:57.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SirDragon3d: Added SirDragon3d to team [Dragons]]
+[04Feb2025 18:36:01.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SirDragon3d: Added 4milcar to team [Dragons]]
+[04Feb2025 18:36:29.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SirDragon3d: Enabled friendly fire for team [Dragons]]

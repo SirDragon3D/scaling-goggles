@@ -1562,15 +1562,21 @@
     },
     "done": true
   },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-02-04 17:25:58 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/cave_book": {
     "criteria": {
       "cave_book": "2025-02-04 17:29:18 +0000"
     },
     "done": true
   },
-  "artifacts:amateur_archaeologist": {
+  "minecraft:husbandry/tame_an_animal": {
     "criteria": {
-      "find_artifact": "2025-02-04 17:25:58 +0000"
+      "tamed_animal": "2025-02-04 18:30:54 +0000"
     },
     "done": true
   },
