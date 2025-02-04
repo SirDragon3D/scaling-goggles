@@ -1637,6 +1637,12 @@
     },
     "done": true
   },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold_betterstrongholds": "2025-02-04 19:08:34 +0000"
+    },
+    "done": true
+  },
   "new_slab_variants:recipes/building_blocks/bookshelf_slab": {
     "criteria": {
       "has_bookshelf": "2025-02-04 16:58:11 +0000"

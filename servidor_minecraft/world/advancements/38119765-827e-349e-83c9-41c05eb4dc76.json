@@ -1595,6 +1595,12 @@
     },
     "done": true
   },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold_betterstrongholds": "2025-02-04 19:08:53 +0000"
+    },
+    "done": true
+  },
   "adorabuild_structures:tireless_legs": {
     "criteria": {
       "prison_large_1": "2025-02-04 18:55:29 +0000"

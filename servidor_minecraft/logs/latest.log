@@ -2260,3 +2260,15 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [04Feb2025 19:05:59.543] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:angler_additions_3_pool
 [04Feb2025 19:05:59.543] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:angler_end_1_pool
 [04Feb2025 19:06:47.313] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-384, y=31, z=-817}
+[04Feb2025 19:07:52.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [4milcar: Teleported 4milcar to SirDragon3d]
+[04Feb2025 19:08:34.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SirDragon3d has made the advancement [Eye Spy]
+[04Feb2025 19:08:53.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4milcar has made the advancement [Eye Spy]
+[04Feb2025 19:11:31.666] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[04Feb2025 19:11:31.666] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[04Feb2025 19:11:31.667] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[04Feb2025 19:11:31.667] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_end_1_pool
+[04Feb2025 19:11:31.667] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_end_1_pool
+[04Feb2025 19:11:33.629] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 4milcar moved too quickly! 7.951516651607562,0.0,6.3461999501993205
+[04Feb2025 19:11:33.636] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4097ms or 81 ticks behind
+[04Feb2025 19:15:00.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SirDragon3d: Teleported SirDragon3d to 4milcar]
+[04Feb2025 19:17:03.774] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 4milcar moved too quickly! -7.697225433095809,0.0,6.522413685472316
