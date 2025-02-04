@@ -1595,9 +1595,21 @@
     },
     "done": true
   },
+  "adorabuild_structures:end_structures": {
+    "criteria": {
+      "example": "2025-02-04 19:28:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/follow_ender_eye": {
     "criteria": {
       "in_stronghold_betterstrongholds": "2025-02-04 19:08:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-02-04 19:28:21 +0000"
     },
     "done": true
   },
@@ -1616,6 +1628,12 @@
   "new_slab_variants:recipes/building_blocks/red_wool_slab": {
     "criteria": {
       "has_red_wool": "2025-02-04 19:26:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-02-04 19:28:21 +0000"
     },
     "done": true
   },

@@ -505,6 +505,7 @@
       "minecraft:witch": "2025-01-28 11:13:44 +0000",
       "minecraft:wither_skeleton": "2025-01-27 17:58:56 +0000",
       "minecraft:husk": "2025-01-28 11:05:55 +0000",
+      "minecraft:ender_dragon": "2025-02-04 19:36:18 +0000",
       "minecraft:cave_spider": "2025-01-27 17:18:18 +0000",
       "minecraft:piglin": "2025-01-28 11:34:08 +0000",
       "minecraft:enderman": "2025-01-27 16:26:34 +0000",
@@ -1601,6 +1602,12 @@
     },
     "done": true
   },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2025-02-04 19:36:18 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/orcas_might": {
     "criteria": {
       "all_effects": "2025-02-04 18:49:28 +0000"
@@ -1625,6 +1632,12 @@
     },
     "done": true
   },
+  "adorabuild_structures:end_structures": {
+    "criteria": {
+      "example": "2025-02-04 19:28:22 +0000"
+    },
+    "done": true
+  },
   "new_slab_variants:recipes/building_blocks/iron_ore_slab": {
     "criteria": {
       "has_iron_ore": "2025-02-04 17:06:46 +0000"
@@ -1643,9 +1656,27 @@
     },
     "done": true
   },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-02-04 19:28:22 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/end_stone_slab": {
+    "criteria": {
+      "has_end_stone": "2025-02-04 19:28:32 +0000"
+    },
+    "done": true
+  },
   "new_slab_variants:recipes/building_blocks/bookshelf_slab": {
     "criteria": {
       "has_bookshelf": "2025-02-04 16:58:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-02-04 19:28:22 +0000"
     },
     "done": true
   },

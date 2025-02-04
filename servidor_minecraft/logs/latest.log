@@ -2279,3 +2279,23 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [04Feb2025 19:21:24.265] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
 [04Feb2025 19:21:24.402] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/lighting/LayerLightEventListener$DummyLightLayerEventListener
 [04Feb2025 19:22:12.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [4milcar: Teleported 4milcar to SirDragon3d]
+[04Feb2025 19:28:21.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4milcar has made the advancement [The End?]
+[04Feb2025 19:28:22.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SirDragon3d has made the advancement [The End?]
+[04Feb2025 19:28:24.089] [Server thread/INFO] [betterendisland/]: Scanning for legacy world dragon fight...
+[04Feb2025 19:28:24.185] [Server thread/INFO] [betterendisland/]: Found that the dragon has not yet been killed in this world.
+[04Feb2025 19:28:24.722] [Server thread/INFO] [betterendisland/]: Portal location is null. Placing manually...
+[04Feb2025 19:28:24.723] [Server thread/INFO] [betterendisland/]: Set the exit portal location to: BlockPos{x=0, y=60, z=0}
+[04Feb2025 19:28:24.763] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SirDragon3d moved too quickly! 2640.3432866512485,46.46415937495544,842.8725110165221
+[04Feb2025 19:28:24.774] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3635ms or 72 ticks behind
+[04Feb2025 19:29:19.492] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[04Feb2025 19:29:19.492] [Server thread/INFO] [betterendisland/]: Found all crystals, starting initial dragon spawn.
+[04Feb2025 19:29:19.493] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/yungnickyoung/minecraft/betterendisland/world/DragonRespawnStage
+[04Feb2025 19:29:49.646] [Server thread/INFO] [betterendisland/]: Set the exit portal location to: BlockPos{x=0, y=60, z=0}
+[04Feb2025 19:31:41.601] [Server thread/WARN] [tombstone/]: The death event of the player 4milcar was canceled by another mod
+[04Feb2025 19:31:41.611] [Server thread/INFO] [tombstone/]: The player 4milcar has successfully been saved
+[04Feb2025 19:31:58.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [4milcar: Teleported 4milcar to SirDragon3d]
+[04Feb2025 19:32:15.201] [Server thread/WARN] [tombstone/]: The death event of the player 4milcar was canceled by another mod
+[04Feb2025 19:32:15.213] [Server thread/INFO] [tombstone/]: The player 4milcar has successfully been saved
+[04Feb2025 19:36:18.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SirDragon3d has made the advancement [Free the End]
+[04Feb2025 19:36:30.843] [Server thread/INFO] [betterendisland/]: Set the exit portal location to: BlockPos{x=0, y=60, z=0}
+[04Feb2025 19:37:23.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [4milcar: Teleported 4milcar to SirDragon3d]
