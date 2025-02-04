@@ -416,10 +416,12 @@
       "minecraft:river": "2025-01-27 16:58:56 +0000",
       "minecraft:lukewarm_ocean": "2025-01-28 09:53:37 +0000",
       "minecraft:stony_shore": "2025-01-27 08:00:58 +0000",
+      "minecraft:snowy_plains": "2025-02-04 18:54:18 +0000",
       "minecraft:snowy_taiga": "2025-01-27 16:17:35 +0000",
       "minecraft:grove": "2025-01-27 16:21:30 +0000",
       "minecraft:cold_ocean": "2025-01-27 17:21:04 +0000",
       "minecraft:forest": "2025-01-27 07:31:44 +0000",
+      "minecraft:ice_spikes": "2025-02-04 18:54:16 +0000",
       "minecraft:frozen_ocean": "2025-01-27 06:19:56 +0000",
       "minecraft:deep_frozen_ocean": "2025-01-27 06:21:20 +0000",
       "minecraft:jungle": "2025-02-03 17:44:08 +0000",
@@ -1579,7 +1581,9 @@
     "criteria": {
       "spruce_house_medium_1": "2025-02-03 18:04:25 +0000",
       "acacia_house_medium_1": "2025-02-03 18:02:45 +0000",
-      "oak_house_small_1": "2025-02-03 17:49:57 +0000"
+      "prison_large_1": "2025-02-04 18:55:39 +0000",
+      "oak_house_small_1": "2025-02-03 17:49:57 +0000",
+      "frozen_hut_1": "2025-02-04 18:49:36 +0000"
     },
     "done": false
   },
@@ -1592,6 +1596,12 @@
   "alexsmobs:alexsmobs/seagull_steal": {
     "criteria": {
       "ex": "2025-02-03 18:03:52 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/orcas_might": {
+    "criteria": {
+      "all_effects": "2025-02-04 18:49:28 +0000"
     },
     "done": true
   },
