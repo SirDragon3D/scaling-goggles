@@ -1637,6 +1637,12 @@
     },
     "done": false
   },
+  "new_slab_variants:recipes/building_blocks/end_stone_slab": {
+    "criteria": {
+      "has_end_stone": "2025-02-04 19:54:40 +0000"
+    },
+    "done": true
+  },
   "adorabuild_structures:nether_structures": {
     "criteria": {
       "example": "2025-02-04 19:21:24 +0000"

@@ -2313,3 +2313,73 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [04Feb2025 19:43:26.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4milcar has made the advancement [Ender Distancing]
 [04Feb2025 19:43:30.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4milcar has made the advancement [Capsid-19]
 [04Feb2025 19:45:13.885] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/ShulkerBoxBlockEntity$AnimationStatus
+[04Feb2025 19:49:01.666] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 19:49:01.666] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 19:49:02.756] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 19:49:02.756] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 19:49:02.756] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 19:49:02.756] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Feb2025 19:49:02.795] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Exception loading entity: 
+net.minecraft.ReportedException: Loading entity NBT
+	at net.minecraft.world.entity.Entity.m_20258_(Entity.java:1765) ~[server-1.20.1-20230612.114412-srg.jar%23591!/:?]
+	at net.minecraft.world.entity.EntityType.m_185988_(EntityType.java:532) ~[server-1.20.1-20230612.114412-srg.jar%23591!/:?]
+	at net.minecraft.Util.m_137521_(Util.java:419) ~[server-1.20.1-20230612.114412-srg.jar%23591!/:?]
+	at net.minecraft.world.entity.EntityType.m_20642_(EntityType.java:529) ~[server-1.20.1-20230612.114412-srg.jar%23591!/:?]
+	at net.minecraft.world.entity.EntityType.m_20669_(EntityType.java:607) ~[server-1.20.1-20230612.114412-srg.jar%23591!/:?]
+	at net.minecraft.world.entity.EntityType.m_20645_(EntityType.java:563) ~[server-1.20.1-20230612.114412-srg.jar%23591!/:?]
+	at net.minecraft.world.entity.EntityType$1.m_147056_(EntityType.java:584) ~[server-1.20.1-20230612.114412-srg.jar%23591!/:?]
+	at java.util.Spliterators$IteratorSpliterator.tryAdvance(Spliterators.java:1856) ~[?:?]
+	at net.minecraft.world.entity.EntityType$1.tryAdvance(EntityType.java:583) ~[server-1.20.1-20230612.114412-srg.jar%23591!/:?]
+	at java.util.Spliterator.forEachRemaining(Spliterator.java:332) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:921) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:682) ~[?:?]
+	at net.minecraft.world.level.chunk.storage.EntityStorage.m_223456_(EntityStorage.java:62) ~[server-1.20.1-20230612.114412-srg.jar%23591!/:?]
+	at java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:646) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18759_(ProcessorMailbox.java:91) ~[server-1.20.1-20230612.114412-srg.jar%23591!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18747_(ProcessorMailbox.java:146) ~[server-1.20.1-20230612.114412-srg.jar%23591!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.run(ProcessorMailbox.java:102) ~[server-1.20.1-20230612.114412-srg.jar%23591!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23591!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23591!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23591!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23591!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23591!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23591!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23591!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23591!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23591!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733) ~[server-1.20.1-20230612.114412-srg.jar%23591!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23591!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23591!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IllegalStateException: Entity has invalid position
+	at net.minecraft.world.entity.Entity.m_20258_(Entity.java:1759) ~[server-1.20.1-20230612.114412-srg.jar%23591!/:?]
+	... 33 more
+[04Feb2025 19:49:52.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SirDragon3d: Teleported 4milcar to SirDragon3d]
+[04Feb2025 19:49:59.249] [Server thread/WARN] [tombstone/]: The death event of the player 4milcar was canceled by another mod
+[04Feb2025 19:49:59.261] [Server thread/INFO] [tombstone/]: The player 4milcar has successfully been saved
+[04Feb2025 19:52:41.216] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 4milcar moved too quickly! -1.3057793153632247,-2.0013359791121488,-9.754804261545818
+[04Feb2025 19:54:28.726] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1459, y=18, z=314}
+[04Feb2025 19:54:28.727] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1459, y=17, z=317}
+[04Feb2025 19:54:28.727] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1459, y=16, z=316}
+[04Feb2025 19:54:28.727] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1466, y=18, z=323}
+[04Feb2025 19:54:28.727] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1467, y=16, z=323}
+[04Feb2025 19:54:28.727] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1460, y=16, z=323}
+[04Feb2025 19:54:28.727] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1459, y=17, z=321}
+[04Feb2025 19:54:31.511] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1474, y=19, z=299}
+[04Feb2025 19:54:31.511] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1475, y=17, z=299}
+[04Feb2025 19:54:31.511] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1477, y=19, z=299}
+[04Feb2025 19:54:31.511] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1482, y=17, z=299}
+[04Feb2025 19:54:31.512] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1481, y=17, z=299}
+[04Feb2025 19:54:31.512] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1483, y=17, z=301}
+[04Feb2025 19:54:31.512] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1483, y=17, z=309}
+[04Feb2025 19:54:31.512] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1483, y=19, z=306}
+[04Feb2025 19:54:31.512] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1483, y=17, z=305}
+[04Feb2025 19:55:25.556] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 4milcar moved too quickly! -6.947349646459543,-2.796735600668697,-6.784571477101927
+[04Feb2025 19:55:50.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SirDragon3d has made the advancement [Three Little Birds]
+[04Feb2025 19:55:51.929] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 4milcar moved too quickly! -8.140337822698712,-1.7999999999998977,-5.8549227514582185
+[04Feb2025 19:56:29.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [4milcar: Teleported SirDragon3d to 4milcar]
+[04Feb2025 19:58:36.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [4milcar: Teleported 4milcar to SirDragon3d]

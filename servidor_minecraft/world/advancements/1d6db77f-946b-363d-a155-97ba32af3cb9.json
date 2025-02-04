@@ -1609,6 +1609,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_aviary": {
+    "criteria": {
+      "location0": "2025-02-04 19:55:50 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/orcas_might": {
     "criteria": {
       "all_effects": "2025-02-04 18:49:28 +0000"
