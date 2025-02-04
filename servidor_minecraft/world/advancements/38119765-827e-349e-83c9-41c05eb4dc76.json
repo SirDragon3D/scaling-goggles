@@ -1326,6 +1326,7 @@
     "criteria": {
       "cucumber_seed": "2025-02-03 15:12:00 +0000",
       "broccoli_seed": "2025-02-03 15:44:17 +0000",
+      "lettuce_seed": "2025-02-04 17:54:25 +0000",
       "corn_seed": "2025-02-03 15:36:51 +0000"
     },
     "done": false
@@ -1338,6 +1339,7 @@
   },
   "croptopia:gather_plains": {
     "criteria": {
+      "lettuce_seed": "2025-02-04 17:54:25 +0000",
       "cucumber_seed": "2025-02-03 15:12:00 +0000",
       "corn_seed": "2025-02-03 15:36:51 +0000",
       "broccoli_seed": "2025-02-03 15:44:17 +0000"
