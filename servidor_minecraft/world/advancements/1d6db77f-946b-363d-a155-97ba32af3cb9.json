@@ -1592,6 +1592,18 @@
     },
     "done": true
   },
+  "new_slab_variants:recipes/building_blocks/iron_ore_slab": {
+    "criteria": {
+      "has_iron_ore": "2025-02-04 17:06:46 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/iron_block_slab": {
+    "criteria": {
+      "has_iron_block": "2025-02-04 17:11:54 +0000"
+    },
+    "done": true
+  },
   "new_slab_variants:recipes/building_blocks/bookshelf_slab": {
     "criteria": {
       "has_bookshelf": "2025-02-04 16:58:11 +0000"
