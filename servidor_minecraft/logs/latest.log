@@ -2299,3 +2299,17 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [04Feb2025 19:36:18.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SirDragon3d has made the advancement [Free the End]
 [04Feb2025 19:36:30.843] [Server thread/INFO] [betterendisland/]: Set the exit portal location to: BlockPos{x=0, y=60, z=0}
 [04Feb2025 19:37:23.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [4milcar: Teleported 4milcar to SirDragon3d]
+[04Feb2025 19:38:44.494] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/58231, l='ServerLevel[world]', x=-2497.35, y=73.00, z=-596.20] died, message: 'Unemployed was slain by Vindicator'
+[04Feb2025 19:38:45.896] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/58230, l='ServerLevel[world]', x=-2496.69, y=73.88, z=-601.05] died, message: 'Unemployed was slain by Vindicator'
+[04Feb2025 19:38:47.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SirDragon3d: Teleported SirDragon3d to 4milcar]
+[04Feb2025 19:38:51.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [4milcar: Teleported 4milcar to SirDragon3d]
+[04Feb2025 19:39:51.998] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/commands/ExperienceCommand$Type
+[04Feb2025 19:39:52.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SirDragon3d: Gave 55 experience levels to SirDragon3d]
+[04Feb2025 19:40:22.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SirDragon3d: Set 55 experience levels on SirDragon3d]
+[04Feb2025 19:40:29.256] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[04Feb2025 19:40:29.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> ./xp set x levels
+[04Feb2025 19:40:29.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4milcar has made the advancement [Remote Getaway]
+[04Feb2025 19:40:52.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SirDragon3d has made the advancement [Remote Getaway]
+[04Feb2025 19:43:26.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4milcar has made the advancement [Ender Distancing]
+[04Feb2025 19:43:30.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4milcar has made the advancement [Capsid-19]
+[04Feb2025 19:45:13.885] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/ShulkerBoxBlockEntity$AnimationStatus

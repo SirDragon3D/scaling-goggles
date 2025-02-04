@@ -1589,6 +1589,18 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/enderiophage": {
+    "criteria": {
+      "killed_by": "2025-02-04 19:43:26 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/capsid": {
+    "criteria": {
+      "capsid": "2025-02-04 19:43:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/walk_on_powder_snow_with_leather_boots": {
     "criteria": {
       "walk_on_powder_snow_with_leather_boots": "2025-02-04 18:38:21 +0000"
@@ -1598,6 +1610,12 @@
   "adorabuild_structures:end_structures": {
     "criteria": {
       "example": "2025-02-04 19:28:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2025-02-04 19:40:29 +0000"
     },
     "done": true
   },
