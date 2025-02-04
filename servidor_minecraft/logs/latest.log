@@ -2383,3 +2383,7 @@ Caused by: java.lang.IllegalStateException: Entity has invalid position
 [04Feb2025 19:55:51.929] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 4milcar moved too quickly! -8.140337822698712,-1.7999999999998977,-5.8549227514582185
 [04Feb2025 19:56:29.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [4milcar: Teleported SirDragon3d to 4milcar]
 [04Feb2025 19:58:36.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [4milcar: Teleported 4milcar to SirDragon3d]
+[04Feb2025 20:01:11.001] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 4milcar lost connection: Disconnected
+[04Feb2025 20:01:11.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4milcar left the game
+[04Feb2025 20:02:26.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SirDragon3d: Gave 1 [Flint and Steel] to SirDragon3d]
+[04Feb2025 20:08:28.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SirDragon3d has made the advancement [The City at the End of the Game]
