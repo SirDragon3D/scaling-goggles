@@ -1680,5 +1680,11 @@
     },
     "done": true
   },
+  "new_slab_variants:recipes/building_blocks/pumpkin_slab": {
+    "criteria": {
+      "has_pumpkin": "2025-02-04 20:41:32 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

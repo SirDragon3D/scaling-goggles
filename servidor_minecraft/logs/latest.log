@@ -2407,3 +2407,12 @@ Caused by: java.lang.IllegalStateException: Entity has invalid position
 [04Feb2025 20:36:28.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SirDragon3d: Teleported 4milcar to SirDragon3d]
 [04Feb2025 20:37:01.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [4milcar: Teleported 4milcar to SirDragon3d]
 [04Feb2025 20:39:26.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SirDragon3d: Disabled friendly fire for team [Dragons]]
+[04Feb2025 20:42:24.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SirDragon3d: Teleported 4milcar to SirDragon3d]
+[04Feb2025 20:43:10.255] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 4milcar moved too quickly! -2.0716574989846777,-1.750000000000398,9.675698589616786
+[04Feb2025 20:43:54.602] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 4milcar lost connection: Disconnected
+[04Feb2025 20:43:54.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4milcar left the game
+[04Feb2025 20:46:59.196] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SirDragon3d lost connection: Disconnected
+[04Feb2025 20:46:59.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SirDragon3d left the game
+[04Feb2025 20:49:09.021] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SirDragon3d[/127.228.202.90:43605] logged in with entity id 74990 at (-1746.5989177517931, 79.0, 1673.498132940697)
+[04Feb2025 20:49:09.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SirDragon3d joined the game
+[04Feb2025 20:49:09.055] [Server thread/INFO] [Jade/]: Syncing config to SirDragon3d (1d6db77f-946b-363d-a155-97ba32af3cb9)
