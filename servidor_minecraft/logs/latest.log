@@ -2389,3 +2389,6 @@ Caused by: java.lang.IllegalStateException: Entity has invalid position
 [04Feb2025 20:08:28.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SirDragon3d has made the advancement [The City at the End of the Game]
 [04Feb2025 20:13:35.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SirDragon3d has made the advancement [Local Brewery]
 [04Feb2025 20:13:57.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SirDragon3d has reached the goal [Sky's the Limit]
+[04Feb2025 20:28:24.488] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 4milcar[/127.14.42.80:60993] logged in with entity id 68487 at (-1846.699999988079, 81.0, 853.5372851261085)
+[04Feb2025 20:28:24.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4milcar joined the game
+[04Feb2025 20:28:24.537] [Server thread/INFO] [Jade/]: Syncing config to 4milcar (38119765-827e-349e-83c9-41c05eb4dc76)
