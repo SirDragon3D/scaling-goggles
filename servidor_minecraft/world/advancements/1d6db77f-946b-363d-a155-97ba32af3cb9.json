@@ -1592,6 +1592,12 @@
     },
     "done": true
   },
+  "create:copper": {
+    "criteria": {
+      "0": "2025-02-04 18:12:27 +0000"
+    },
+    "done": true
+  },
   "new_slab_variants:recipes/building_blocks/iron_ore_slab": {
     "criteria": {
       "has_iron_ore": "2025-02-04 17:06:46 +0000"

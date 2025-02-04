@@ -1981,3 +1981,10 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [04Feb2025 18:09:03.891] [Netty Epoll Server IO #4/INFO] [com.teampotato.redirector.Redirector/]: Redirecting cpw/mods/inventorysorter/SortingHandler
 [04Feb2025 18:09:03.893] [Netty Epoll Server IO #4/INFO] [com.teampotato.redirector.Redirector/]: Redirecting cpw/mods/inventorysorter/ScrollWheelHandler
 [04Feb2025 18:09:03.905] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting cpw/mods/inventorysorter/InventoryHandler
+[04Feb2025 18:24:53.856] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 4milcar moved too quickly! 6.87454855606461,-0.6425000131130219,-7.271736812154813
+[04Feb2025 18:25:36.556] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 4milcar lost connection: Disconnected
+[04Feb2025 18:25:36.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4milcar left the game
+[04Feb2025 18:25:36.636] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[04Feb2025 18:26:25.427] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 4milcar[/127.14.42.80:33431] logged in with entity id 29495 at (-1749.6141834518946, 78.9375, 1674.228985294465)
+[04Feb2025 18:26:25.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4milcar joined the game
+[04Feb2025 18:26:25.482] [Server thread/INFO] [Jade/]: Syncing config to 4milcar (38119765-827e-349e-83c9-41c05eb4dc76)
