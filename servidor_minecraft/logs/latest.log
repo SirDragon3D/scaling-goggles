@@ -2001,3 +2001,31 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [04Feb2025 18:35:57.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SirDragon3d: Added SirDragon3d to team [Dragons]]
 [04Feb2025 18:36:01.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SirDragon3d: Added 4milcar to team [Dragons]]
 [04Feb2025 18:36:29.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SirDragon3d: Enabled friendly fire for team [Dragons]]
+[04Feb2025 18:37:13.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [4milcar: Teleported 4milcar to SirDragon3d]
+[04Feb2025 18:37:17.959] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
+[04Feb2025 18:37:26.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SirDragon3d: Set own game mode to Spectator Mode]
+[04Feb2025 18:37:27.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SirDragon3d: Set own game mode to Survival Mode]
+[04Feb2025 18:37:29.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SirDragon3d: Set own game mode to Spectator Mode]
+[04Feb2025 18:37:31.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SirDragon3d: Set own game mode to Survival Mode]
+[04Feb2025 18:37:37.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SirDragon3d: Set the weather to clear]
+[04Feb2025 18:38:21.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4milcar has made the advancement [Light as a Rabbit]
+[04Feb2025 18:39:08.954] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 4milcar moved too quickly! -6.502529459619382,-1.0,7.569618508099893
+[04Feb2025 18:41:14.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SirDragon3d: Teleported SirDragon3d to 4milcar]
+[04Feb2025 18:42:59.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [4milcar: Teleported 4milcar to SirDragon3d]
+[04Feb2025 18:43:22.746] [Worker-Main-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting xiroc/dungeoncrawl/dungeon/Tile$Flag
+[04Feb2025 18:43:27.943] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:angler_additions_3_pool
+[04Feb2025 18:43:27.944] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:angler_end_1_pool
+[04Feb2025 18:44:38.524] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:house_basement_pool
+[04Feb2025 18:44:38.525] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[04Feb2025 18:44:38.525] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[04Feb2025 18:44:38.525] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_end_1_pool
+[04Feb2025 18:45:34.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [4milcar: Teleported 4milcar to SirDragon3d]
+[04Feb2025 18:46:15.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [4milcar: Teleported 4milcar to SirDragon3d]
+[04Feb2025 18:46:16.350] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[04Feb2025 18:46:16.351] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[04Feb2025 18:46:16.351] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[04Feb2025 18:46:16.352] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_end_1_pool
+[04Feb2025 18:47:11.966] [pool-8-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains]] from pos BlockPos{x=-2667, y=85, z=437}
+[04Feb2025 18:47:13.973] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 4milcar moved too quickly! 5.159572082527575,-1.7499999999999005,-8.396063828333013
+[04Feb2025 18:47:15.802] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3512ms or 70 ticks behind
+[04Feb2025 18:47:15.850] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/amendments/reg/ModBlockProperties$PostType
