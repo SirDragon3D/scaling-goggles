@@ -1560,5 +1560,17 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/cave_book": {
+    "criteria": {
+      "cave_book": "2025-02-04 17:29:18 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-02-04 17:25:58 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

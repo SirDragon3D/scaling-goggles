@@ -1940,3 +1940,10 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [04Feb2025 17:20:16.818] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/client/GlobeManager$Model
 [04Feb2025 17:23:29.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [4milcar: Teleported 4milcar to SirDragon3d]
 [04Feb2025 17:23:40.681] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/violetmoon/quark/content/world/gen/FallenLogGenerator$Decor
+[04Feb2025 17:25:58.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4milcar has made the advancement [Amateur Archaeologist]
+[04Feb2025 17:27:06.981] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Butcher'/11965, l='ServerLevel[world]', x=-1499.57, y=81.00, z=1261.58] died, message: 'Butcher was slain by 4milcar'
+[04Feb2025 17:29:18.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4milcar has made the advancement [Once Upon a Cave]
+[04Feb2025 17:33:21.153] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/core/WaystoneEditPermissions
+[04Feb2025 17:33:41.021] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/core/WarpMode
+[04Feb2025 17:33:43.104] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/api/EventResult
+[04Feb2025 17:34:14.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [4milcar: Teleported 4milcar to SirDragon3d]
