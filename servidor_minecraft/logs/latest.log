@@ -1910,3 +1910,12 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [04Feb2025 16:42:31.992] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mod/azure/azurelib/core/object/PlayState
 [04Feb2025 16:42:45.886] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/common/gui/SortBy
 [04Feb2025 16:43:34.847] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/gameevent/GameEventListener$DeliveryMode
+[04Feb2025 16:45:59.296] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 4milcar[/127.14.42.80:48653] logged in with entity id 2344 at (-1780.304078401519, 75.0, 1601.538444747077)
+[04Feb2025 16:45:59.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4milcar joined the game
+[04Feb2025 16:45:59.378] [Server thread/INFO] [Jade/]: Syncing config to 4milcar (38119765-827e-349e-83c9-41c05eb4dc76)
+[04Feb2025 16:47:38.449] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/PathFindingStatus
+[04Feb2025 16:47:38.450] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/AbstractAdvancedPathNavigate$RestrictionType
+[04Feb2025 16:47:38.454] [Citadel Pathfinding Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/SurfaceType
+[04Feb2025 16:47:39.441] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Markings
+[04Feb2025 16:47:57.048] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ilexiconn/llibrary/server/animation/AnimationHandler
+[04Feb2025 16:55:10.229] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting fr/rakambda/fallingtree/common/tree/TreePartType
