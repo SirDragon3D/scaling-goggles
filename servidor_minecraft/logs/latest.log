@@ -1977,3 +1977,7 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [04Feb2025 18:02:53.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SirDragon3d: Set own game mode to Survival Mode]
 [04Feb2025 18:04:39.995] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/849, l='ServerLevel[world]', x=-1777.50, y=72.00, z=1671.50] died, message: 'Fletcher went up in flames'
 [04Feb2025 18:06:16.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [4milcar: Teleported 4milcar to SirDragon3d]
+[04Feb2025 18:09:03.890] [Netty Epoll Server IO #4/INFO] [com.teampotato.redirector.Redirector/]: Redirecting cpw/mods/inventorysorter/Action
+[04Feb2025 18:09:03.891] [Netty Epoll Server IO #4/INFO] [com.teampotato.redirector.Redirector/]: Redirecting cpw/mods/inventorysorter/SortingHandler
+[04Feb2025 18:09:03.893] [Netty Epoll Server IO #4/INFO] [com.teampotato.redirector.Redirector/]: Redirecting cpw/mods/inventorysorter/ScrollWheelHandler
+[04Feb2025 18:09:03.905] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting cpw/mods/inventorysorter/InventoryHandler
