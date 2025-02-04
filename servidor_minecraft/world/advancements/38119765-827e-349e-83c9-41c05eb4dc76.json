@@ -899,7 +899,8 @@
   "croptopia:gather_food": {
     "criteria": {
       "toast": "2025-01-28 08:14:08 +0000",
-      "calamari": "2025-01-27 19:14:18 +0000"
+      "calamari": "2025-01-27 19:14:18 +0000",
+      "glowing_calamari": "2025-02-04 17:14:55 +0000"
     },
     "done": false
   },
