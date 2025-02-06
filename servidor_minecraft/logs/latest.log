@@ -2185,3 +2185,153 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [
   "versionbind"
 ]
+[06Feb2025 06:42:16.752] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ClientIntentionPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[06Feb2025 06:42:16.753] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134720_": 0,
+  "f_134721_": "",
+  "f_134722_": 0,
+  "f_134723_": "PLAY",
+  "fmlVersion": "NONE"
+}
+[06Feb2025 06:42:16.753] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 3 extra bytes: 
+[06Feb2025 06:42:16.753] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[0, 0, 0]"
+]
+[06Feb2025 06:43:47.166] [Netty Epoll Server IO #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/steinborn/krypton/mod/shared/network/util/WellKnownExceptions
+[06Feb2025 06:44:40.624] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ClientIntentionPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[06Feb2025 06:44:40.625] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134720_": 0,
+  "f_134721_": "",
+  "f_134722_": 4641,
+  "fmlVersion": "NONE"
+}
+[06Feb2025 06:44:40.625] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 29 extra bytes: 
+[06Feb2025 06:44:40.625] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  ":62710*fd135ge@&yt_02123"
+]
+[06Feb2025 06:44:52.660] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:ClientIntentionPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[06Feb2025 06:44:52.660] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134720_": 18,
+  "f_134721_": "",
+  "f_134722_": 127,
+  "fmlVersion": "NONE"
+}
+[06Feb2025 06:44:52.661] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 1 extra bytes: 
+[06Feb2025 06:44:52.661] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[0]"
+]
+[06Feb2025 06:44:56.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [4milcar: Teleported 4milcar to SirDragon3d]
+[06Feb2025 06:45:16.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> esa es buena
+[06Feb2025 06:45:25.281] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ClientIntentionPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[06Feb2025 06:45:25.281] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134720_": 0,
+  "f_134721_": "",
+  "f_134722_": 306,
+  "fmlVersion": "NONE"
+}
+[06Feb2025 06:45:25.281] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 43 extra bytes: 
+[06Feb2025 06:45:25.282] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "wx^j2J`{\"@timestamp\":\"2023-11"
+]
+[06Feb2025 06:45:28.183] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:ClientIntentionPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[06Feb2025 06:45:28.184] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134720_": 0,
+  "f_134721_": "",
+  "f_134722_": 27003,
+  "fmlVersion": "NONE"
+}
+[06Feb2025 06:45:28.185] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 103 extra bytes: 
+[06Feb2025 06:45:28.185] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "code\":105,\"language\":\"GO\",\"version\":317,\"opaque\":2,\"flag\":0,\"remark\":\"\",\"extFields\":{\"topic\":\"TBW102\"}}"
+]
+[06Feb2025 06:45:43.191] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:ClientIntentionPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[06Feb2025 06:45:43.192] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134720_": 0,
+  "f_134721_": "",
+  "f_134722_": 0,
+  "f_134723_": "PLAY",
+  "fmlVersion": "NONE"
+}
+[06Feb2025 06:45:43.192] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 35 extra bytes: 
+[06Feb2025 06:45:43.192] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "{\"Type\":\"Auth\",\"Payload\":{\"Version"
+]
+[06Feb2025 06:45:52.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> recien me doy cuenta que llevo como 20m escuchando musica de fnf
+[06Feb2025 06:45:54.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> XDDD
+[06Feb2025 06:46:10.245] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:ClientIntentionPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[06Feb2025 06:46:10.246] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134720_": 0,
+  "f_134721_": "",
+  "f_134722_": 12032,
+  "f_134723_": "PLAY",
+  "fmlVersion": "NONE"
+}
+[06Feb2025 06:46:10.246] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 52 extra bytes: 
+[06Feb2025 06:46:10.246] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[0, 2, 0, 0, 64, 2, 15, 0, 1, 0, 61, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 47, 0, 0, 0, 0, 0, 0, 0, 0, 0, 64, 31, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
+]
+[06Feb2025 06:46:10.246] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:ClientIntentionPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[06Feb2025 06:46:10.246] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134720_": 2,
+  "f_134721_": "",
+  "f_134722_": 64,
+  "f_134723_": "LOGIN",
+  "fmlVersion": "NONE"
+}
+[06Feb2025 06:46:10.247] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 46 extra bytes: 
+[06Feb2025 06:46:10.247] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[15, 0, 1, 0, 61, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 47, 0, 0, 0, 0, 0, 0, 0, 0, 0, 64, 31, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
+]
+[06Feb2025 06:46:31.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> hablando de musica
+[06Feb2025 06:46:40.183] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ClientIntentionPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[06Feb2025 06:46:40.183] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134720_": 52,
+  "f_134721_": "",
+  "f_134722_": 0,
+  "f_134723_": "PLAY",
+  "fmlVersion": "NONE"
+}
+[06Feb2025 06:46:40.183] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 11 extra bytes: 
+[06Feb2025 06:46:40.184] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[0, 0, 21, 0, 6, 1, 0, 27, 0, 1, 2]"
+]
+[06Feb2025 06:46:51.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> no crecen sapplings en nieve
+[06Feb2025 06:46:55.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> que asco
+[06Feb2025 06:46:58.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> los de abeto si
+[06Feb2025 06:47:07.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> dice que crecen en invierno
+[06Feb2025 06:48:00.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> diavlo 3 stack de diamante
+[06Feb2025 06:48:13.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> seh
+[06Feb2025 06:49:04.290] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/chaosthedude/naturescompass/util/CompassState
+[06Feb2025 06:49:04.295] [Server thread/INFO] [naturescompass/]: Starting search: 64 sample space, 50000 max samples, 10000 max radius
+[06Feb2025 06:49:04.714] [Server thread/INFO] [naturescompass/]: Search succeeded: 1971 radius, 1807 samples
+[06Feb2025 06:49:45.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> voy a buscar desierto
+[06Feb2025 06:49:50.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> vienes?
+[06Feb2025 06:49:55.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> nah
+[06Feb2025 06:49:58.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> para que desierto?
+[06Feb2025 06:50:02.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> calido
+[06Feb2025 06:50:07.385] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/veroxuniverse/samurai_dynasty/entity/variant/KomainuVariant
+[06Feb2025 06:50:13.313] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting gg/moonflower/etched/common/item/EtchedMusicDiscItem$LabelPattern
+[06Feb2025 06:51:37.641] [Downloader 2/INFO] [gg.moonflower.etched.common.sound.download.SoundCloudSource/]: Retrieving sound cloud id

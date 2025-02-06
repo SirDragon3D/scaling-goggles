@@ -19224,3 +19224,370 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [
   "versionbind"
 ]
+[06Feb2025 06:42:16.752] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ClientIntentionPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[06Feb2025 06:42:16.753] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134720_": 0,
+  "f_134721_": "",
+  "f_134722_": 0,
+  "f_134723_": "PLAY",
+  "fmlVersion": "NONE"
+}
+[06Feb2025 06:42:16.753] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 3 extra bytes: 
+[06Feb2025 06:42:16.753] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[0, 0, 0]"
+]
+[06Feb2025 06:43:47.166] [Netty Epoll Server IO #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/steinborn/krypton/mod/shared/network/util/WellKnownExceptions
+[06Feb2025 06:44:40.624] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ClientIntentionPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[06Feb2025 06:44:40.625] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134720_": 0,
+  "f_134721_": "",
+  "f_134722_": 4641,
+  "fmlVersion": "NONE"
+}
+[06Feb2025 06:44:40.625] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 29 extra bytes: 
+[06Feb2025 06:44:40.625] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  ":62710*fd135ge@&yt_02123"
+]
+[06Feb2025 06:44:52.660] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:ClientIntentionPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[06Feb2025 06:44:52.660] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134720_": 18,
+  "f_134721_": "",
+  "f_134722_": 127,
+  "fmlVersion": "NONE"
+}
+[06Feb2025 06:44:52.661] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 1 extra bytes: 
+[06Feb2025 06:44:52.661] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[0]"
+]
+[06Feb2025 06:44:56.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [4milcar: Teleported 4milcar to SirDragon3d]
+[06Feb2025 06:45:04.724] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-1752.92, y=78.38, z=1663.28], dimensionLocationPath overworld
+[06Feb2025 06:45:04.724] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-1752.92, y=78.38, z=1663.28] in list []
+[06Feb2025 06:45:04.776] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-1752.92, y=78.38, z=1663.28]
+[06Feb2025 06:45:05.276] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-1752.92, y=78.38, z=1663.28], dimensionLocationPath overworld
+[06Feb2025 06:45:05.276] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-1752.92, y=78.38, z=1663.28] in list []
+[06Feb2025 06:45:16.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> esa es buena
+[06Feb2025 06:45:24.129] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['SirDragon3d'/6679, l='ServerLevel[world]', x=-1764.88, y=77.00, z=1657.43], dimensionLocationPath overworld
+[06Feb2025 06:45:24.129] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['SirDragon3d'/6679, l='ServerLevel[world]', x=-1764.88, y=77.00, z=1657.43] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@35a]
+[06Feb2025 06:45:25.281] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ClientIntentionPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[06Feb2025 06:45:25.281] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134720_": 0,
+  "f_134721_": "",
+  "f_134722_": 306,
+  "fmlVersion": "NONE"
+}
+[06Feb2025 06:45:25.281] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 43 extra bytes: 
+[06Feb2025 06:45:25.282] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "wx^j2J`{\"@timestamp\":\"2023-11"
+]
+[06Feb2025 06:45:27.028] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-1742.05, y=72.25, z=1583.41]
+[06Feb2025 06:45:28.183] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:ClientIntentionPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[06Feb2025 06:45:28.184] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134720_": 0,
+  "f_134721_": "",
+  "f_134722_": 27003,
+  "fmlVersion": "NONE"
+}
+[06Feb2025 06:45:28.185] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 103 extra bytes: 
+[06Feb2025 06:45:28.185] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "code\":105,\"language\":\"GO\",\"version\":317,\"opaque\":2,\"flag\":0,\"remark\":\"\",\"extFields\":{\"topic\":\"TBW102\"}}"
+]
+[06Feb2025 06:45:31.778] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['SirDragon3d'/6679, l='ServerLevel[world]', x=-1764.52, y=76.77, z=1656.82]
+[06Feb2025 06:45:34.928] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-1741.76, y=72.25, z=1583.27], dimensionLocationPath overworld
+[06Feb2025 06:45:34.928] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-1741.76, y=72.25, z=1583.27] in list []
+[06Feb2025 06:45:38.378] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['SirDragon3d'/6679, l='ServerLevel[world]', x=-1743.30, y=79.38, z=1663.01], dimensionLocationPath overworld
+[06Feb2025 06:45:38.378] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['SirDragon3d'/6679, l='ServerLevel[world]', x=-1743.30, y=79.38, z=1663.01] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@35a]
+[06Feb2025 06:45:40.982] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['SirDragon3d'/6679, l='ServerLevel[world]', x=-1737.99, y=79.43, z=1661.57]
+[06Feb2025 06:45:43.191] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:ClientIntentionPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[06Feb2025 06:45:43.192] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134720_": 0,
+  "f_134721_": "",
+  "f_134722_": 0,
+  "f_134723_": "PLAY",
+  "fmlVersion": "NONE"
+}
+[06Feb2025 06:45:43.192] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 35 extra bytes: 
+[06Feb2025 06:45:43.192] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "{\"Type\":\"Auth\",\"Payload\":{\"Version"
+]
+[06Feb2025 06:45:46.055] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new vanilla impl connection.
+[06Feb2025 06:45:52.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> recien me doy cuenta que llevo como 20m escuchando musica de fnf
+[06Feb2025 06:45:54.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> XDDD
+[06Feb2025 06:46:10.245] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:ClientIntentionPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[06Feb2025 06:46:10.246] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134720_": 0,
+  "f_134721_": "",
+  "f_134722_": 12032,
+  "f_134723_": "PLAY",
+  "fmlVersion": "NONE"
+}
+[06Feb2025 06:46:10.246] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 52 extra bytes: 
+[06Feb2025 06:46:10.246] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[0, 2, 0, 0, 64, 2, 15, 0, 1, 0, 61, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 47, 0, 0, 0, 0, 0, 0, 0, 0, 0, 64, 31, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
+]
+[06Feb2025 06:46:10.246] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:ClientIntentionPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[06Feb2025 06:46:10.246] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134720_": 2,
+  "f_134721_": "",
+  "f_134722_": 64,
+  "f_134723_": "LOGIN",
+  "fmlVersion": "NONE"
+}
+[06Feb2025 06:46:10.247] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 46 extra bytes: 
+[06Feb2025 06:46:10.247] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[15, 0, 1, 0, 61, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 47, 0, 0, 0, 0, 0, 0, 0, 0, 0, 64, 31, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
+]
+[06Feb2025 06:46:11.727] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['SirDragon3d'/6679, l='ServerLevel[world]', x=-1716.50, y=86.00, z=1659.60], dimensionLocationPath overworld
+[06Feb2025 06:46:11.727] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['SirDragon3d'/6679, l='ServerLevel[world]', x=-1716.50, y=86.00, z=1659.60] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@35a]
+[06Feb2025 06:46:11.778] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['SirDragon3d'/6679, l='ServerLevel[world]', x=-1716.50, y=86.00, z=1659.60]
+[06Feb2025 06:46:12.078] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['SirDragon3d'/6679, l='ServerLevel[world]', x=-1716.50, y=86.00, z=1659.60], dimensionLocationPath overworld
+[06Feb2025 06:46:12.078] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['SirDragon3d'/6679, l='ServerLevel[world]', x=-1716.50, y=86.00, z=1659.60] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@35a]
+[06Feb2025 06:46:14.729] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-1748.07, y=72.25, z=1599.81]
+[06Feb2025 06:46:21.728] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['SirDragon3d'/6679, l='ServerLevel[world]', x=-1713.97, y=86.00, z=1656.37]
+[06Feb2025 06:46:26.827] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-1750.30, y=72.31, z=1596.31], dimensionLocationPath overworld
+[06Feb2025 06:46:26.827] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-1750.30, y=72.31, z=1596.31] in list []
+[06Feb2025 06:46:26.926] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-1750.30, y=72.31, z=1596.31]
+[06Feb2025 06:46:29.279] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-1750.30, y=72.31, z=1596.31], dimensionLocationPath overworld
+[06Feb2025 06:46:29.279] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-1750.30, y=72.31, z=1596.31] in list []
+[06Feb2025 06:46:29.328] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-1750.30, y=72.31, z=1596.31]
+[06Feb2025 06:46:31.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> hablando de musica
+[06Feb2025 06:46:33.721] [Server thread/DEBUG] [FabricRegistrySync/]: Starting registry save
+[06Feb2025 06:46:33.721] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:command_argument_type
+[06Feb2025 06:46:33.721] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:item
+[06Feb2025 06:46:33.721] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_entity_type
+[06Feb2025 06:46:33.721] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:custom_stat
+[06Feb2025 06:46:33.721] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/foliage_placer_type
+[06Feb2025 06:46:33.721] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:stat_type
+[06Feb2025 06:46:33.721] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_rule
+[06Feb2025 06:46:33.721] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_type
+[06Feb2025 06:46:33.721] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:attribute
+[06Feb2025 06:46:33.721] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:position_source_type
+[06Feb2025 06:46:33.721] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:height_provider_type
+[06Feb2025 06:46:33.721] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_block_entity_modifier
+[06Feb2025 06:46:33.721] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/density_function_type
+[06Feb2025 06:46:33.721] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:fluid
+[06Feb2025 06:46:33.721] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:global_loot_modifier_serializers
+[06Feb2025 06:46:33.721] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_condition_type
+[06Feb2025 06:46:33.721] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_pool_element
+[06Feb2025 06:46:33.721] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:activity
+[06Feb2025 06:46:33.721] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_serializer
+[06Feb2025 06:46:33.721] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:frog_variant
+[06Feb2025 06:46:33.721] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:banner_pattern
+[06Feb2025 06:46:33.721] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:instrument
+[06Feb2025 06:46:33.721] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:decorated_pot_patterns
+[06Feb2025 06:46:33.721] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature_size_type
+[06Feb2025 06:46:33.721] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:point_of_interest_type
+[06Feb2025 06:46:33.721] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:mob_effect
+[06Feb2025 06:46:33.721] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_pool_entry_type
+[06Feb2025 06:46:33.721] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/block_state_provider_type
+[06Feb2025 06:46:33.721] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/chunk_generator
+[06Feb2025 06:46:33.721] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:float_provider_type
+[06Feb2025 06:46:33.721] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:chunk_status
+[06Feb2025 06:46:33.721] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:enchantment
+[06Feb2025 06:46:33.721] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_function_type
+[06Feb2025 06:46:33.721] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_processor
+[06Feb2025 06:46:33.721] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_score_provider_type
+[06Feb2025 06:46:33.721] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/tree_decorator_type
+[06Feb2025 06:46:33.721] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:schedule
+[06Feb2025 06:46:33.721] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_condition
+[06Feb2025 06:46:33.721] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:entity_type
+[06Feb2025 06:46:33.721] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_profession
+[06Feb2025 06:46:33.721] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:potion
+[06Feb2025 06:46:33.721] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_type
+[06Feb2025 06:46:33.721] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:int_provider_type
+[06Feb2025 06:46:33.721] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature
+[06Feb2025 06:46:33.721] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:cat_variant
+[06Feb2025 06:46:33.721] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:pos_rule_test
+[06Feb2025 06:46:33.721] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_placement
+[06Feb2025 06:46:33.721] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_nbt_provider_type
+[06Feb2025 06:46:33.721] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:menu
+[06Feb2025 06:46:33.721] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/trunk_placer_type
+[06Feb2025 06:46:33.721] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:creative_mode_tab
+[06Feb2025 06:46:33.721] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/placement_modifier_type
+[06Feb2025 06:46:33.721] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/carver
+[06Feb2025 06:46:33.721] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_number_provider_type
+[06Feb2025 06:46:33.721] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_piece
+[06Feb2025 06:46:33.721] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sound_event
+[06Feb2025 06:46:33.721] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:particle_type
+[06Feb2025 06:46:33.721] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:game_event
+[06Feb2025 06:46:33.721] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/biome_source
+[06Feb2025 06:46:33.721] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/root_placer_type
+[06Feb2025 06:46:33.721] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_type
+[06Feb2025 06:46:33.721] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:painting_variant
+[06Feb2025 06:46:33.721] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:fluid_type
+[06Feb2025 06:46:33.721] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_predicate_type
+[06Feb2025 06:46:33.721] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block
+[06Feb2025 06:46:33.722] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:entity_data_serializers
+[06Feb2025 06:46:33.722] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sensor_type
+[06Feb2025 06:46:33.722] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_test
+[06Feb2025 06:46:33.722] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:memory_module_type
+[06Feb2025 06:46:33.722] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving empty registry data
+[06Feb2025 06:46:33.722] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Feb2025 06:46:33.750] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Feb2025 06:46:40.183] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ClientIntentionPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[06Feb2025 06:46:40.183] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134720_": 52,
+  "f_134721_": "",
+  "f_134722_": 0,
+  "f_134723_": "PLAY",
+  "fmlVersion": "NONE"
+}
+[06Feb2025 06:46:40.183] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 11 extra bytes: 
+[06Feb2025 06:46:40.184] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[0, 0, 21, 0, 6, 1, 0, 27, 0, 1, 2]"
+]
+[06Feb2025 06:46:51.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> no crecen sapplings en nieve
+[06Feb2025 06:46:55.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> que asco
+[06Feb2025 06:46:57.613] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[06Feb2025 06:46:58.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> los de abeto si
+[06Feb2025 06:46:59.680] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-1747, y=72, z=1594}) doesn't have enough leaves around top most log
+[06Feb2025 06:47:00.380] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-1747, y=72, z=1594}) doesn't have enough leaves around top most log
+[06Feb2025 06:47:01.083] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-1747, y=72, z=1594}) doesn't have enough leaves around top most log
+[06Feb2025 06:47:01.779] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-1747, y=72, z=1594}) doesn't have enough leaves around top most log
+[06Feb2025 06:47:02.495] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-1747, y=72, z=1594}) doesn't have enough leaves around top most log
+[06Feb2025 06:47:03.180] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-1747, y=72, z=1594}) doesn't have enough leaves around top most log
+[06Feb2025 06:47:03.881] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-1747, y=72, z=1594}) doesn't have enough leaves around top most log
+[06Feb2025 06:47:04.653] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-1747, y=72, z=1594}) doesn't have enough leaves around top most log
+[06Feb2025 06:47:05.343] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-1747, y=72, z=1594}) doesn't have enough leaves around top most log
+[06Feb2025 06:47:05.994] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-1747, y=72, z=1594}) doesn't have enough leaves around top most log
+[06Feb2025 06:47:06.701] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-1747, y=72, z=1594}) doesn't have enough leaves around top most log
+[06Feb2025 06:47:07.396] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-1747, y=72, z=1594}) doesn't have enough leaves around top most log
+[06Feb2025 06:47:07.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> dice que crecen en invierno
+[06Feb2025 06:47:10.585] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['SirDragon3d'/6679, l='ServerLevel[world]', x=-1843.50, y=80.00, z=855.50], dimensionLocationPath overworld
+[06Feb2025 06:47:10.585] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['SirDragon3d'/6679, l='ServerLevel[world]', x=-1843.50, y=80.00, z=855.50] in list []
+[06Feb2025 06:47:10.932] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['SirDragon3d'/6679, l='ServerLevel[world]', x=-1843.64, y=79.94, z=854.48]
+[06Feb2025 06:47:13.532] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-1747, y=73, z=1594}) doesn't have enough leaves around top most log
+[06Feb2025 06:47:14.232] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-1747, y=73, z=1594}) doesn't have enough leaves around top most log
+[06Feb2025 06:47:14.934] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-1747, y=73, z=1594}) doesn't have enough leaves around top most log
+[06Feb2025 06:47:15.633] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-1747, y=73, z=1594}) doesn't have enough leaves around top most log
+[06Feb2025 06:47:16.333] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-1747, y=73, z=1594}) doesn't have enough leaves around top most log
+[06Feb2025 06:47:17.067] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[06Feb2025 06:47:18.666] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[06Feb2025 06:47:41.330] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-1744.08, y=72.19, z=1580.28], dimensionLocationPath overworld
+[06Feb2025 06:47:41.331] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-1744.08, y=72.19, z=1580.28] in list []
+[06Feb2025 06:47:41.331] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-1744.18, y=72.55, z=1580.67]
+[06Feb2025 06:47:50.032] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-1745.52, y=72.25, z=1580.06], dimensionLocationPath overworld
+[06Feb2025 06:47:50.032] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-1745.52, y=72.25, z=1580.06] in list []
+[06Feb2025 06:47:50.430] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-1745.52, y=72.25, z=1580.06]
+[06Feb2025 06:48:00.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> diavlo 3 stack de diamante
+[06Feb2025 06:48:13.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> seh
+[06Feb2025 06:48:34.686] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['SirDragon3d'/6679, l='ServerLevel[world]', x=-1839.42, y=81.06, z=853.30], dimensionLocationPath overworld
+[06Feb2025 06:48:34.686] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['SirDragon3d'/6679, l='ServerLevel[world]', x=-1839.42, y=81.06, z=853.30] in list []
+[06Feb2025 06:48:35.032] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['SirDragon3d'/6679, l='ServerLevel[world]', x=-1837.39, y=80.56, z=853.10]
+[06Feb2025 06:48:35.785] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['SirDragon3d'/6679, l='ServerLevel[world]', x=-1832.40, y=79.12, z=852.61], dimensionLocationPath overworld
+[06Feb2025 06:48:35.785] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['SirDragon3d'/6679, l='ServerLevel[world]', x=-1832.40, y=79.12, z=852.61] in list []
+[06Feb2025 06:49:04.290] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/chaosthedude/naturescompass/util/CompassState
+[06Feb2025 06:49:04.295] [Server thread/INFO] [naturescompass/]: Starting search: 64 sample space, 50000 max samples, 10000 max radius
+[06Feb2025 06:49:04.714] [Server thread/INFO] [naturescompass/]: Search succeeded: 1971 radius, 1807 samples
+[06Feb2025 06:49:14.690] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/51337, l='ServerLevel[world]', x=-1745.72, y=79.29, z=1661.33], dimensionLocationPath overworld
+[06Feb2025 06:49:14.690] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/51337, l='ServerLevel[world]', x=-1745.72, y=79.29, z=1661.33] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@1a17]
+[06Feb2025 06:49:45.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> voy a buscar desierto
+[06Feb2025 06:49:50.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> vienes?
+[06Feb2025 06:49:55.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> nah
+[06Feb2025 06:49:58.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> para que desierto?
+[06Feb2025 06:49:59.583] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['SirDragon3d'/6679, l='ServerLevel[world]', x=-1850.32, y=81.00, z=853.62]
+[06Feb2025 06:50:02.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> calido
+[06Feb2025 06:50:07.385] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/veroxuniverse/samurai_dynasty/entity/variant/KomainuVariant
+[06Feb2025 06:50:09.984] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['SirDragon3d'/6679, l='ServerLevel[world]', x=-1849.33, y=81.00, z=854.40], dimensionLocationPath overworld
+[06Feb2025 06:50:09.984] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['SirDragon3d'/6679, l='ServerLevel[world]', x=-1849.33, y=81.00, z=854.40] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@c889]
+[06Feb2025 06:50:10.033] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['SirDragon3d'/6679, l='ServerLevel[world]', x=-1849.33, y=81.00, z=854.40]
+[06Feb2025 06:50:10.283] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['SirDragon3d'/6679, l='ServerLevel[world]', x=-1849.33, y=81.00, z=854.40], dimensionLocationPath overworld
+[06Feb2025 06:50:10.283] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['SirDragon3d'/6679, l='ServerLevel[world]', x=-1849.33, y=81.00, z=854.40] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@c889]
+[06Feb2025 06:50:10.382] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['SirDragon3d'/6679, l='ServerLevel[world]', x=-1849.33, y=81.00, z=854.40]
+[06Feb2025 06:50:13.313] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting gg/moonflower/etched/common/item/EtchedMusicDiscItem$LabelPattern
+[06Feb2025 06:51:33.740] [Server thread/DEBUG] [FabricRegistrySync/]: Starting registry save
+[06Feb2025 06:51:33.740] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:command_argument_type
+[06Feb2025 06:51:33.740] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:item
+[06Feb2025 06:51:33.740] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_entity_type
+[06Feb2025 06:51:33.740] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:custom_stat
+[06Feb2025 06:51:33.740] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/foliage_placer_type
+[06Feb2025 06:51:33.740] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:stat_type
+[06Feb2025 06:51:33.740] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_rule
+[06Feb2025 06:51:33.740] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_type
+[06Feb2025 06:51:33.740] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:attribute
+[06Feb2025 06:51:33.740] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:position_source_type
+[06Feb2025 06:51:33.740] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:height_provider_type
+[06Feb2025 06:51:33.740] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_block_entity_modifier
+[06Feb2025 06:51:33.741] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/density_function_type
+[06Feb2025 06:51:33.741] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:fluid
+[06Feb2025 06:51:33.741] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:global_loot_modifier_serializers
+[06Feb2025 06:51:33.741] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_condition_type
+[06Feb2025 06:51:33.741] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_pool_element
+[06Feb2025 06:51:33.741] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:activity
+[06Feb2025 06:51:33.741] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_serializer
+[06Feb2025 06:51:33.741] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:frog_variant
+[06Feb2025 06:51:33.741] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:banner_pattern
+[06Feb2025 06:51:33.741] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:instrument
+[06Feb2025 06:51:33.741] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:decorated_pot_patterns
+[06Feb2025 06:51:33.741] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature_size_type
+[06Feb2025 06:51:33.741] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:point_of_interest_type
+[06Feb2025 06:51:33.741] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:mob_effect
+[06Feb2025 06:51:33.741] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_pool_entry_type
+[06Feb2025 06:51:33.741] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/block_state_provider_type
+[06Feb2025 06:51:33.741] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/chunk_generator
+[06Feb2025 06:51:33.741] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:float_provider_type
+[06Feb2025 06:51:33.741] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:chunk_status
+[06Feb2025 06:51:33.741] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:enchantment
+[06Feb2025 06:51:33.742] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_function_type
+[06Feb2025 06:51:33.742] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_processor
+[06Feb2025 06:51:33.742] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_score_provider_type
+[06Feb2025 06:51:33.742] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/tree_decorator_type
+[06Feb2025 06:51:33.742] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:schedule
+[06Feb2025 06:51:33.742] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_condition
+[06Feb2025 06:51:33.742] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:entity_type
+[06Feb2025 06:51:33.742] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_profession
+[06Feb2025 06:51:33.742] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:potion
+[06Feb2025 06:51:33.742] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_type
+[06Feb2025 06:51:33.742] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:int_provider_type
+[06Feb2025 06:51:33.742] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature
+[06Feb2025 06:51:33.742] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:cat_variant
+[06Feb2025 06:51:33.742] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:pos_rule_test
+[06Feb2025 06:51:33.742] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_placement
+[06Feb2025 06:51:33.742] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_nbt_provider_type
+[06Feb2025 06:51:33.742] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:menu
+[06Feb2025 06:51:33.742] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/trunk_placer_type
+[06Feb2025 06:51:33.742] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:creative_mode_tab
+[06Feb2025 06:51:33.742] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/placement_modifier_type
+[06Feb2025 06:51:33.742] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/carver
+[06Feb2025 06:51:33.742] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_number_provider_type
+[06Feb2025 06:51:33.742] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_piece
+[06Feb2025 06:51:33.742] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sound_event
+[06Feb2025 06:51:33.742] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:particle_type
+[06Feb2025 06:51:33.742] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:game_event
+[06Feb2025 06:51:33.742] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/biome_source
+[06Feb2025 06:51:33.742] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/root_placer_type
+[06Feb2025 06:51:33.742] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_type
+[06Feb2025 06:51:33.742] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:painting_variant
+[06Feb2025 06:51:33.742] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:fluid_type
+[06Feb2025 06:51:33.742] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_predicate_type
+[06Feb2025 06:51:33.742] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block
+[06Feb2025 06:51:33.742] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:entity_data_serializers
+[06Feb2025 06:51:33.742] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sensor_type
+[06Feb2025 06:51:33.742] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_test
+[06Feb2025 06:51:33.742] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:memory_module_type
+[06Feb2025 06:51:33.742] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving empty registry data
+[06Feb2025 06:51:33.743] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Feb2025 06:51:33.770] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Feb2025 06:51:37.641] [Downloader 2/INFO] [gg.moonflower.etched.common.sound.download.SoundCloudSource/]: Retrieving sound cloud id
