@@ -1278,12 +1278,6 @@
     },
     "done": true
   },
-  "create:root": {
-    "criteria": {
-      "0": "2025-02-03 13:17:30 +0000"
-    },
-    "done": true
-  },
   "croptopia:root": {
     "criteria": {
       "root": "2025-02-03 13:24:10 +0000"
@@ -1359,12 +1353,6 @@
   "new_slab_variants:recipes/building_blocks/glass_slab": {
     "criteria": {
       "has_glass": "2025-02-03 15:46:41 +0000"
-    },
-    "done": true
-  },
-  "create:copper": {
-    "criteria": {
-      "0": "2025-02-03 16:10:30 +0000"
     },
     "done": true
   },
@@ -1662,12 +1650,6 @@
     },
     "done": true
   },
-  "dungeons_arise:find_heavenly_conqueror": {
-    "criteria": {
-      "location0": "2025-02-04 20:31:46 +0000"
-    },
-    "done": true
-  },
   "minecraft:end/find_end_city": {
     "criteria": {
       "in_city": "2025-02-04 20:30:14 +0000"
@@ -1677,6 +1659,12 @@
   "minecraft:end/elytra": {
     "criteria": {
       "elytra": "2025-02-04 20:30:54 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_heavenly_conqueror": {
+    "criteria": {
+      "location0": "2025-02-04 20:31:46 +0000"
     },
     "done": true
   },
