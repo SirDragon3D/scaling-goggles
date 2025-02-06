@@ -456,6 +456,7 @@
       "minecraft:spider": "2025-01-27 07:32:40 +0000",
       "minecraft:piglin_brute": "2025-01-28 11:30:53 +0000",
       "minecraft:creeper": "2025-01-27 17:02:32 +0000",
+      "quark:forgotten": "2025-02-06 06:12:59 +0000",
       "minecraft:phantom": "2025-02-06 05:39:53 +0000",
       "minecraft:witch": "2025-01-28 10:50:04 +0000",
       "minecraft:wither_skeleton": "2025-01-27 17:55:44 +0000",
@@ -1706,6 +1707,12 @@
     },
     "done": true
   },
+  "quark:get_forgotten_hat": {
+    "criteria": {
+      "get_forgotten_hat": "2025-02-06 06:13:05 +0000"
+    },
+    "done": true
+  },
   "new_slab_variants:recipes/building_blocks/stripped_jungle_wood_slab": {
     "criteria": {
       "has_stripped_jungle_wood": "2025-02-06 05:39:55 +0000"
@@ -1723,6 +1730,12 @@
       "phantom": "2025-02-06 05:39:53 +0000"
     },
     "done": false
+  },
+  "deeperdarker:main/find_ancient_city": {
+    "criteria": {
+      "ancient_city": "2025-02-06 06:15:45 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
