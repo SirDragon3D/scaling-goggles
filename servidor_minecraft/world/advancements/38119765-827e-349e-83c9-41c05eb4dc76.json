@@ -459,6 +459,7 @@
       "minecraft:witch": "2025-01-28 10:50:04 +0000",
       "minecraft:wither_skeleton": "2025-01-27 17:55:44 +0000",
       "minecraft:husk": "2025-01-28 11:05:58 +0000",
+      "minecraft:shulker": "2025-02-06 05:29:58 +0000",
       "minecraft:stray": "2025-01-27 17:55:28 +0000",
       "minecraft:enderman": "2025-01-28 08:35:39 +0000",
       "minecraft:silverfish": "2025-01-28 09:01:34 +0000",
@@ -1671,6 +1672,12 @@
   "new_slab_variants:recipes/building_blocks/pumpkin_slab": {
     "criteria": {
       "has_pumpkin": "2025-02-04 20:41:32 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_heavenly_rider": {
+    "criteria": {
+      "location0": "2025-02-06 05:33:02 +0000"
     },
     "done": true
   },

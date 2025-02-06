@@ -17215,3 +17215,245 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [06Feb2025 05:28:38.232] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.minecraft.world.inventory.InventoryMenu@274ec475, b=9, e=35}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.InventoryMenu@274ec475, b=36, e=44}, net.minecraft.world.inventory.TransientCraftingContainer@7c1fc757=InventoryMapping{i=net.minecraft.world.inventory.TransientCraftingContainer@7c1fc757, c=net.minecraft.world.inventory.InventoryMenu@274ec475, b=1, e=4}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.InventoryMenu@274ec475, b=45, e=45}, net.minecraft.world.inventory.ResultContainer@72ab0085=InventoryMapping{i=net.minecraft.world.inventory.ResultContainer@72ab0085, c=net.minecraft.world.inventory.InventoryMenu@274ec475, b=0, e=0}}
 [06Feb2025 05:28:38.232] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=[], c=net.minecraft.world.inventory.InventoryMenu@274ec475, b=9, e=35}
 [06Feb2025 05:30:35.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> ya agarre suficiente lana
+[06Feb2025 05:30:47.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> farmeando perlas
+[06Feb2025 05:31:00.469] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_rider/heavenly_rider_part_1
+[06Feb2025 05:31:00.474] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_rider/heavenly_rider_mounted_skeleton_0
+[06Feb2025 05:31:00.487] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_rider/heavenly_rider_part_3
+[06Feb2025 05:31:00.505] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_rider/heavenly_rider_part_0
+[06Feb2025 05:31:00.510] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_rider/heavenly_rider_mounted_melee_0
+[06Feb2025 05:31:00.517] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_rider/heavenly_rider_part_4
+[06Feb2025 05:31:00.519] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_rider/heavenly_rider_husk_0
+[06Feb2025 05:31:00.527] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_rider/heavenly_rider_part_5
+[06Feb2025 05:31:00.537] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_rider/heavenly_rider_part_7
+[06Feb2025 05:31:00.546] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_rider/heavenly_rider_part_6
+[06Feb2025 05:31:09.573] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/ShulkerBoxBlockEntity$AnimationStatus
+[06Feb2025 05:31:33.726] [Server thread/DEBUG] [FabricRegistrySync/]: Starting registry save
+[06Feb2025 05:31:33.726] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:command_argument_type
+[06Feb2025 05:31:33.726] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:item
+[06Feb2025 05:31:33.726] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_entity_type
+[06Feb2025 05:31:33.726] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:custom_stat
+[06Feb2025 05:31:33.726] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/foliage_placer_type
+[06Feb2025 05:31:33.726] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:stat_type
+[06Feb2025 05:31:33.726] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_rule
+[06Feb2025 05:31:33.726] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_type
+[06Feb2025 05:31:33.726] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:attribute
+[06Feb2025 05:31:33.726] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:position_source_type
+[06Feb2025 05:31:33.726] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:height_provider_type
+[06Feb2025 05:31:33.726] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_block_entity_modifier
+[06Feb2025 05:31:33.726] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/density_function_type
+[06Feb2025 05:31:33.726] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:fluid
+[06Feb2025 05:31:33.726] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:global_loot_modifier_serializers
+[06Feb2025 05:31:33.726] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_condition_type
+[06Feb2025 05:31:33.726] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_pool_element
+[06Feb2025 05:31:33.726] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:activity
+[06Feb2025 05:31:33.726] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_serializer
+[06Feb2025 05:31:33.727] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:frog_variant
+[06Feb2025 05:31:33.727] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:banner_pattern
+[06Feb2025 05:31:33.727] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:instrument
+[06Feb2025 05:31:33.727] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:decorated_pot_patterns
+[06Feb2025 05:31:33.727] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature_size_type
+[06Feb2025 05:31:33.727] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:point_of_interest_type
+[06Feb2025 05:31:33.727] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:mob_effect
+[06Feb2025 05:31:33.727] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_pool_entry_type
+[06Feb2025 05:31:33.727] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/block_state_provider_type
+[06Feb2025 05:31:33.727] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/chunk_generator
+[06Feb2025 05:31:33.727] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:float_provider_type
+[06Feb2025 05:31:33.727] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:chunk_status
+[06Feb2025 05:31:33.727] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:enchantment
+[06Feb2025 05:31:33.727] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_function_type
+[06Feb2025 05:31:33.727] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_processor
+[06Feb2025 05:31:33.727] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_score_provider_type
+[06Feb2025 05:31:33.727] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/tree_decorator_type
+[06Feb2025 05:31:33.727] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:schedule
+[06Feb2025 05:31:33.727] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_condition
+[06Feb2025 05:31:33.727] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:entity_type
+[06Feb2025 05:31:33.727] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_profession
+[06Feb2025 05:31:33.727] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:potion
+[06Feb2025 05:31:33.727] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_type
+[06Feb2025 05:31:33.727] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:int_provider_type
+[06Feb2025 05:31:33.727] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature
+[06Feb2025 05:31:33.727] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:cat_variant
+[06Feb2025 05:31:33.727] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:pos_rule_test
+[06Feb2025 05:31:33.727] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_placement
+[06Feb2025 05:31:33.727] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_nbt_provider_type
+[06Feb2025 05:31:33.727] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:menu
+[06Feb2025 05:31:33.727] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/trunk_placer_type
+[06Feb2025 05:31:33.727] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:creative_mode_tab
+[06Feb2025 05:31:33.727] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/placement_modifier_type
+[06Feb2025 05:31:33.727] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/carver
+[06Feb2025 05:31:33.727] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_number_provider_type
+[06Feb2025 05:31:33.727] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_piece
+[06Feb2025 05:31:33.727] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sound_event
+[06Feb2025 05:31:33.727] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:particle_type
+[06Feb2025 05:31:33.727] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:game_event
+[06Feb2025 05:31:33.727] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/biome_source
+[06Feb2025 05:31:33.727] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/root_placer_type
+[06Feb2025 05:31:33.727] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_type
+[06Feb2025 05:31:33.727] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:painting_variant
+[06Feb2025 05:31:33.727] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:fluid_type
+[06Feb2025 05:31:33.727] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_predicate_type
+[06Feb2025 05:31:33.728] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block
+[06Feb2025 05:31:33.728] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:entity_data_serializers
+[06Feb2025 05:31:33.728] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sensor_type
+[06Feb2025 05:31:33.728] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_test
+[06Feb2025 05:31:33.728] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:memory_module_type
+[06Feb2025 05:31:33.728] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving empty registry data
+[06Feb2025 05:31:33.729] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Feb2025 05:31:33.757] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Feb2025 05:32:52.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> barco con loot cheto
+[06Feb2025 05:32:55.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> tepeate
+[06Feb2025 05:32:59.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> tienes elitras no?
+[06Feb2025 05:33:01.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [4milcar: Teleported 4milcar to SirDragon3d]
+[06Feb2025 05:33:10.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> atras
+[06Feb2025 05:33:15.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> wait
+[06Feb2025 05:33:51.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> cuidado arriba
+[06Feb2025 05:34:20.125] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['SirDragon3d'/6679, l='ServerLevel[world]', x=-2811.40, y=208.00, z=1953.54], dimensionLocationPath the_end
+[06Feb2025 05:34:20.125] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['SirDragon3d'/6679, l='ServerLevel[world]', x=-2811.40, y=208.00, z=1953.54] is dead or in a banned dimension the_end
+[06Feb2025 05:34:21.385] [Server thread/WARN] [tombstone/]: The death event of the player 4milcar was canceled by another mod
+[06Feb2025 05:34:21.387] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2783.36, y=213.77, z=1940.69], dimensionLocationPath the_end
+[06Feb2025 05:34:21.387] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2783.36, y=213.77, z=1940.69] is dead or in a banned dimension the_end
+[06Feb2025 05:34:21.396] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/LangKey
+[06Feb2025 05:34:21.400] [Server thread/INFO] [tombstone/]: The player 4milcar has successfully been saved
+[06Feb2025 05:34:22.125] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['SirDragon3d'/6679, l='ServerLevel[world]', x=-2810.30, y=208.42, z=1950.46], dimensionLocationPath the_end
+[06Feb2025 05:34:22.125] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['SirDragon3d'/6679, l='ServerLevel[world]', x=-2810.30, y=208.42, z=1950.46] is dead or in a banned dimension the_end
+[06Feb2025 05:34:29.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> puto lag
+[06Feb2025 05:34:38.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> tp?
+[06Feb2025 05:34:47.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> espera
+[06Feb2025 05:34:47.577] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['SirDragon3d'/6679, l='ServerLevel[world]', x=-2758.92, y=212.00, z=1938.28], dimensionLocationPath the_end
+[06Feb2025 05:34:47.577] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['SirDragon3d'/6679, l='ServerLevel[world]', x=-2758.92, y=212.00, z=1938.28] is dead or in a banned dimension the_end
+[06Feb2025 05:34:49.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> estoy seguro
+[06Feb2025 05:34:55.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> ok
+[06Feb2025 05:35:04.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> yo a ti
+[06Feb2025 05:35:07.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> o tu ami?
+[06Feb2025 05:35:10.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [4milcar: Teleported SirDragon3d to 4milcar]
+[06Feb2025 05:35:26.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> cuidado arriba
+[06Feb2025 05:36:02.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> que te toco en los cofres?
+[06Feb2025 05:36:14.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> no he abierto los de arriba
+[06Feb2025 05:36:25.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> pero diamante y armor
+[06Feb2025 05:36:33.723] [Server thread/DEBUG] [FabricRegistrySync/]: Starting registry save
+[06Feb2025 05:36:33.723] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:command_argument_type
+[06Feb2025 05:36:33.723] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:item
+[06Feb2025 05:36:33.723] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_entity_type
+[06Feb2025 05:36:33.723] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:custom_stat
+[06Feb2025 05:36:33.723] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/foliage_placer_type
+[06Feb2025 05:36:33.723] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:stat_type
+[06Feb2025 05:36:33.723] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_rule
+[06Feb2025 05:36:33.723] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_type
+[06Feb2025 05:36:33.723] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:attribute
+[06Feb2025 05:36:33.723] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:position_source_type
+[06Feb2025 05:36:33.723] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:height_provider_type
+[06Feb2025 05:36:33.723] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_block_entity_modifier
+[06Feb2025 05:36:33.723] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/density_function_type
+[06Feb2025 05:36:33.723] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:fluid
+[06Feb2025 05:36:33.723] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:global_loot_modifier_serializers
+[06Feb2025 05:36:33.723] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_condition_type
+[06Feb2025 05:36:33.723] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_pool_element
+[06Feb2025 05:36:33.723] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:activity
+[06Feb2025 05:36:33.723] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_serializer
+[06Feb2025 05:36:33.723] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:frog_variant
+[06Feb2025 05:36:33.723] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:banner_pattern
+[06Feb2025 05:36:33.723] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:instrument
+[06Feb2025 05:36:33.723] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:decorated_pot_patterns
+[06Feb2025 05:36:33.723] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature_size_type
+[06Feb2025 05:36:33.723] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:point_of_interest_type
+[06Feb2025 05:36:33.723] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:mob_effect
+[06Feb2025 05:36:33.723] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_pool_entry_type
+[06Feb2025 05:36:33.723] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/block_state_provider_type
+[06Feb2025 05:36:33.723] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/chunk_generator
+[06Feb2025 05:36:33.723] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:float_provider_type
+[06Feb2025 05:36:33.723] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:chunk_status
+[06Feb2025 05:36:33.723] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:enchantment
+[06Feb2025 05:36:33.723] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_function_type
+[06Feb2025 05:36:33.723] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_processor
+[06Feb2025 05:36:33.723] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_score_provider_type
+[06Feb2025 05:36:33.723] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/tree_decorator_type
+[06Feb2025 05:36:33.723] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:schedule
+[06Feb2025 05:36:33.723] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_condition
+[06Feb2025 05:36:33.723] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:entity_type
+[06Feb2025 05:36:33.723] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_profession
+[06Feb2025 05:36:33.723] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:potion
+[06Feb2025 05:36:33.724] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_type
+[06Feb2025 05:36:33.724] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:int_provider_type
+[06Feb2025 05:36:33.724] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature
+[06Feb2025 05:36:33.724] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:cat_variant
+[06Feb2025 05:36:33.724] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:pos_rule_test
+[06Feb2025 05:36:33.724] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_placement
+[06Feb2025 05:36:33.724] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_nbt_provider_type
+[06Feb2025 05:36:33.724] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:menu
+[06Feb2025 05:36:33.724] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/trunk_placer_type
+[06Feb2025 05:36:33.724] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:creative_mode_tab
+[06Feb2025 05:36:33.724] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/placement_modifier_type
+[06Feb2025 05:36:33.724] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/carver
+[06Feb2025 05:36:33.724] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_number_provider_type
+[06Feb2025 05:36:33.724] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_piece
+[06Feb2025 05:36:33.724] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sound_event
+[06Feb2025 05:36:33.724] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:particle_type
+[06Feb2025 05:36:33.724] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:game_event
+[06Feb2025 05:36:33.724] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/biome_source
+[06Feb2025 05:36:33.724] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/root_placer_type
+[06Feb2025 05:36:33.724] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_type
+[06Feb2025 05:36:33.724] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:painting_variant
+[06Feb2025 05:36:33.724] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:fluid_type
+[06Feb2025 05:36:33.724] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_predicate_type
+[06Feb2025 05:36:33.724] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block
+[06Feb2025 05:36:33.724] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:entity_data_serializers
+[06Feb2025 05:36:33.724] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sensor_type
+[06Feb2025 05:36:33.724] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_test
+[06Feb2025 05:36:33.724] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:memory_module_type
+[06Feb2025 05:36:33.724] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving empty registry data
+[06Feb2025 05:36:33.725] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Feb2025 05:36:33.760] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Feb2025 05:36:34.677] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2786.53, y=209.00, z=1942.65], dimensionLocationPath the_end
+[06Feb2025 05:36:34.677] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2786.53, y=209.00, z=1942.65] is dead or in a banned dimension the_end
+[06Feb2025 05:38:35.429] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fluids/capability/IFluidHandler$FluidAction
+[06Feb2025 05:39:15.548] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ht/treechop/common/util/FaceShape
+[06Feb2025 05:39:17.332] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting fr/rakambda/fallingtree/common/tree/TreePartType
+[06Feb2025 05:39:17.343] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-2784, y=216, z=1919}) doesn't have enough leaves around top most log
+[06Feb2025 05:39:20.222] [Server thread/DEBUG] [mixin/]: Mixing accessors.item.AccessorCooldownInstance from bookshelf.common.mixins.json into net.minecraft.world.item.ItemCooldowns$CooldownInstance
+[06Feb2025 05:39:23.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SirDragon3d: Showing new title for 4milcar]
+[06Feb2025 05:39:30.159] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-2785, y=214, z=1919}) doesn't have enough leaves around top most log
+[06Feb2025 05:39:30.662] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-2785, y=214, z=1919}) doesn't have enough leaves around top most log
+[06Feb2025 05:39:31.112] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-2785, y=214, z=1919}) doesn't have enough leaves around top most log
+[06Feb2025 05:39:31.613] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-2785, y=214, z=1919}) doesn't have enough leaves around top most log
+[06Feb2025 05:39:32.081] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-2785, y=214, z=1919}) doesn't have enough leaves around top most log
+[06Feb2025 05:39:32.581] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-2785, y=214, z=1919}) doesn't have enough leaves around top most log
+[06Feb2025 05:39:33.061] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-2785, y=214, z=1919}) doesn't have enough leaves around top most log
+[06Feb2025 05:39:33.509] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-2785, y=214, z=1919}) doesn't have enough leaves around top most log
+[06Feb2025 05:39:34.959] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-2785, y=214, z=1918}) doesn't have enough leaves around top most log
+[06Feb2025 05:39:35.414] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-2785, y=214, z=1918}) doesn't have enough leaves around top most log
+[06Feb2025 05:39:35.864] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-2785, y=214, z=1918}) doesn't have enough leaves around top most log
+[06Feb2025 05:39:36.359] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-2785, y=214, z=1918}) doesn't have enough leaves around top most log
+[06Feb2025 05:39:37.177] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-2785, y=214, z=1918}) doesn't have enough leaves around top most log
+[06Feb2025 05:39:37.726] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-2785, y=214, z=1918}) doesn't have enough leaves around top most log
+[06Feb2025 05:39:38.176] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-2785, y=214, z=1918}) doesn't have enough leaves around top most log
+[06Feb2025 05:39:38.661] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-2785, y=214, z=1918}) doesn't have enough leaves around top most log
+[06Feb2025 05:39:39.165] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-2785, y=214, z=1918}) doesn't have enough leaves around top most log
+[06Feb2025 05:39:39.625] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-2785, y=214, z=1918}) doesn't have enough leaves around top most log
+[06Feb2025 05:39:40.111] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-2785, y=214, z=1918}) doesn't have enough leaves around top most log
+[06Feb2025 05:39:42.826] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-2784, y=214, z=1919}) doesn't have enough leaves around top most log
+[06Feb2025 05:39:43.327] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-2784, y=214, z=1918}) doesn't have enough leaves around top most log
+[06Feb2025 05:39:43.765] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-2784, y=214, z=1918}) doesn't have enough leaves around top most log
+[06Feb2025 05:39:44.264] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-2784, y=214, z=1918}) doesn't have enough leaves around top most log
+[06Feb2025 05:39:45.013] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-2784, y=214, z=1918}) doesn't have enough leaves around top most log
+[06Feb2025 05:39:46.124] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-2784, y=214, z=1917}) doesn't have enough leaves around top most log
+[06Feb2025 05:39:46.560] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-2784, y=214, z=1917}) doesn't have enough leaves around top most log
+[06Feb2025 05:39:47.076] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-2784, y=214, z=1917}) doesn't have enough leaves around top most log
+[06Feb2025 05:39:47.559] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-2784, y=214, z=1917}) doesn't have enough leaves around top most log
+[06Feb2025 05:39:48.013] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-2784, y=214, z=1917}) doesn't have enough leaves around top most log
+[06Feb2025 05:39:48.513] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-2784, y=214, z=1917}) doesn't have enough leaves around top most log
+[06Feb2025 05:39:48.959] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-2784, y=214, z=1917}) doesn't have enough leaves around top most log
+[06Feb2025 05:39:49.461] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-2784, y=214, z=1917}) doesn't have enough leaves around top most log
+[06Feb2025 05:39:50.061] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-2784, y=214, z=1918}) doesn't have enough leaves around top most log
+[06Feb2025 05:39:50.559] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-2784, y=214, z=1918}) doesn't have enough leaves around top most log
+[06Feb2025 05:39:51.014] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-2784, y=214, z=1918}) doesn't have enough leaves around top most log
+[06Feb2025 05:39:51.510] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-2784, y=214, z=1918}) doesn't have enough leaves around top most log
+[06Feb2025 05:39:51.960] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-2784, y=214, z=1918}) doesn't have enough leaves around top most log
+[06Feb2025 05:39:52.415] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-2784, y=214, z=1918}) doesn't have enough leaves around top most log
+[06Feb2025 05:39:52.861] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-2784, y=214, z=1918}) doesn't have enough leaves around top most log
+[06Feb2025 05:39:53.358] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-2784, y=214, z=1918}) doesn't have enough leaves around top most log
+[06Feb2025 05:39:53.861] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-2784, y=214, z=1918}) doesn't have enough leaves around top most log
+[06Feb2025 05:39:54.323] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-2784, y=214, z=1918}) doesn't have enough leaves around top most log
+[06Feb2025 05:39:54.759] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-2784, y=214, z=1918}) doesn't have enough leaves around top most log
+[06Feb2025 05:40:11.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> no necesitaremos mas madera XD
+[06Feb2025 05:40:17.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> er diavlo
+[06Feb2025 05:40:32.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> uuu brillongo
