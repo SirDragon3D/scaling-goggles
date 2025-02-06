@@ -2140,3 +2140,48 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [06Feb2025 06:28:00.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> en realidad no
 [06Feb2025 06:29:37.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> primero nos quedamos sin palos que sin esmeraldas XD
 [06Feb2025 06:29:43.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> XDD
+[06Feb2025 06:32:25.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> a los cuatros ultimos si dejalos con pedernales por esme
+[06Feb2025 06:32:39.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> no estoy viendo tradeos aun
+[06Feb2025 06:33:27.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> nos quedamossin aldeanos
+[06Feb2025 06:33:28.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> fak
+[06Feb2025 06:33:48.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> lo malo es q es invierno
+[06Feb2025 06:33:54.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> y la granja no funcionara
+[06Feb2025 06:34:07.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> ok
+[06Feb2025 06:34:08.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> toca farmear esmeraldas de mientras
+[06Feb2025 06:34:14.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> acomodemos a los faltantes
+[06Feb2025 06:34:44.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [4milcar: Set own game mode to Spectator Mode]
+[06Feb2025 06:34:49.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [4milcar: Set own game mode to Survival Mode]
+[06Feb2025 06:34:56.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SirDragon3d: Set own game mode to Spectator Mode]
+[06Feb2025 06:35:11.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SirDragon3d: Set own game mode to Survival Mode]
+[06Feb2025 06:36:00.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> creo que es los mas inhumano que hemos hecho XD
+[06Feb2025 06:36:11.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> hay que meter el packd e negros
+[06Feb2025 06:36:38.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> cierto
+[06Feb2025 06:36:45.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> llevemos este par de flecheros
+[06Feb2025 06:37:01.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [4milcar: Teleported 4milcar to SirDragon3d]
+[06Feb2025 06:38:04.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> tienes sapplings?
+[06Feb2025 06:38:10.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> si
+[06Feb2025 06:38:27.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> de madera buena
+[06Feb2025 06:38:32.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> esa es buena
+[06Feb2025 06:38:38.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> crece igual que el abeto
+[06Feb2025 06:38:42.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> tenia de abeto
+[06Feb2025 06:38:44.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> pero no la veo
+[06Feb2025 06:38:53.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> abre tu mochila
+[06Feb2025 06:38:58.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> debe estar en la casa
+[06Feb2025 06:39:18.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> aun no te haces la mascara kicchune verdad?
+[06Feb2025 06:39:30.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> de hecho a eso iba
+[06Feb2025 06:39:55.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> oye que asco la puta nieve
+[06Feb2025 06:40:01.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> viva el calentamiento global
+[06Feb2025 06:40:33.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> casi me crashea x darle a la k XDD
+[06Feb2025 06:42:11.016] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:ClientIntentionPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[06Feb2025 06:42:11.023] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134720_": 0,
+  "f_134721_": "",
+  "f_134722_": 0,
+  "fmlVersion": "NONE"
+}
+[06Feb2025 06:42:11.023] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 17 extra bytes: 
+[06Feb2025 06:42:11.026] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "versionbind"
+]
