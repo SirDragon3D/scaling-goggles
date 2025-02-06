@@ -17457,3 +17457,432 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [06Feb2025 05:40:11.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> no necesitaremos mas madera XD
 [06Feb2025 05:40:17.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> er diavlo
 [06Feb2025 05:40:32.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> uuu brillongo
+[06Feb2025 05:41:22.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> ya tengo 2 stakc y poco mas de lana
+[06Feb2025 05:41:33.726] [Server thread/DEBUG] [FabricRegistrySync/]: Starting registry save
+[06Feb2025 05:41:33.726] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:command_argument_type
+[06Feb2025 05:41:33.727] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:item
+[06Feb2025 05:41:33.727] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_entity_type
+[06Feb2025 05:41:33.727] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:custom_stat
+[06Feb2025 05:41:33.727] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/foliage_placer_type
+[06Feb2025 05:41:33.727] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:stat_type
+[06Feb2025 05:41:33.727] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_rule
+[06Feb2025 05:41:33.727] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_type
+[06Feb2025 05:41:33.727] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:attribute
+[06Feb2025 05:41:33.727] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:position_source_type
+[06Feb2025 05:41:33.727] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:height_provider_type
+[06Feb2025 05:41:33.727] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_block_entity_modifier
+[06Feb2025 05:41:33.727] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/density_function_type
+[06Feb2025 05:41:33.727] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:fluid
+[06Feb2025 05:41:33.727] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:global_loot_modifier_serializers
+[06Feb2025 05:41:33.727] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_condition_type
+[06Feb2025 05:41:33.727] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_pool_element
+[06Feb2025 05:41:33.727] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:activity
+[06Feb2025 05:41:33.727] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_serializer
+[06Feb2025 05:41:33.727] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:frog_variant
+[06Feb2025 05:41:33.727] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:banner_pattern
+[06Feb2025 05:41:33.727] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:instrument
+[06Feb2025 05:41:33.727] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:decorated_pot_patterns
+[06Feb2025 05:41:33.727] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature_size_type
+[06Feb2025 05:41:33.727] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:point_of_interest_type
+[06Feb2025 05:41:33.727] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:mob_effect
+[06Feb2025 05:41:33.727] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_pool_entry_type
+[06Feb2025 05:41:33.727] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/block_state_provider_type
+[06Feb2025 05:41:33.727] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/chunk_generator
+[06Feb2025 05:41:33.727] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:float_provider_type
+[06Feb2025 05:41:33.727] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:chunk_status
+[06Feb2025 05:41:33.727] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:enchantment
+[06Feb2025 05:41:33.727] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_function_type
+[06Feb2025 05:41:33.727] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_processor
+[06Feb2025 05:41:33.727] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_score_provider_type
+[06Feb2025 05:41:33.727] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/tree_decorator_type
+[06Feb2025 05:41:33.727] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:schedule
+[06Feb2025 05:41:33.727] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_condition
+[06Feb2025 05:41:33.727] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:entity_type
+[06Feb2025 05:41:33.727] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_profession
+[06Feb2025 05:41:33.727] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:potion
+[06Feb2025 05:41:33.727] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_type
+[06Feb2025 05:41:33.727] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:int_provider_type
+[06Feb2025 05:41:33.727] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature
+[06Feb2025 05:41:33.727] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:cat_variant
+[06Feb2025 05:41:33.728] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:pos_rule_test
+[06Feb2025 05:41:33.728] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_placement
+[06Feb2025 05:41:33.728] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_nbt_provider_type
+[06Feb2025 05:41:33.728] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:menu
+[06Feb2025 05:41:33.728] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/trunk_placer_type
+[06Feb2025 05:41:33.728] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:creative_mode_tab
+[06Feb2025 05:41:33.728] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/placement_modifier_type
+[06Feb2025 05:41:33.728] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/carver
+[06Feb2025 05:41:33.728] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_number_provider_type
+[06Feb2025 05:41:33.728] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_piece
+[06Feb2025 05:41:33.728] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sound_event
+[06Feb2025 05:41:33.728] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:particle_type
+[06Feb2025 05:41:33.728] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:game_event
+[06Feb2025 05:41:33.728] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/biome_source
+[06Feb2025 05:41:33.728] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/root_placer_type
+[06Feb2025 05:41:33.728] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_type
+[06Feb2025 05:41:33.728] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:painting_variant
+[06Feb2025 05:41:33.728] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:fluid_type
+[06Feb2025 05:41:33.728] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_predicate_type
+[06Feb2025 05:41:33.728] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block
+[06Feb2025 05:41:33.728] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:entity_data_serializers
+[06Feb2025 05:41:33.728] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sensor_type
+[06Feb2025 05:41:33.728] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_test
+[06Feb2025 05:41:33.728] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:memory_module_type
+[06Feb2025 05:41:33.728] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving empty registry data
+[06Feb2025 05:41:33.729] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Feb2025 05:41:33.762] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Feb2025 05:41:59.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SirDragon3d has made the advancement [Weird Fishes/Arpeggi]
+[06Feb2025 05:42:53.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4milcar has made the advancement [Weird Fishes/Arpeggi]
+[06Feb2025 05:44:14.025] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2793.56, y=191.46, z=1929.92], dimensionLocationPath the_end
+[06Feb2025 05:44:14.025] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2793.56, y=191.46, z=1929.92] is dead or in a banned dimension the_end
+[06Feb2025 05:44:14.076] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2795.43, y=187.08, z=1931.20], dimensionLocationPath the_end
+[06Feb2025 05:44:14.076] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2795.43, y=187.08, z=1931.20] is dead or in a banned dimension the_end
+[06Feb2025 05:44:14.124] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2795.81, y=185.37, z=1931.49], dimensionLocationPath the_end
+[06Feb2025 05:44:14.124] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2795.81, y=185.37, z=1931.49] is dead or in a banned dimension the_end
+[06Feb2025 05:44:14.175] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2795.99, y=184.43, z=1931.63], dimensionLocationPath the_end
+[06Feb2025 05:44:14.175] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2795.99, y=184.43, z=1931.63] is dead or in a banned dimension the_end
+[06Feb2025 05:44:14.225] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2795.99, y=184.43, z=1931.63], dimensionLocationPath the_end
+[06Feb2025 05:44:14.225] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2795.99, y=184.43, z=1931.63] is dead or in a banned dimension the_end
+[06Feb2025 05:44:14.274] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2795.99, y=184.43, z=1931.63], dimensionLocationPath the_end
+[06Feb2025 05:44:14.274] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2795.99, y=184.43, z=1931.63] is dead or in a banned dimension the_end
+[06Feb2025 05:44:14.323] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2795.99, y=184.43, z=1931.63], dimensionLocationPath the_end
+[06Feb2025 05:44:14.323] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2795.99, y=184.43, z=1931.63] is dead or in a banned dimension the_end
+[06Feb2025 05:44:14.375] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2795.99, y=184.43, z=1931.63], dimensionLocationPath the_end
+[06Feb2025 05:44:14.375] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2795.99, y=184.43, z=1931.63] is dead or in a banned dimension the_end
+[06Feb2025 05:44:14.425] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2796.88, y=178.84, z=1932.36], dimensionLocationPath the_end
+[06Feb2025 05:44:14.426] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2796.88, y=178.84, z=1932.36] is dead or in a banned dimension the_end
+[06Feb2025 05:44:14.475] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2797.05, y=177.56, z=1932.51], dimensionLocationPath the_end
+[06Feb2025 05:44:14.476] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2797.05, y=177.56, z=1932.51] is dead or in a banned dimension the_end
+[06Feb2025 05:44:14.524] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2797.22, y=176.22, z=1932.66], dimensionLocationPath the_end
+[06Feb2025 05:44:14.524] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2797.22, y=176.22, z=1932.66] is dead or in a banned dimension the_end
+[06Feb2025 05:44:14.575] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2797.39, y=174.83, z=1932.81], dimensionLocationPath the_end
+[06Feb2025 05:44:14.575] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2797.39, y=174.83, z=1932.81] is dead or in a banned dimension the_end
+[06Feb2025 05:44:14.626] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2797.56, y=173.40, z=1932.95], dimensionLocationPath the_end
+[06Feb2025 05:44:14.626] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2797.56, y=173.40, z=1932.95] is dead or in a banned dimension the_end
+[06Feb2025 05:44:14.675] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2797.73, y=171.91, z=1933.10], dimensionLocationPath the_end
+[06Feb2025 05:44:14.675] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2797.73, y=171.91, z=1933.10] is dead or in a banned dimension the_end
+[06Feb2025 05:44:14.723] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2797.90, y=170.37, z=1933.25], dimensionLocationPath the_end
+[06Feb2025 05:44:14.723] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2797.90, y=170.37, z=1933.25] is dead or in a banned dimension the_end
+[06Feb2025 05:44:14.774] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2798.06, y=168.79, z=1933.40], dimensionLocationPath the_end
+[06Feb2025 05:44:14.774] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2798.06, y=168.79, z=1933.40] is dead or in a banned dimension the_end
+[06Feb2025 05:44:14.823] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2798.22, y=167.15, z=1933.56], dimensionLocationPath the_end
+[06Feb2025 05:44:14.823] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2798.22, y=167.15, z=1933.56] is dead or in a banned dimension the_end
+[06Feb2025 05:44:14.877] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2798.38, y=165.48, z=1933.71], dimensionLocationPath the_end
+[06Feb2025 05:44:14.877] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2798.38, y=165.48, z=1933.71] is dead or in a banned dimension the_end
+[06Feb2025 05:44:14.925] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2798.54, y=163.76, z=1933.86], dimensionLocationPath the_end
+[06Feb2025 05:44:14.925] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2798.54, y=163.76, z=1933.86] is dead or in a banned dimension the_end
+[06Feb2025 05:44:14.974] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2798.54, y=163.76, z=1933.86], dimensionLocationPath the_end
+[06Feb2025 05:44:14.974] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2798.54, y=163.76, z=1933.86] is dead or in a banned dimension the_end
+[06Feb2025 05:44:15.026] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2798.69, y=161.99, z=1934.02], dimensionLocationPath the_end
+[06Feb2025 05:44:15.026] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2798.69, y=161.99, z=1934.02] is dead or in a banned dimension the_end
+[06Feb2025 05:44:15.077] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2799.01, y=158.33, z=1934.33], dimensionLocationPath the_end
+[06Feb2025 05:44:15.077] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2799.01, y=158.33, z=1934.33] is dead or in a banned dimension the_end
+[06Feb2025 05:44:15.124] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2799.16, y=156.44, z=1934.49], dimensionLocationPath the_end
+[06Feb2025 05:44:15.124] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2799.16, y=156.44, z=1934.49] is dead or in a banned dimension the_end
+[06Feb2025 05:44:15.176] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2799.16, y=156.44, z=1934.49], dimensionLocationPath the_end
+[06Feb2025 05:44:15.176] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2799.16, y=156.44, z=1934.49] is dead or in a banned dimension the_end
+[06Feb2025 05:44:15.229] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2799.46, y=152.53, z=1934.80], dimensionLocationPath the_end
+[06Feb2025 05:44:15.229] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2799.46, y=152.53, z=1934.80] is dead or in a banned dimension the_end
+[06Feb2025 05:44:15.276] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2799.62, y=150.52, z=1934.96], dimensionLocationPath the_end
+[06Feb2025 05:44:15.276] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2799.62, y=150.52, z=1934.96] is dead or in a banned dimension the_end
+[06Feb2025 05:44:15.326] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2799.77, y=148.47, z=1935.12], dimensionLocationPath the_end
+[06Feb2025 05:44:15.326] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2799.77, y=148.47, z=1935.12] is dead or in a banned dimension the_end
+[06Feb2025 05:44:15.378] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2799.92, y=146.38, z=1935.28], dimensionLocationPath the_end
+[06Feb2025 05:44:15.378] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2799.92, y=146.38, z=1935.28] is dead or in a banned dimension the_end
+[06Feb2025 05:44:15.425] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2800.07, y=144.26, z=1935.44], dimensionLocationPath the_end
+[06Feb2025 05:44:15.425] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2800.07, y=144.26, z=1935.44] is dead or in a banned dimension the_end
+[06Feb2025 05:44:15.476] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2800.22, y=142.10, z=1935.60], dimensionLocationPath the_end
+[06Feb2025 05:44:15.476] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2800.22, y=142.10, z=1935.60] is dead or in a banned dimension the_end
+[06Feb2025 05:44:15.526] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2800.37, y=139.90, z=1935.76], dimensionLocationPath the_end
+[06Feb2025 05:44:15.526] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2800.37, y=139.90, z=1935.76] is dead or in a banned dimension the_end
+[06Feb2025 05:44:15.575] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2800.52, y=137.67, z=1935.92], dimensionLocationPath the_end
+[06Feb2025 05:44:15.575] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2800.52, y=137.67, z=1935.92] is dead or in a banned dimension the_end
+[06Feb2025 05:44:15.625] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2800.67, y=135.41, z=1936.08], dimensionLocationPath the_end
+[06Feb2025 05:44:15.625] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2800.67, y=135.41, z=1936.08] is dead or in a banned dimension the_end
+[06Feb2025 05:44:15.675] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2800.81, y=133.11, z=1936.24], dimensionLocationPath the_end
+[06Feb2025 05:44:15.675] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2800.81, y=133.11, z=1936.24] is dead or in a banned dimension the_end
+[06Feb2025 05:44:15.726] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2800.96, y=130.78, z=1936.40], dimensionLocationPath the_end
+[06Feb2025 05:44:15.726] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2800.96, y=130.78, z=1936.40] is dead or in a banned dimension the_end
+[06Feb2025 05:44:15.774] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2801.11, y=128.42, z=1936.56], dimensionLocationPath the_end
+[06Feb2025 05:44:15.774] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2801.11, y=128.42, z=1936.56] is dead or in a banned dimension the_end
+[06Feb2025 05:44:15.824] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2801.26, y=126.03, z=1936.72], dimensionLocationPath the_end
+[06Feb2025 05:44:15.824] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2801.26, y=126.03, z=1936.72] is dead or in a banned dimension the_end
+[06Feb2025 05:44:15.874] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2801.40, y=123.61, z=1936.88], dimensionLocationPath the_end
+[06Feb2025 05:44:15.874] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2801.40, y=123.61, z=1936.88] is dead or in a banned dimension the_end
+[06Feb2025 05:44:15.925] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2801.55, y=121.16, z=1937.05], dimensionLocationPath the_end
+[06Feb2025 05:44:15.925] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2801.55, y=121.16, z=1937.05] is dead or in a banned dimension the_end
+[06Feb2025 05:44:15.977] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2801.70, y=118.67, z=1937.21], dimensionLocationPath the_end
+[06Feb2025 05:44:15.977] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2801.70, y=118.67, z=1937.21] is dead or in a banned dimension the_end
+[06Feb2025 05:44:16.024] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2801.83, y=116.16, z=1937.35], dimensionLocationPath the_end
+[06Feb2025 05:44:16.024] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2801.83, y=116.16, z=1937.35] is dead or in a banned dimension the_end
+[06Feb2025 05:44:16.077] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2801.95, y=113.62, z=1937.49], dimensionLocationPath the_end
+[06Feb2025 05:44:16.077] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2801.95, y=113.62, z=1937.49] is dead or in a banned dimension the_end
+[06Feb2025 05:44:16.125] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2801.95, y=113.62, z=1937.49], dimensionLocationPath the_end
+[06Feb2025 05:44:16.126] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2801.95, y=113.62, z=1937.49] is dead or in a banned dimension the_end
+[06Feb2025 05:44:16.174] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2802.06, y=111.06, z=1937.61], dimensionLocationPath the_end
+[06Feb2025 05:44:16.175] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2802.06, y=111.06, z=1937.61] is dead or in a banned dimension the_end
+[06Feb2025 05:44:16.224] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2802.16, y=108.46, z=1937.72], dimensionLocationPath the_end
+[06Feb2025 05:44:16.224] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2802.16, y=108.46, z=1937.72] is dead or in a banned dimension the_end
+[06Feb2025 05:44:16.275] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2802.34, y=103.20, z=1937.91], dimensionLocationPath the_end
+[06Feb2025 05:44:16.276] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2802.34, y=103.20, z=1937.91] is dead or in a banned dimension the_end
+[06Feb2025 05:44:16.325] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2802.42, y=100.53, z=1937.99], dimensionLocationPath the_end
+[06Feb2025 05:44:16.325] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2802.42, y=100.53, z=1937.99] is dead or in a banned dimension the_end
+[06Feb2025 05:44:16.376] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2802.42, y=100.53, z=1937.99], dimensionLocationPath the_end
+[06Feb2025 05:44:16.376] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2802.42, y=100.53, z=1937.99] is dead or in a banned dimension the_end
+[06Feb2025 05:44:16.423] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2802.48, y=97.83, z=1938.07], dimensionLocationPath the_end
+[06Feb2025 05:44:16.423] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2802.48, y=97.83, z=1938.07] is dead or in a banned dimension the_end
+[06Feb2025 05:44:16.477] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2802.60, y=92.36, z=1938.20], dimensionLocationPath the_end
+[06Feb2025 05:44:16.477] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2802.60, y=92.36, z=1938.20] is dead or in a banned dimension the_end
+[06Feb2025 05:44:16.525] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2802.66, y=89.60, z=1938.26], dimensionLocationPath the_end
+[06Feb2025 05:44:16.525] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2802.66, y=89.60, z=1938.26] is dead or in a banned dimension the_end
+[06Feb2025 05:44:16.576] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2802.70, y=86.80, z=1938.31], dimensionLocationPath the_end
+[06Feb2025 05:44:16.576] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2802.70, y=86.80, z=1938.31] is dead or in a banned dimension the_end
+[06Feb2025 05:44:16.630] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2802.70, y=86.80, z=1938.31], dimensionLocationPath the_end
+[06Feb2025 05:44:16.630] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2802.70, y=86.80, z=1938.31] is dead or in a banned dimension the_end
+[06Feb2025 05:44:16.676] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2802.79, y=81.15, z=1938.40], dimensionLocationPath the_end
+[06Feb2025 05:44:16.676] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2802.79, y=81.15, z=1938.40] is dead or in a banned dimension the_end
+[06Feb2025 05:44:16.726] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2802.79, y=81.15, z=1938.40], dimensionLocationPath the_end
+[06Feb2025 05:44:16.726] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2802.79, y=81.15, z=1938.40] is dead or in a banned dimension the_end
+[06Feb2025 05:44:16.775] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2802.87, y=75.42, z=1938.53], dimensionLocationPath the_end
+[06Feb2025 05:44:16.775] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2802.87, y=75.42, z=1938.53] is dead or in a banned dimension the_end
+[06Feb2025 05:44:16.827] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2802.92, y=72.52, z=1938.62], dimensionLocationPath the_end
+[06Feb2025 05:44:16.827] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2802.92, y=72.52, z=1938.62] is dead or in a banned dimension the_end
+[06Feb2025 05:44:16.874] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2802.96, y=69.60, z=1938.71], dimensionLocationPath the_end
+[06Feb2025 05:44:16.874] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2802.96, y=69.60, z=1938.71] is dead or in a banned dimension the_end
+[06Feb2025 05:44:16.930] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2802.96, y=69.60, z=1938.71], dimensionLocationPath the_end
+[06Feb2025 05:44:16.930] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2802.96, y=69.60, z=1938.71] is dead or in a banned dimension the_end
+[06Feb2025 05:44:16.976] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2803.01, y=66.66, z=1938.82], dimensionLocationPath the_end
+[06Feb2025 05:44:16.977] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2803.01, y=66.66, z=1938.82] is dead or in a banned dimension the_end
+[06Feb2025 05:44:17.025] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2803.01, y=66.66, z=1938.82], dimensionLocationPath the_end
+[06Feb2025 05:44:17.025] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2803.01, y=66.66, z=1938.82] is dead or in a banned dimension the_end
+[06Feb2025 05:44:17.077] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2803.01, y=66.66, z=1938.82], dimensionLocationPath the_end
+[06Feb2025 05:44:17.077] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2803.01, y=66.66, z=1938.82] is dead or in a banned dimension the_end
+[06Feb2025 05:44:17.125] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2803.01, y=66.66, z=1938.82], dimensionLocationPath the_end
+[06Feb2025 05:44:17.125] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2803.01, y=66.66, z=1938.82] is dead or in a banned dimension the_end
+[06Feb2025 05:44:17.175] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2803.01, y=66.66, z=1938.82], dimensionLocationPath the_end
+[06Feb2025 05:44:17.175] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2803.01, y=66.66, z=1938.82] is dead or in a banned dimension the_end
+[06Feb2025 05:44:17.225] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2805.35, y=61.51, z=1942.37], dimensionLocationPath the_end
+[06Feb2025 05:44:17.225] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2805.35, y=61.51, z=1942.37] is dead or in a banned dimension the_end
+[06Feb2025 05:44:17.277] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2805.35, y=61.51, z=1942.37], dimensionLocationPath the_end
+[06Feb2025 05:44:17.277] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2805.35, y=61.51, z=1942.37] is dead or in a banned dimension the_end
+[06Feb2025 05:44:17.325] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2806.06, y=61.41, z=1943.50], dimensionLocationPath the_end
+[06Feb2025 05:44:17.325] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2806.06, y=61.41, z=1943.50] is dead or in a banned dimension the_end
+[06Feb2025 05:44:17.376] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2806.38, y=61.36, z=1944.03], dimensionLocationPath the_end
+[06Feb2025 05:44:17.376] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2806.38, y=61.36, z=1944.03] is dead or in a banned dimension the_end
+[06Feb2025 05:44:17.425] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2806.68, y=61.31, z=1944.53], dimensionLocationPath the_end
+[06Feb2025 05:44:17.425] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2806.68, y=61.31, z=1944.53] is dead or in a banned dimension the_end
+[06Feb2025 05:44:17.477] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2806.97, y=61.26, z=1945.01], dimensionLocationPath the_end
+[06Feb2025 05:44:17.477] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2806.97, y=61.26, z=1945.01] is dead or in a banned dimension the_end
+[06Feb2025 05:44:17.527] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2807.24, y=61.21, z=1945.48], dimensionLocationPath the_end
+[06Feb2025 05:44:17.527] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2807.24, y=61.21, z=1945.48] is dead or in a banned dimension the_end
+[06Feb2025 05:44:17.577] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2807.24, y=61.21, z=1945.48], dimensionLocationPath the_end
+[06Feb2025 05:44:17.577] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2807.24, y=61.21, z=1945.48] is dead or in a banned dimension the_end
+[06Feb2025 05:44:17.624] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2807.49, y=61.16, z=1945.92], dimensionLocationPath the_end
+[06Feb2025 05:44:17.624] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2807.49, y=61.16, z=1945.92] is dead or in a banned dimension the_end
+[06Feb2025 05:44:17.676] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2807.74, y=61.11, z=1946.35], dimensionLocationPath the_end
+[06Feb2025 05:44:17.677] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2807.74, y=61.11, z=1946.35] is dead or in a banned dimension the_end
+[06Feb2025 05:44:17.725] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2808.18, y=61.01, z=1947.16], dimensionLocationPath the_end
+[06Feb2025 05:44:17.725] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2808.18, y=61.01, z=1947.16] is dead or in a banned dimension the_end
+[06Feb2025 05:44:17.776] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2808.27, y=60.96, z=1947.29], dimensionLocationPath the_end
+[06Feb2025 05:44:17.776] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2808.27, y=60.96, z=1947.29] is dead or in a banned dimension the_end
+[06Feb2025 05:44:17.823] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2808.36, y=60.91, z=1947.44], dimensionLocationPath the_end
+[06Feb2025 05:44:17.824] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2808.36, y=60.91, z=1947.44] is dead or in a banned dimension the_end
+[06Feb2025 05:44:17.875] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2808.36, y=60.91, z=1947.44], dimensionLocationPath the_end
+[06Feb2025 05:44:17.875] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2808.36, y=60.91, z=1947.44] is dead or in a banned dimension the_end
+[06Feb2025 05:44:17.924] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2808.45, y=60.86, z=1947.60], dimensionLocationPath the_end
+[06Feb2025 05:44:17.925] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2808.45, y=60.86, z=1947.60] is dead or in a banned dimension the_end
+[06Feb2025 05:44:17.976] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2808.64, y=60.76, z=1947.94], dimensionLocationPath the_end
+[06Feb2025 05:44:17.976] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2808.64, y=60.76, z=1947.94] is dead or in a banned dimension the_end
+[06Feb2025 05:44:18.024] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2808.74, y=60.71, z=1948.13], dimensionLocationPath the_end
+[06Feb2025 05:44:18.024] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2808.74, y=60.71, z=1948.13] is dead or in a banned dimension the_end
+[06Feb2025 05:44:18.078] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2808.74, y=60.71, z=1948.13], dimensionLocationPath the_end
+[06Feb2025 05:44:18.078] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2808.74, y=60.71, z=1948.13] is dead or in a banned dimension the_end
+[06Feb2025 05:44:18.126] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2808.94, y=60.61, z=1948.51], dimensionLocationPath the_end
+[06Feb2025 05:44:18.126] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2808.94, y=60.61, z=1948.51] is dead or in a banned dimension the_end
+[06Feb2025 05:44:18.176] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2808.94, y=60.61, z=1948.51], dimensionLocationPath the_end
+[06Feb2025 05:44:18.176] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2808.94, y=60.61, z=1948.51] is dead or in a banned dimension the_end
+[06Feb2025 05:44:18.226] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2808.94, y=60.61, z=1948.51], dimensionLocationPath the_end
+[06Feb2025 05:44:18.226] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2808.94, y=60.61, z=1948.51] is dead or in a banned dimension the_end
+[06Feb2025 05:44:18.276] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2808.94, y=60.61, z=1948.51], dimensionLocationPath the_end
+[06Feb2025 05:44:18.276] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2808.94, y=60.61, z=1948.51] is dead or in a banned dimension the_end
+[06Feb2025 05:44:18.325] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2809.04, y=60.56, z=1948.71], dimensionLocationPath the_end
+[06Feb2025 05:44:18.325] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2809.04, y=60.56, z=1948.71] is dead or in a banned dimension the_end
+[06Feb2025 05:44:18.377] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2809.14, y=60.51, z=1948.92], dimensionLocationPath the_end
+[06Feb2025 05:44:18.377] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2809.14, y=60.51, z=1948.92] is dead or in a banned dimension the_end
+[06Feb2025 05:44:18.424] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2809.14, y=60.51, z=1948.92], dimensionLocationPath the_end
+[06Feb2025 05:44:18.424] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2809.14, y=60.51, z=1948.92] is dead or in a banned dimension the_end
+[06Feb2025 05:44:18.476] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2809.14, y=60.51, z=1948.92], dimensionLocationPath the_end
+[06Feb2025 05:44:18.476] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2809.14, y=60.51, z=1948.92] is dead or in a banned dimension the_end
+[06Feb2025 05:44:18.523] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2809.78, y=60.21, z=1950.25], dimensionLocationPath the_end
+[06Feb2025 05:44:18.523] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2809.78, y=60.21, z=1950.25] is dead or in a banned dimension the_end
+[06Feb2025 05:44:18.577] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2809.89, y=60.16, z=1950.48], dimensionLocationPath the_end
+[06Feb2025 05:44:18.577] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2809.89, y=60.16, z=1950.48] is dead or in a banned dimension the_end
+[06Feb2025 05:44:18.625] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2810.00, y=60.11, z=1950.71], dimensionLocationPath the_end
+[06Feb2025 05:44:18.625] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2810.00, y=60.11, z=1950.71] is dead or in a banned dimension the_end
+[06Feb2025 05:44:18.677] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2810.00, y=60.11, z=1950.71], dimensionLocationPath the_end
+[06Feb2025 05:44:18.677] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2810.00, y=60.11, z=1950.71] is dead or in a banned dimension the_end
+[06Feb2025 05:44:18.724] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2810.10, y=60.06, z=1950.95], dimensionLocationPath the_end
+[06Feb2025 05:44:18.724] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2810.10, y=60.06, z=1950.95] is dead or in a banned dimension the_end
+[06Feb2025 05:44:18.775] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2810.21, y=60.01, z=1951.19], dimensionLocationPath the_end
+[06Feb2025 05:44:18.775] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2810.21, y=60.01, z=1951.19] is dead or in a banned dimension the_end
+[06Feb2025 05:44:18.823] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2810.21, y=60.01, z=1951.19], dimensionLocationPath the_end
+[06Feb2025 05:44:18.823] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2810.21, y=60.01, z=1951.19] is dead or in a banned dimension the_end
+[06Feb2025 05:44:18.875] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2810.21, y=60.01, z=1951.19], dimensionLocationPath the_end
+[06Feb2025 05:44:18.875] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2810.21, y=60.01, z=1951.19] is dead or in a banned dimension the_end
+[06Feb2025 05:44:18.923] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2810.21, y=60.01, z=1951.19], dimensionLocationPath the_end
+[06Feb2025 05:44:18.923] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2810.21, y=60.01, z=1951.19] is dead or in a banned dimension the_end
+[06Feb2025 05:44:18.976] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2810.21, y=60.01, z=1951.19], dimensionLocationPath the_end
+[06Feb2025 05:44:18.976] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2810.21, y=60.01, z=1951.19] is dead or in a banned dimension the_end
+[06Feb2025 05:44:47.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> ya vamonos
+[06Feb2025 05:45:35.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> enderman con mochila
+[06Feb2025 05:45:49.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> sigues en el barco?
+[06Feb2025 05:45:49.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> meh
+[06Feb2025 05:46:33.718] [Server thread/DEBUG] [FabricRegistrySync/]: Starting registry save
+[06Feb2025 05:46:33.718] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:command_argument_type
+[06Feb2025 05:46:33.718] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:item
+[06Feb2025 05:46:33.718] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_entity_type
+[06Feb2025 05:46:33.718] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:custom_stat
+[06Feb2025 05:46:33.718] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/foliage_placer_type
+[06Feb2025 05:46:33.718] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:stat_type
+[06Feb2025 05:46:33.718] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_rule
+[06Feb2025 05:46:33.718] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_type
+[06Feb2025 05:46:33.718] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:attribute
+[06Feb2025 05:46:33.718] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:position_source_type
+[06Feb2025 05:46:33.718] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:height_provider_type
+[06Feb2025 05:46:33.718] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_block_entity_modifier
+[06Feb2025 05:46:33.718] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/density_function_type
+[06Feb2025 05:46:33.718] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:fluid
+[06Feb2025 05:46:33.718] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:global_loot_modifier_serializers
+[06Feb2025 05:46:33.719] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_condition_type
+[06Feb2025 05:46:33.719] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_pool_element
+[06Feb2025 05:46:33.719] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:activity
+[06Feb2025 05:46:33.719] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_serializer
+[06Feb2025 05:46:33.719] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:frog_variant
+[06Feb2025 05:46:33.719] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:banner_pattern
+[06Feb2025 05:46:33.719] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:instrument
+[06Feb2025 05:46:33.719] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:decorated_pot_patterns
+[06Feb2025 05:46:33.719] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature_size_type
+[06Feb2025 05:46:33.719] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:point_of_interest_type
+[06Feb2025 05:46:33.719] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:mob_effect
+[06Feb2025 05:46:33.719] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_pool_entry_type
+[06Feb2025 05:46:33.719] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/block_state_provider_type
+[06Feb2025 05:46:33.719] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/chunk_generator
+[06Feb2025 05:46:33.719] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:float_provider_type
+[06Feb2025 05:46:33.719] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:chunk_status
+[06Feb2025 05:46:33.719] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:enchantment
+[06Feb2025 05:46:33.719] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_function_type
+[06Feb2025 05:46:33.719] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_processor
+[06Feb2025 05:46:33.719] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_score_provider_type
+[06Feb2025 05:46:33.719] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/tree_decorator_type
+[06Feb2025 05:46:33.719] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:schedule
+[06Feb2025 05:46:33.719] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_condition
+[06Feb2025 05:46:33.719] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:entity_type
+[06Feb2025 05:46:33.719] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_profession
+[06Feb2025 05:46:33.719] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:potion
+[06Feb2025 05:46:33.719] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_type
+[06Feb2025 05:46:33.719] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:int_provider_type
+[06Feb2025 05:46:33.719] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature
+[06Feb2025 05:46:33.719] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:cat_variant
+[06Feb2025 05:46:33.719] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:pos_rule_test
+[06Feb2025 05:46:33.719] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_placement
+[06Feb2025 05:46:33.719] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_nbt_provider_type
+[06Feb2025 05:46:33.719] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:menu
+[06Feb2025 05:46:33.719] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/trunk_placer_type
+[06Feb2025 05:46:33.719] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:creative_mode_tab
+[06Feb2025 05:46:33.719] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/placement_modifier_type
+[06Feb2025 05:46:33.719] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/carver
+[06Feb2025 05:46:33.719] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_number_provider_type
+[06Feb2025 05:46:33.719] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_piece
+[06Feb2025 05:46:33.719] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sound_event
+[06Feb2025 05:46:33.719] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:particle_type
+[06Feb2025 05:46:33.719] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:game_event
+[06Feb2025 05:46:33.719] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/biome_source
+[06Feb2025 05:46:33.719] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/root_placer_type
+[06Feb2025 05:46:33.719] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_type
+[06Feb2025 05:46:33.719] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:painting_variant
+[06Feb2025 05:46:33.719] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:fluid_type
+[06Feb2025 05:46:33.719] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_predicate_type
+[06Feb2025 05:46:33.719] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block
+[06Feb2025 05:46:33.719] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:entity_data_serializers
+[06Feb2025 05:46:33.719] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sensor_type
+[06Feb2025 05:46:33.719] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_test
+[06Feb2025 05:46:33.719] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:memory_module_type
+[06Feb2025 05:46:33.720] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving empty registry data
+[06Feb2025 05:46:33.720] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Feb2025 05:46:33.750] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Feb2025 05:46:55.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> cuanto tiene tus elitras?
+[06Feb2025 05:47:02.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> 100%
+[06Feb2025 05:47:02.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> ya tengo 7 perlas
+[06Feb2025 05:47:06.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> cuantas tu?
+[06Feb2025 05:47:13.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> 5
+[06Feb2025 05:47:20.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> tengo malisima suerte XD
+[06Feb2025 05:47:22.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> vuela
+[06Feb2025 05:47:26.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> y yo me tepeo a ti
+[06Feb2025 05:47:34.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> deja agarro unas cuantas mas
+[06Feb2025 05:47:37.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> [name:"End islands", x:-2848, y:57, z:1081, dim:minecraft:the_end]
+[06Feb2025 05:48:59.175] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2735.48, y=64.00, z=1884.21], dimensionLocationPath the_end
+[06Feb2025 05:48:59.175] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2735.48, y=64.00, z=1884.21] is dead or in a banned dimension the_end
+[06Feb2025 05:48:59.474] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2735.42, y=64.55, z=1884.71], dimensionLocationPath the_end
+[06Feb2025 05:48:59.475] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2735.42, y=64.55, z=1884.71] is dead or in a banned dimension the_end
+[06Feb2025 05:48:59.572] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2735.39, y=64.22, z=1885.04], dimensionLocationPath the_end
+[06Feb2025 05:48:59.572] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2735.39, y=64.22, z=1885.04] is dead or in a banned dimension the_end
+[06Feb2025 05:48:59.673] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2735.34, y=64.00, z=1885.58], dimensionLocationPath the_end
+[06Feb2025 05:48:59.673] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2735.34, y=64.00, z=1885.58] is dead or in a banned dimension the_end
+[06Feb2025 05:48:59.774] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2735.32, y=64.00, z=1885.79], dimensionLocationPath the_end
+[06Feb2025 05:48:59.774] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2735.32, y=64.00, z=1885.79] is dead or in a banned dimension the_end
+[06Feb2025 05:48:59.922] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2735.29, y=64.00, z=1886.01], dimensionLocationPath the_end
+[06Feb2025 05:48:59.922] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2735.29, y=64.00, z=1886.01] is dead or in a banned dimension the_end
+[06Feb2025 05:49:00.274] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2735.25, y=64.00, z=1886.29], dimensionLocationPath the_end
+[06Feb2025 05:49:00.274] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2735.25, y=64.00, z=1886.29] is dead or in a banned dimension the_end
+[06Feb2025 05:49:00.374] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2735.25, y=64.00, z=1886.30], dimensionLocationPath the_end
+[06Feb2025 05:49:00.374] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2735.25, y=64.00, z=1886.30] is dead or in a banned dimension the_end
+[06Feb2025 05:49:05.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> vamos a matar al enderman mutante
+[06Feb2025 05:49:06.072] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2736.86, y=64.75, z=1881.33], dimensionLocationPath the_end
+[06Feb2025 05:49:06.073] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2736.86, y=64.75, z=1881.33] is dead or in a banned dimension the_end
+[06Feb2025 05:49:12.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> marico si no
+[06Feb2025 05:49:14.172] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2734.27, y=59.00, z=1848.45], dimensionLocationPath the_end
+[06Feb2025 05:49:14.172] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2734.27, y=59.00, z=1848.45] is dead or in a banned dimension the_end
+[06Feb2025 05:49:14.272] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2734.18, y=59.00, z=1848.37], dimensionLocationPath the_end
+[06Feb2025 05:49:14.272] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2734.18, y=59.00, z=1848.37] is dead or in a banned dimension the_end
+[06Feb2025 05:49:14.775] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2733.73, y=59.00, z=1848.04], dimensionLocationPath the_end
+[06Feb2025 05:49:14.775] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2733.73, y=59.00, z=1848.04] is dead or in a banned dimension the_end
+[06Feb2025 05:49:14.872] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2733.58, y=59.00, z=1848.03], dimensionLocationPath the_end
+[06Feb2025 05:49:14.872] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2733.58, y=59.00, z=1848.03] is dead or in a banned dimension the_end
+[06Feb2025 05:49:15.175] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2733.27, y=59.00, z=1848.12], dimensionLocationPath the_end
+[06Feb2025 05:49:15.176] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2733.27, y=59.00, z=1848.12] is dead or in a banned dimension the_end
+[06Feb2025 05:49:15.275] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2733.20, y=59.00, z=1848.17], dimensionLocationPath the_end
+[06Feb2025 05:49:15.275] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2733.20, y=59.00, z=1848.17] is dead or in a banned dimension the_end
+[06Feb2025 05:49:15.574] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2732.98, y=59.00, z=1848.31], dimensionLocationPath the_end
+[06Feb2025 05:49:15.574] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2732.98, y=59.00, z=1848.31] is dead or in a banned dimension the_end
+[06Feb2025 05:49:15.675] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2732.91, y=59.00, z=1848.36], dimensionLocationPath the_end
+[06Feb2025 05:49:15.675] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2732.91, y=59.00, z=1848.36] is dead or in a banned dimension the_end
+[06Feb2025 05:49:18.676] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2733.06, y=59.00, z=1849.38], dimensionLocationPath the_end
+[06Feb2025 05:49:18.677] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['4milcar'/858, l='ServerLevel[world]', x=-2733.06, y=59.00, z=1849.38] is dead or in a banned dimension the_end
+[06Feb2025 05:50:09.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> apoco si te acobardaste?
+[06Feb2025 05:50:10.794] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:dragon_fossil_2
+[06Feb2025 05:50:14.760] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:ruined_citadel5
+[06Feb2025 05:50:14.784] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:ruined_citadel14
+[06Feb2025 05:50:14.804] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:ruined_citadel6
+[06Feb2025 05:50:14.820] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:ruined_citadel15
+[06Feb2025 05:50:14.839] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:ruined_citadel4
+[06Feb2025 05:50:14.857] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:ruined_citadel13
+[06Feb2025 05:50:14.877] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:ruined_citadel2
+[06Feb2025 05:50:14.896] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:ruined_citadel11
+[06Feb2025 05:50:14.917] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:ruined_citadel8
+[06Feb2025 05:50:14.935] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:ruined_citadel17
+[06Feb2025 05:50:14.944] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:ruined_citadel1
+[06Feb2025 05:50:14.958] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:ruined_citadel10
+[06Feb2025 05:50:14.966] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:ruined_citadel3
+[06Feb2025 05:50:14.979] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:ruined_citadel12
+[06Feb2025 05:50:14.989] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:ruined_citadel9
+[06Feb2025 05:50:15.003] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:ruined_citadel18
+[06Feb2025 05:50:15.014] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:ruined_citadel7
+[06Feb2025 05:50:15.027] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:ruined_citadel16
+[06Feb2025 05:50:18.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> de q
+[06Feb2025 05:50:32.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> de enfrentar al enderman mutante
+[06Feb2025 05:50:35.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> ya estoy aca
+[06Feb2025 05:50:37.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> a
+[06Feb2025 05:50:39.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> no leei XD
+[06Feb2025 05:50:41.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> tepeame
+[06Feb2025 05:50:43.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> justo tabulee
+[06Feb2025 05:50:50.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [4milcar: Teleported SirDragon3d to 4milcar]
