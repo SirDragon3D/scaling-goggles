@@ -1874,3 +1874,35 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [06Feb2025 05:08:13.478] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
 [06Feb2025 05:09:12.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
 [06Feb2025 05:09:39.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Showing new title for 4milcar
+[06Feb2025 05:10:50.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Showing new title for 4milcar
+[06Feb2025 05:10:56.613] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SirDragon3d[/127.228.202.90:44701] logged in with entity id 6679 at (-1850.002837610167, 81.0, 854.0347697630203)
+[06Feb2025 05:10:56.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SirDragon3d joined the game
+[06Feb2025 05:10:56.675] [Server thread/INFO] [Jade/]: Syncing config to SirDragon3d (1d6db77f-946b-363d-a155-97ba32af3cb9)
+[06Feb2025 05:10:58.388] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[06Feb2025 05:10:58.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> suicidate :3
+[06Feb2025 05:11:19.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> donde esta las mas grande puta?
+[06Feb2025 05:11:29.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> dios
+[06Feb2025 05:11:30.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> tu sabras donde esta tu madre
+[06Feb2025 05:11:31.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> cuanta nive XD
+[06Feb2025 05:11:37.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> sisa
+[06Feb2025 05:12:02.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> no puede ser XD
+[06Feb2025 05:12:07.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> hay nieve movediza
+[06Feb2025 05:12:12.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> yep
+[06Feb2025 05:13:32.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [4milcar: Teleported 4milcar to SirDragon3d]
+[06Feb2025 05:13:33.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SirDragon3d: Played sound minecraft:mob.creeper to 4milcar]
+[06Feb2025 05:13:48.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> no piques con fortuna cabron XD
+[06Feb2025 05:13:57.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> es pala normal xD
+[06Feb2025 05:14:24.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> donde esta el yunque?
+[06Feb2025 05:15:52.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> donde quieres que ponga la cruceta de esmeraldas?
+[06Feb2025 05:15:59.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> me vale vrga
+[06Feb2025 05:16:30.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> vas a seguir picando hacia alla?
+[06Feb2025 05:16:39.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> nah
+[06Feb2025 05:16:45.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> hazla aqui si quieres
+[06Feb2025 05:17:36.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> espera
+[06Feb2025 05:17:39.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> tengo pala con fortutan
+[06Feb2025 05:17:51.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> menti
+[06Feb2025 05:17:55.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> no tengo XD
+[06Feb2025 05:17:57.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> que cerda
+[06Feb2025 05:18:13.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> tienes perlas?
+[06Feb2025 05:18:17.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> nope
+[06Feb2025 05:19:05.638] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/violetmoon/quark/base/handler/SortingHandler$ItemType
