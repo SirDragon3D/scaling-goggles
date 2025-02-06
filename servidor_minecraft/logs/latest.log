@@ -2335,3 +2335,59 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [06Feb2025 06:50:07.385] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/veroxuniverse/samurai_dynasty/entity/variant/KomainuVariant
 [06Feb2025 06:50:13.313] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting gg/moonflower/etched/common/item/EtchedMusicDiscItem$LabelPattern
 [06Feb2025 06:51:37.641] [Downloader 2/INFO] [gg.moonflower.etched.common.sound.download.SoundCloudSource/]: Retrieving sound cloud id
+[06Feb2025 06:54:18.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> puedo tp?
+[06Feb2025 06:54:22.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> sisa
+[06Feb2025 06:54:23.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SirDragon3d: Teleported SirDragon3d to 4milcar]
+[06Feb2025 06:54:48.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> estamos a 800 bloq
+[06Feb2025 06:55:00.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> usamos el compas?
+[06Feb2025 06:55:09.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> lo estoy usando XD
+[06Feb2025 06:55:13.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> ok
+[06Feb2025 06:55:14.731] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/lionfishapi/server/animation/AnimationHandler
+[06Feb2025 06:55:30.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> x aqui spawneamos no?
+[06Feb2025 06:55:52.916] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting xiroc/dungeoncrawl/dungeon/Tile$Flag
+[06Feb2025 06:55:59.584] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/violetmoon/quark/content/world/gen/FallenLogGenerator$Decor
+[06Feb2025 06:56:04.144] [Worker-Main-68/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_2_pool
+[06Feb2025 06:56:04.145] [Worker-Main-68/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_1_pool
+[06Feb2025 06:56:04.145] [Worker-Main-68/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_4_pool
+[06Feb2025 06:56:04.145] [Worker-Main-68/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:angler_additions_3_pool
+[06Feb2025 06:56:04.146] [Worker-Main-68/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
+[06Feb2025 06:56:04.146] [Worker-Main-68/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:angler_additions_3_pool
+[06Feb2025 06:56:04.146] [Worker-Main-68/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[06Feb2025 06:56:04.147] [Worker-Main-68/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[06Feb2025 06:56:04.147] [Worker-Main-68/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[06Feb2025 06:56:06.338] [Worker-Main-68/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-249, y=27, z=-561}
+[06Feb2025 06:56:14.943] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-275, y=27, z=-591}
+[06Feb2025 06:56:17.073] [Worker-Main-68/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=26, z=-592}
+[06Feb2025 06:56:17.073] [Worker-Main-68/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=27, z=-592}
+[06Feb2025 06:56:17.073] [Worker-Main-68/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-282, y=35, z=-587}
+[06Feb2025 06:56:19.226] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-315, y=32, z=-582}
+[06Feb2025 06:56:19.226] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-315, y=32, z=-587}
+[06Feb2025 06:56:19.227] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-312, y=32, z=-582}
+[06Feb2025 06:56:19.227] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-312, y=32, z=-587}
+[06Feb2025 06:56:30.220] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/56733, l='ServerLevel[world]', x=-2175.42, y=74.00, z=3467.42] died, message: 'Unemployed suffocated in a wall'
+[06Feb2025 06:56:33.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> si no?
+[06Feb2025 06:56:50.574] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/56839, l='ServerLevel[world]', x=-2177.85, y=77.51, z=3490.85] died, message: 'Unemployed drowned'
+[06Feb2025 06:58:34.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> creo que acabo de bugear esta mierda infinita de musica XD
+[06Feb2025 06:58:35.360] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-235, y=27, z=-544}
+[06Feb2025 06:58:35.360] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-234, y=32, z=-539}
+[06Feb2025 06:58:37.750] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=28, z=-587}
+[06Feb2025 06:58:37.991] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-382, y=29, z=-611}
+[06Feb2025 06:58:38.000] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=28, z=-589}
+[06Feb2025 06:58:43.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> ontas xD
+[06Feb2025 06:58:49.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> uuu waystone
+[06Feb2025 06:58:56.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> [name:"Raycloarc", x:-2128, y:63, z:3424, dim:minecraft:overworld]
+[06Feb2025 06:58:57.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> copper golem
+[06Feb2025 06:59:23.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> con hacha
+[06Feb2025 06:59:34.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> la escuchas?
+[06Feb2025 07:01:12.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> que mal que no pueda ponerlo en la mochila
+[06Feb2025 07:01:21.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> a ver presta
+[06Feb2025 07:01:32.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> a no deje la mejora
+[06Feb2025 07:01:35.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> vale verga
+[06Feb2025 07:01:40.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> que mejora?
+[06Feb2025 07:01:50.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> tienes discos?
+[06Feb2025 07:01:56.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> que no te importe quemar?
+[06Feb2025 07:01:56.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> nope
+[06Feb2025 07:02:03.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> buu
+[06Feb2025 07:02:05.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> en casa
+[06Feb2025 07:02:09.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> tengo el pigstep
+[06Feb2025 07:02:30.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> creeper vs zombie
