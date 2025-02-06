@@ -1736,6 +1736,12 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/jungle_planks": {
+    "criteria": {
+      "has_planks": "2025-02-06 06:31:11 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/capsid": {
     "criteria": {
       "capsid": "2025-02-06 05:22:02 +0000"
