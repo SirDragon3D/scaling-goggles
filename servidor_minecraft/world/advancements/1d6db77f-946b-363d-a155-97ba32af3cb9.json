@@ -1712,5 +1712,17 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/enderiophage": {
+    "criteria": {
+      "killed_by": "2025-02-06 05:22:00 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/capsid": {
+    "criteria": {
+      "capsid": "2025-02-06 05:22:02 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

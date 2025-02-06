@@ -1906,3 +1906,30 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [06Feb2025 05:18:13.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> tienes perlas?
 [06Feb2025 05:18:17.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> nope
 [06Feb2025 05:19:05.638] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/violetmoon/quark/base/handler/SortingHandler$ItemType
+[06Feb2025 05:22:00.382] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/player/AdvancementEvent$AdvancementProgressEvent$ProgressType
+[06Feb2025 05:22:00.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SirDragon3d has made the advancement [Ender Distancing]
+[06Feb2025 05:22:02.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SirDragon3d has made the advancement [Capsid-19]
+[06Feb2025 05:24:31.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> tienes lana?
+[06Feb2025 05:24:38.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> nope
+[06Feb2025 05:24:51.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> puto inutil
+[06Feb2025 05:24:58.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> yo tb te quiero bro
+[06Feb2025 05:25:30.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> saca de los barcos
+[06Feb2025 05:25:43.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> voy palla
+[06Feb2025 05:25:45.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [4milcar: Set own game mode to Creative Mode]
+[06Feb2025 05:25:52.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [4milcar: Set own game mode to Survival Mode]
+[06Feb2025 05:25:56.656] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/core/WaystoneEditPermissions
+[06Feb2025 05:26:26.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> vamos a los barcos entonces?
+[06Feb2025 05:26:40.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> digo pa sacar la lana
+[06Feb2025 05:26:48.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> ok
+[06Feb2025 05:27:00.577] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
+[06Feb2025 05:27:08.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> quitaste la waystone?
+[06Feb2025 05:27:17.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> lo puse en otro lado
+[06Feb2025 05:27:23.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> pendejo
+[06Feb2025 05:27:23.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> esta abajo del barco
+[06Feb2025 05:27:33.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> eres un puto
+[06Feb2025 05:27:38.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> que lo sepa
+[06Feb2025 05:28:38.172] [Netty Epoll Server IO #5/INFO] [com.teampotato.redirector.Redirector/]: Redirecting cpw/mods/inventorysorter/Action
+[06Feb2025 05:28:38.173] [Netty Epoll Server IO #5/INFO] [com.teampotato.redirector.Redirector/]: Redirecting cpw/mods/inventorysorter/SortingHandler
+[06Feb2025 05:28:38.174] [Netty Epoll Server IO #5/INFO] [com.teampotato.redirector.Redirector/]: Redirecting cpw/mods/inventorysorter/ScrollWheelHandler
+[06Feb2025 05:28:38.182] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting cpw/mods/inventorysorter/InventoryHandler
+[06Feb2025 05:30:35.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> ya agarre suficiente lana
