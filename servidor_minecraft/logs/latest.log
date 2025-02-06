@@ -2391,3 +2391,23 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [06Feb2025 07:02:05.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> en casa
 [06Feb2025 07:02:09.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> tengo el pigstep
 [06Feb2025 07:02:30.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> creeper vs zombie
+[06Feb2025 07:03:43.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> tienes cuatro de papel?
+[06Feb2025 07:04:41.679] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 4milcar lost connection: Disconnected
+[06Feb2025 07:04:41.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4milcar left the game
+[06Feb2025 07:04:41.740] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[06Feb2025 07:04:45.780] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2190, y=67, z=3440} BlockPos{x=-2205, y=70, z=3439}
+[06Feb2025 07:04:49.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> mano
+[06Feb2025 07:05:07.917] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SirDragon3d lost connection: Disconnected
+[06Feb2025 07:05:07.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SirDragon3d left the game
+[06Feb2025 07:05:13.855] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SirDragon3d[/127.228.202.90:52841] logged in with entity id 59611 at (-2198.5850862066445, 69.9375, 3434.9219920084556)
+[06Feb2025 07:05:13.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SirDragon3d joined the game
+[06Feb2025 07:05:13.941] [Server thread/INFO] [Jade/]: Syncing config to SirDragon3d (1d6db77f-946b-363d-a155-97ba32af3cb9)
+[06Feb2025 07:05:52.850] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 4milcar[/127.14.42.80:57995] logged in with entity id 60024 at (-2205.296414447133, 70.4, 3438.313421489736)
+[06Feb2025 07:05:52.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4milcar joined the game
+[06Feb2025 07:05:52.913] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[06Feb2025 07:05:52.917] [Server thread/INFO] [Jade/]: Syncing config to 4milcar (38119765-827e-349e-83c9-41c05eb4dc76)
+[06Feb2025 07:07:31.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SirDragon3d: Gave 4 [Paper] to SirDragon3d]
+[06Feb2025 07:08:14.625] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 4milcar lost connection: Timed out
+[06Feb2025 07:08:14.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4milcar left the game
+[06Feb2025 07:09:10.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SirDragon3d: Gave 1 [Redstone Dust] to SirDragon3d]
+[06Feb2025 07:11:29.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SirDragon3d: Gave 1 [Music Label] to SirDragon3d]

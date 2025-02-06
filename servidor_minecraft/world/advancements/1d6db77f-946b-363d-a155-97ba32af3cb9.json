@@ -1712,33 +1712,9 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/cosmic_cod": {
-    "criteria": {
-      "capsid": "2025-02-06 05:41:59 +0000"
-    },
-    "done": true
-  },
-  "new_slab_variants:recipes/building_blocks/stripped_acacia_wood_slab": {
-    "criteria": {
-      "has_stripped_acacia_wood": "2025-02-06 05:39:55 +0000"
-    },
-    "done": true
-  },
   "alexsmobs:alexsmobs/enderiophage": {
     "criteria": {
       "killed_by": "2025-02-06 05:22:00 +0000"
-    },
-    "done": true
-  },
-  "new_slab_variants:recipes/building_blocks/shroomlight_slab": {
-    "criteria": {
-      "has_shroomlight": "2025-02-06 05:39:55 +0000"
-    },
-    "done": true
-  },
-  "mcwroofs:recipes/jungle_planks": {
-    "criteria": {
-      "has_planks": "2025-02-06 06:31:11 +0000"
     },
     "done": true
   },
@@ -1748,9 +1724,33 @@
     },
     "done": true
   },
+  "new_slab_variants:recipes/building_blocks/stripped_acacia_wood_slab": {
+    "criteria": {
+      "has_stripped_acacia_wood": "2025-02-06 05:39:55 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/shroomlight_slab": {
+    "criteria": {
+      "has_shroomlight": "2025-02-06 05:39:55 +0000"
+    },
+    "done": true
+  },
   "new_slab_variants:recipes/building_blocks/stripped_jungle_wood_slab": {
     "criteria": {
       "has_stripped_jungle_wood": "2025-02-06 05:39:55 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/cosmic_cod": {
+    "criteria": {
+      "capsid": "2025-02-06 05:41:59 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/jungle_planks": {
+    "criteria": {
+      "has_planks": "2025-02-06 06:31:11 +0000"
     },
     "done": true
   },
