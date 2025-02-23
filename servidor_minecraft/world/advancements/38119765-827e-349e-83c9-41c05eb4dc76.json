@@ -432,12 +432,6 @@
     },
     "done": true
   },
-  "mutantmonsters:root": {
-    "criteria": {
-      "killed_something": "2025-01-27 06:05:42 +0000"
-    },
-    "done": true
-  },
   "tombstone:adventure/find_grave_dust": {
     "criteria": {
       "from_undead": "2025-01-27 06:05:42 +0000"
