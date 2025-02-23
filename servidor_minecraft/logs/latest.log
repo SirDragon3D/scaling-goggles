@@ -1852,3 +1852,78 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [23Feb2025 08:42:23.949] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ilexiconn/llibrary/server/animation/AnimationHandler
 [23Feb2025 08:43:24.439] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/LangKey
 [23Feb2025 08:44:51.251] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/renderdata/DisplaySide
+[23Feb2025 08:46:36.637] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/1d6db77f-946b-363d-a155-97ba32af3cb9.json: Don't know what mutantmonsters:mutant_skeleton is
+[23Feb2025 08:46:36.646] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'mutantmonsters:root' in progress file ./world/advancements/1d6db77f-946b-363d-a155-97ba32af3cb9.json - it doesn't exist anymore?
+[23Feb2025 08:46:36.671] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mutantmonsters:mutant_skeleton_boots removed now.
+[23Feb2025 08:46:36.673] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mutantmonsters:mutant_skeleton_leggings removed now.
+[23Feb2025 08:46:36.676] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mutantmonsters:mutant_skeleton_arms removed now.
+[23Feb2025 08:46:36.676] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mutantmonsters:mutant_skeleton_chestplate removed now.
+[23Feb2025 08:46:36.680] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mutantmonsters:mutant_skeleton_rib_cage removed now.
+[23Feb2025 08:46:36.681] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mutantmonsters:creeper_minion_tracker removed now.
+[23Feb2025 08:46:36.685] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mutantmonsters:mutant_skeleton_boots removed now.
+[23Feb2025 08:46:36.687] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mutantmonsters:mutant_skeleton_leggings removed now.
+[23Feb2025 08:46:36.689] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mutantmonsters:mutant_skeleton_arms removed now.
+[23Feb2025 08:46:36.689] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mutantmonsters:mutant_skeleton_chestplate removed now.
+[23Feb2025 08:46:36.693] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mutantmonsters:mutant_skeleton_rib_cage removed now.
+[23Feb2025 08:46:36.694] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mutantmonsters:creeper_minion_tracker removed now.
+[23Feb2025 08:46:36.696] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SirDragon3d[/127.228.202.90:55455] logged in with entity id 2227 at (-1850.0038724382136, 81.0, 853.1911019122339)
+[23Feb2025 08:46:36.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SirDragon3d joined the game
+[23Feb2025 08:46:36.969] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/client/GlobeManager$Model
+[23Feb2025 08:46:36.970] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id mutantmonsters:skull
+[23Feb2025 08:46:37.245] [Server thread/INFO] [Jade/]: Syncing config to SirDragon3d (1d6db77f-946b-363d-a155-97ba32af3cb9)
+[23Feb2025 08:46:58.248] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/core/WarpMode
+[23Feb2025 08:47:00.552] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/api/EventResult
+[23Feb2025 08:47:00.768] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/amendments/common/IBellConnection$Type
+[23Feb2025 08:47:01.530] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ht/treechop/common/util/FaceShape
+[23Feb2025 08:47:06.793] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/gameevent/GameEventListener$DeliveryMode
+[23Feb2025 08:47:06.851] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting de/keksuccino/fancymenu/networking/PacketHandler$PacketDirection
+[23Feb2025 08:47:09.253] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[23Feb2025 08:47:09.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> donde estas puta?
+[23Feb2025 08:47:37.157] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedbackpacks/common/gui/BackpackContext$ContextType
+[23Feb2025 08:47:39.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> puta?
+[23Feb2025 08:47:48.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> estaba configurando controles
+[23Feb2025 08:47:57.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> en una aldea random
+[23Feb2025 08:48:01.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> onde andas?
+[23Feb2025 08:48:10.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SirDragon3d: Teleported SirDragon3d to 4milcar]
+[23Feb2025 08:48:27.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> temazo
+[23Feb2025 08:48:45.588] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/player/AdvancementEvent$AdvancementProgressEvent$ProgressType
+[23Feb2025 08:48:45.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4milcar has made the advancement [Crawling in my Bark]
+[23Feb2025 08:49:02.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SirDragon3d has made the advancement [Crawling in my Bark]
+[23Feb2025 08:49:21.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> tienes coords de la librerias?
+[23Feb2025 08:49:24.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> vamos al portal?
+[23Feb2025 08:49:30.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> [name:"Portal", x:-2540, y:2, z:-846, dim:minecraft:overworld]
+[23Feb2025 08:49:36.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> tienes cohetes?
+[23Feb2025 08:49:43.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> no me queda elitra
+[23Feb2025 08:49:52.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> yo me vuelo
+[23Feb2025 08:49:53.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> ta a mitad
+[23Feb2025 08:50:30.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> oye yo tengo armadura full prote 3
+[23Feb2025 08:50:42.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> y tu?
+[23Feb2025 08:50:52.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> nel solo prtoe 4 en los pantalones
+[23Feb2025 08:50:57.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> pero full reparacion
+[23Feb2025 08:51:01.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> menos las botas
+[23Feb2025 08:51:09.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> voy a ir a casa antes de volar
+[23Feb2025 08:51:14.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> tienes redstone de casualidad?
+[23Feb2025 08:51:21.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> nuh uh recuerda q solo tp entre nosotros
+[23Feb2025 08:51:22.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> nop
+[23Feb2025 08:51:31.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> con la waystone
+[23Feb2025 08:51:35.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> mano
+[23Feb2025 08:51:41.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> decoran con yunques en esta aldea
+[23Feb2025 08:51:47.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> XD
+[23Feb2025 08:51:52.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> y tolvas mano
+[23Feb2025 08:51:56.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> er diavlo
+[23Feb2025 08:52:08.408] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/AbstractIllager$IllagerArmPose
+[23Feb2025 08:52:11.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> a saquear se ha dicho
+[23Feb2025 08:52:28.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> tepeate a madmeearc
+[23Feb2025 08:52:34.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> y traeme el waystone
+[23Feb2025 08:52:51.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> aqui tb hay librerias
+[23Feb2025 08:53:26.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> tb decora n con bloques de hierro
+[23Feb2025 08:53:26.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> ya estoy aqui
+[23Feb2025 08:53:47.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> mano y bloques de carbon
+[23Feb2025 08:53:52.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> coñoesta bien
+[23Feb2025 08:54:05.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> ahora voy
+[23Feb2025 08:54:16.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> me vengo orita
+[23Feb2025 08:54:21.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> voy a buscar jugo
+[23Feb2025 08:54:42.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> yo tengo leche si quieres :hot_face:
+[23Feb2025 08:56:15.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> ya me vine
+[23Feb2025 08:56:25.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> leche con jugo?
+[23Feb2025 08:56:27.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> que te pasa we?

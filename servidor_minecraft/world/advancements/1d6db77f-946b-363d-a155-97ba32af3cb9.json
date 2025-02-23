@@ -460,12 +460,6 @@
     },
     "done": true
   },
-  "mutantmonsters:root": {
-    "criteria": {
-      "killed_something": "2025-01-27 05:50:22 +0000"
-    },
-    "done": true
-  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2025-01-27 05:50:22 +0000"
@@ -1751,6 +1745,12 @@
   "mcwroofs:recipes/jungle_planks": {
     "criteria": {
       "has_planks": "2025-02-06 06:31:11 +0000"
+    },
+    "done": true
+  },
+  "quark:crawl_in_hollow_log": {
+    "criteria": {
+      "crawl_in_hollow_log": "2025-02-23 08:49:02 +0000"
     },
     "done": true
   },
