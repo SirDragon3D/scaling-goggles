@@ -1754,5 +1754,11 @@
     },
     "done": true
   },
+  "adorabuild_structures:nether_structures": {
+    "criteria": {
+      "example": "2025-02-23 09:08:09 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
