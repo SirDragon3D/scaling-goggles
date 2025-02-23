@@ -461,6 +461,7 @@
       "minecraft:silverfish": "2025-01-28 09:01:34 +0000",
       "minecraft:vex": "2025-01-28 11:25:36 +0000",
       "minecraft:zombie": "2025-01-27 06:05:42 +0000",
+      "quark:foxhound": "2025-02-23 11:30:59 +0000",
       "minecraft:drowned": "2025-01-27 07:03:10 +0000",
       "minecraft:zombie_villager": "2025-02-03 14:33:14 +0000"
     },
@@ -1325,10 +1326,12 @@
   },
   "croptopia:gather_all": {
     "criteria": {
+      "sweetpotato_seed": "2025-02-23 12:55:35 +0000",
       "cucumber_seed": "2025-02-03 15:12:00 +0000",
       "broccoli_seed": "2025-02-03 15:44:17 +0000",
       "lettuce_seed": "2025-02-04 17:54:25 +0000",
-      "corn_seed": "2025-02-03 15:36:51 +0000"
+      "corn_seed": "2025-02-03 15:36:51 +0000",
+      "oat_seed": "2025-02-23 13:33:14 +0000"
     },
     "done": false
   },
@@ -1341,9 +1344,11 @@
   "croptopia:gather_plains": {
     "criteria": {
       "lettuce_seed": "2025-02-04 17:54:25 +0000",
+      "sweetpotato_seed": "2025-02-23 12:55:35 +0000",
       "cucumber_seed": "2025-02-03 15:12:00 +0000",
       "corn_seed": "2025-02-03 15:36:51 +0000",
-      "broccoli_seed": "2025-02-03 15:44:17 +0000"
+      "broccoli_seed": "2025-02-03 15:44:17 +0000",
+      "oat_seed": "2025-02-23 13:33:14 +0000"
     },
     "done": false
   },
@@ -1734,6 +1739,60 @@
   "quark:crawl_in_hollow_log": {
     "criteria": {
       "crawl_in_hollow_log": "2025-02-23 08:48:45 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/stone": {
+    "criteria": {
+      "has_planks": "2025-02-23 10:44:32 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/stone_bricks": {
+    "criteria": {
+      "has_planks": "2025-02-23 10:44:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:cow": "2025-02-23 10:47:12 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-02-23 10:47:12 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/spruce_leaves_slab": {
+    "criteria": {
+      "has_spruce_leaves": "2025-02-23 10:50:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2025-02-23 11:34:11 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/tuff_slab": {
+    "criteria": {
+      "has_tuff": "2025-02-23 11:46:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2025-02-23 11:51:18 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/deepslate_slab": {
+    "criteria": {
+      "has_deepslate": "2025-02-23 12:53:33 +0000"
     },
     "done": true
   },
