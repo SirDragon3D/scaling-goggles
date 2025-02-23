@@ -3962,3 +3962,56 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [23Feb2025 09:16:48.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> ya emepzo la primavera
 [23Feb2025 09:17:01.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SirDragon3d: Set own game mode to Spectator Mode]
 [23Feb2025 09:17:02.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SirDragon3d: Set own game mode to Survival Mode]
+[23Feb2025 09:17:14.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> donde ponemos la mesa?
+[23Feb2025 09:17:15.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> sisa
+[23Feb2025 09:17:47.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> si cierto q tenemos spawn de wither
+[23Feb2025 09:18:18.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> dije donde maldita puta
+[23Feb2025 09:18:34.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> ?
+[23Feb2025 09:19:06.916] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting cpw/mods/inventorysorter/Action
+[23Feb2025 09:19:06.917] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting cpw/mods/inventorysorter/SortingHandler
+[23Feb2025 09:19:06.918] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting cpw/mods/inventorysorter/ScrollWheelHandler
+[23Feb2025 09:19:06.921] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting cpw/mods/inventorysorter/InventoryHandler
+[23Feb2025 09:19:13.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [4milcar: Teleported 4milcar to SirDragon3d]
+[23Feb2025 09:19:17.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> donde mesa poner'
+[23Feb2025 09:19:33.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> bajo tierra con los aldeanos q t parece
+[23Feb2025 09:19:38.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> ok
+[23Feb2025 09:20:26.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> tienes madeera?
+[23Feb2025 09:20:39.000] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/common/gui/SortBy
+[23Feb2025 09:20:46.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> si
+[23Feb2025 09:21:23.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> dame pues XD
+[23Feb2025 09:21:54.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> estas bien?
+[23Feb2025 09:23:21.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> fak
+[23Feb2025 09:23:22.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> lapiz
+[23Feb2025 09:23:29.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> tenemos en casa creo
+[23Feb2025 09:23:44.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> pon el waystone aqui abajo
+[23Feb2025 09:24:15.205] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/core/WaystoneEditPermissions
+[23Feb2025 09:24:53.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> por que ahi tantas manzanas doradas alla?
+[23Feb2025 09:24:55.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> agarralas no?
+[23Feb2025 09:24:59.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> onde
+[23Feb2025 09:25:02.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> cofes
+[23Feb2025 09:25:08.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> ahora veo
+[23Feb2025 09:25:18.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> solo 7 de lapis
+[23Feb2025 09:25:25.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> tengo un stack
+[23Feb2025 09:25:36.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> tamare olvide poner el easy enchants XD
+[23Feb2025 09:25:59.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> pendejo
+[23Feb2025 09:26:01.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> vamos a reinciar el sv para ponerlos
+[23Feb2025 09:26:08.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> pasas link de descarga
+[23Feb2025 09:26:11.942] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 4milcar lost connection: Disconnected
+[23Feb2025 09:26:11.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4milcar left the game
+[23Feb2025 09:26:15.188] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SirDragon3d lost connection: Disconnected
+[23Feb2025 09:26:15.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SirDragon3d left the game
+[23Feb2025 09:26:49.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[23Feb2025 09:26:49.077] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/SupportStructures
+[23Feb2025 09:26:49.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[23Feb2025 09:26:49.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[23Feb2025 09:26:49.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[23Feb2025 09:26:49.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[23Feb2025 09:26:49.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[23Feb2025 09:26:49.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[23Feb2025 09:26:49.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[23Feb2025 09:26:49.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23Feb2025 09:26:49.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23Feb2025 09:26:49.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23Feb2025 09:26:49.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[23Feb2025 09:26:49.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[23Feb2025 09:26:49.916] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
