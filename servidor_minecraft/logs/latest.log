@@ -1961,3 +1961,8 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [05Mar2025 17:29:23.672] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 4milcar[/127.128.32.218:39481] logged in with entity id 11469 at (108.8391164760831, 36.3643831587152, -0.08669772014311075)
 [05Mar2025 17:29:23.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4milcar joined the game
 [05Mar2025 17:29:23.704] [Server thread/INFO] [Jade/]: Syncing config to 4milcar (38119765-827e-349e-83c9-41c05eb4dc76)
+[05Mar2025 17:31:21.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [4milcar: Set own game mode to Creative Mode]
+[05Mar2025 17:31:26.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [4milcar: Set own game mode to Survival Mode]
+[05Mar2025 17:31:46.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [4milcar: Set own game mode to Creative Mode]
+[05Mar2025 17:32:01.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [4milcar: Set own game mode to Survival Mode]
+[05Mar2025 17:39:21.960] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/common/gui/SortBy
