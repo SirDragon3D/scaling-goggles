@@ -1927,3 +1927,18 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [05Mar2025 16:59:03.639] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 4milcar[/127.128.32.218:48753] logged in with entity id 7409 at (-2408.550088476928, 68.0625, -843.4400318843137)
 [05Mar2025 16:59:03.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4milcar joined the game
 [05Mar2025 16:59:03.693] [Server thread/INFO] [Jade/]: Syncing config to 4milcar (38119765-827e-349e-83c9-41c05eb4dc76)
+[05Mar2025 17:00:01.747] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 4milcar lost connection: Timed out
+[05Mar2025 17:00:01.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4milcar left the game
+[05Mar2025 17:00:37.823] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 4milcar[/127.128.32.218:54895] logged in with entity id 7762 at (-2408.550088476928, 68.0625, -843.4400318843137)
+[05Mar2025 17:00:37.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4milcar joined the game
+[05Mar2025 17:00:37.861] [Server thread/INFO] [Jade/]: Syncing config to 4milcar (38119765-827e-349e-83c9-41c05eb4dc76)
+[05Mar2025 17:01:35.951] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 4milcar lost connection: Timed out
+[05Mar2025 17:01:35.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4milcar left the game
+[05Mar2025 17:03:08.815] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 4milcar[/127.128.32.218:38697] logged in with entity id 8094 at (-2408.550088476928, 68.0625, -843.4400318843137)
+[05Mar2025 17:03:08.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4milcar joined the game
+[05Mar2025 17:03:08.845] [Server thread/INFO] [Jade/]: Syncing config to 4milcar (38119765-827e-349e-83c9-41c05eb4dc76)
+[05Mar2025 17:04:21.710] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 4milcar moved too quickly! -10.066738866469223,0.0,-0.3959588693240903
+[05Mar2025 17:05:00.236] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 4milcar moved too quickly! -1.492560774679987,0.0,-10.139704849893747
+[05Mar2025 17:05:31.189] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/amendments/common/IBellConnection$Type
+[05Mar2025 17:05:49.101] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/gameevent/GameEventListener$DeliveryMode
+[05Mar2025 17:09:17.239] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 4milcar moved too quickly! 0.0,-10.876223607757936,0.0
