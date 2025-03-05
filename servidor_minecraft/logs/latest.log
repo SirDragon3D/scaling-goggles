@@ -1972,3 +1972,8 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [05Mar2025 17:44:20.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4milcar joined the game
 [05Mar2025 17:44:20.592] [Server thread/INFO] [Jade/]: Syncing config to 4milcar (38119765-827e-349e-83c9-41c05eb4dc76)
 [05Mar2025 17:45:19.866] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 4milcar moved too quickly! -0.0467976453490877,-11.55895306230558,0.30649427294240583
+[05Mar2025 17:51:21.428] [Netty Epoll Server IO #7/INFO] [com.teampotato.redirector.Redirector/]: Redirecting cpw/mods/inventorysorter/Action
+[05Mar2025 17:51:21.430] [Netty Epoll Server IO #7/INFO] [com.teampotato.redirector.Redirector/]: Redirecting cpw/mods/inventorysorter/SortingHandler
+[05Mar2025 17:51:21.431] [Netty Epoll Server IO #7/INFO] [com.teampotato.redirector.Redirector/]: Redirecting cpw/mods/inventorysorter/ScrollWheelHandler
+[05Mar2025 17:51:21.438] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting cpw/mods/inventorysorter/InventoryHandler
+[05Mar2025 17:53:37.779] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 4milcar moved too quickly! -10.028510450160098,-0.4524514780759894,-0.0011080555749609644
