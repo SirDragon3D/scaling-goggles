@@ -1900,3 +1900,28 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [05Mar2025 07:29:49.420] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 4milcar moved too quickly! -7.219561523464563,1.4641593749554431,7.0356621183311745
 [05Mar2025 07:31:02.048] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Markings
 [05Mar2025 07:47:38.894] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 4milcar moved too quickly! -3.346215663144676,-0.49520087700592796,9.427144937367757
+[05Mar2025 07:48:23.652] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/gameevent/GameEventListener$DeliveryMode
+[05Mar2025 07:48:50.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [4milcar: Gave 1 [Waystone] to 4milcar]
+[05Mar2025 07:49:08.886] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/lighting/LayerLightEventListener$DummyLightLayerEventListener
+[05Mar2025 07:50:13.405] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 4milcar lost connection: Timed out
+[05Mar2025 07:50:13.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4milcar left the game
+[05Mar2025 07:50:47.832] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 4milcar[/127.128.32.218:43917] logged in with entity id 11970 at (-1770.5, 72.5, 1666.5)
+[05Mar2025 07:50:47.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4milcar joined the game
+[05Mar2025 07:50:47.891] [Server thread/INFO] [Jade/]: Syncing config to 4milcar (38119765-827e-349e-83c9-41c05eb4dc76)
+[05Mar2025 07:53:39.608] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 4milcar moved too quickly! 0.17378339238803164,-1.0,-10.072624144994165
+[05Mar2025 07:55:06.704] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 4milcar lost connection: Disconnected
+[05Mar2025 07:55:06.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4milcar left the game
+[05Mar2025 07:55:06.788] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/SupportStructures
+[05Mar2025 07:55:06.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[05Mar2025 07:55:06.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[05Mar2025 07:55:06.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[05Mar2025 07:55:07.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[05Mar2025 07:55:08.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[05Mar2025 07:55:08.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[05Mar2025 07:55:08.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[05Mar2025 07:55:08.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05Mar2025 07:55:08.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05Mar2025 07:55:08.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[05Mar2025 07:55:08.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05Mar2025 07:55:08.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[05Mar2025 07:55:08.511] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
