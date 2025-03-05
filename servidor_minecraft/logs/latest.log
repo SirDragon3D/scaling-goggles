@@ -1966,3 +1966,9 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [05Mar2025 17:31:46.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [4milcar: Set own game mode to Creative Mode]
 [05Mar2025 17:32:01.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [4milcar: Set own game mode to Survival Mode]
 [05Mar2025 17:39:21.960] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/common/gui/SortBy
+[05Mar2025 17:43:53.094] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 4milcar lost connection: Disconnected
+[05Mar2025 17:43:53.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4milcar left the game
+[05Mar2025 17:44:20.565] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 4milcar[/127.128.32.218:44677] logged in with entity id 12769 at (106.9037341531813, 49.0, 0.6870821003195421)
+[05Mar2025 17:44:20.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4milcar joined the game
+[05Mar2025 17:44:20.592] [Server thread/INFO] [Jade/]: Syncing config to 4milcar (38119765-827e-349e-83c9-41c05eb4dc76)
+[05Mar2025 17:45:19.866] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 4milcar moved too quickly! -0.0467976453490877,-11.55895306230558,0.30649427294240583
