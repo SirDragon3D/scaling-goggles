@@ -2035,3 +2035,4 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [05Mar2025 19:29:39.812] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 4milcar[/127.128.32.218:48225] logged in with entity id 25401 at (241.1552759627691, 14.0, -1.5721788852738485)
 [05Mar2025 19:29:39.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4milcar joined the game
 [05Mar2025 19:29:39.836] [Server thread/INFO] [Jade/]: Syncing config to 4milcar (38119765-827e-349e-83c9-41c05eb4dc76)
+[05Mar2025 19:36:49.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [4milcar: Gave 1 [Waystone] to 4milcar]
