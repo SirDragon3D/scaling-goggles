@@ -2011,3 +2011,9 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [05Mar2025 18:37:12.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [4milcar: Set own game mode to Survival Mode]
 [05Mar2025 18:39:43.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4milcar has completed the challenge [Village Defender]
 [05Mar2025 18:40:20.874] [Netty Epoll Server IO #6/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/network/SMessageUpgradePerk$SyncType
+[05Mar2025 18:40:57.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [4milcar: Set own game mode to Creative Mode]
+[05Mar2025 18:41:00.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [4milcar: Set own game mode to Survival Mode]
+[05Mar2025 18:42:06.149] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/api/EventResult
+[05Mar2025 18:42:16.523] [Worker-Main-233/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/ShulkerBoxBlockEntity$AnimationStatus
+[05Mar2025 18:43:51.400] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 4milcar moved too quickly! 10.147473489040436,-0.29870314634778894,-0.6571671749567779
+[05Mar2025 18:44:04.124] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 4milcar moved too quickly! 10.13675353975637,-1.2522033402537236,-0.15952768986875437
