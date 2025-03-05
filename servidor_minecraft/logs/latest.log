@@ -1904,3 +1904,26 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [05Mar2025 16:48:26.514] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/violetmoon/quark/api/event/SimpleHarvestEvent$ActionType
 [05Mar2025 16:48:26.523] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/illusivesoulworks/comforts/common/ComfortsEvents$Result
 [05Mar2025 16:48:31.354] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting de/keksuccino/fancymenu/networking/PacketHandler$PacketDirection
+[05Mar2025 16:49:33.643] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/veroxuniverse/samurai_dynasty/entity/variant/KitsuneVariant
+[05Mar2025 16:49:40.504] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/item/UseAnim
+[05Mar2025 16:50:34.204] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 4milcar moved too quickly! -1.207079936813443,-0.1647732818260721,-10.388972092604035
+[05Mar2025 16:52:27.777] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/gossip/GossipType
+[05Mar2025 16:52:35.353] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/AbstractIllager$IllagerArmPose
+[05Mar2025 16:52:35.354] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
+[05Mar2025 16:52:46.750] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
+[05Mar2025 16:52:50.301] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/5249, l='ServerLevel[world]', x=-2499.28, y=73.00, z=-594.04] died, message: 'Unemployed was shot by Pillager'
+[05Mar2025 16:53:06.343] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class com/bobmowzie/mowziesmobs/client/sound/BossMusic for invalid dist DEDICATED_SERVER
+[05Mar2025 16:53:06.344] [Server thread/WARN] [Radium Class Analysis/]: Radium Class Analysis Error: Class com.bobmowzie.mowziesmobs.server.entity.wroughtnaut.EntityWroughtnaut cannot be analysed, because getting declared methods crashes with RuntimeException: Attempted to load class com/bobmowzie/mowziesmobs/client/sound/BossMusic for invalid dist DEDICATED_SERVER. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @OnlyIn(Dist.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[05Mar2025 16:53:36.801] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/LangKey
+[05Mar2025 16:53:46.351] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/player/AdvancementEvent$AdvancementProgressEvent$ProgressType
+[05Mar2025 16:53:46.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4milcar has made the advancement [Voluntary Exile]
+[05Mar2025 16:54:03.065] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting fr/rakambda/fallingtree/common/tree/AbortedResult
+[05Mar2025 16:54:17.431] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fluids/capability/IFluidHandler$FluidAction
+[05Mar2025 16:55:22.405] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 4milcar moved too quickly! 9.672186256276746,-0.49520087700592796,-3.175786187201993
+[05Mar2025 16:55:40.211] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 4milcar moved too quickly! -4.164739329323311,2.127890238205481,-8.972559347920878
+[05Mar2025 16:58:21.852] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 4milcar lost connection: Disconnected
+[05Mar2025 16:58:21.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4milcar left the game
+[05Mar2025 16:58:21.919] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[05Mar2025 16:59:03.639] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 4milcar[/127.128.32.218:48753] logged in with entity id 7409 at (-2408.550088476928, 68.0625, -843.4400318843137)
+[05Mar2025 16:59:03.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4milcar joined the game
+[05Mar2025 16:59:03.693] [Server thread/INFO] [Jade/]: Syncing config to 4milcar (38119765-827e-349e-83c9-41c05eb4dc76)
