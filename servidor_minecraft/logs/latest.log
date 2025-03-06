@@ -1923,3 +1923,13 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [06Mar2025 05:02:38.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4milcar joined the game
 [06Mar2025 05:02:38.444] [Server thread/INFO] [Jade/]: Syncing config to 4milcar (38119765-827e-349e-83c9-41c05eb4dc76)
 [06Mar2025 05:23:49.537] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting top/theillusivec4/caelus/api/CaelusApi$TriState
+[06Mar2025 05:39:16.921] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SirDragon3d[/127.228.202.90:55257] logged in with entity id 18015 at (-1753.0476836611392, -45.0, 1627.7143352499884)
+[06Mar2025 05:39:16.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SirDragon3d joined the game
+[06Mar2025 05:39:16.958] [Server thread/INFO] [Jade/]: Syncing config to SirDragon3d (1d6db77f-946b-363d-a155-97ba32af3cb9)
+[06Mar2025 05:40:14.403] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[06Mar2025 05:40:14.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> on toy?
+[06Mar2025 05:40:39.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> tengo la capacidad de hacer tp?
+[06Mar2025 05:40:53.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> puedo hacer tp? XD
+[06Mar2025 05:41:01.970] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/violetmoon/quark/base/handler/SortingHandler$ItemType
+[06Mar2025 05:43:16.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SirDragon3d: Teleported SirDragon3d to 4milcar]
+[06Mar2025 05:48:19.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> putas nagas
