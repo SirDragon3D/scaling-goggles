@@ -1944,3 +1944,10 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [06Mar2025 06:06:35.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> tienes esmeraldas o algun libro con mending?
 [06Mar2025 06:07:07.298] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 4milcar lost connection: Timed out
 [06Mar2025 06:07:07.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4milcar left the game
+[06Mar2025 06:09:06.023] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 4milcar[/127.128.32.218:36593] logged in with entity id 24943 at (-1847.462757663171, 81.0, 853.3007140744974)
+[06Mar2025 06:09:06.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4milcar joined the game
+[06Mar2025 06:09:06.072] [Server thread/INFO] [Jade/]: Syncing config to 4milcar (38119765-827e-349e-83c9-41c05eb4dc76)
+[06Mar2025 06:09:22.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> puta el que se desconecte
+[06Mar2025 06:11:05.540] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 4milcar lost connection: Timed out
+[06Mar2025 06:11:05.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4milcar left the game
+[06Mar2025 06:13:50.588] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
