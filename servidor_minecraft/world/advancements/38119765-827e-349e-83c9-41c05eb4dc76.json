@@ -1839,5 +1839,11 @@
     },
     "done": true
   },
+  "new_slab_variants:recipes/building_blocks/diamond_block_slab": {
+    "criteria": {
+      "has_diamond_block": "2025-03-06 05:20:12 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

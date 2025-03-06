@@ -1922,3 +1922,4 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [06Mar2025 05:02:38.414] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 4milcar[/127.128.32.218:36351] logged in with entity id 11934 at (-1843.5, 80.0, 855.5)
 [06Mar2025 05:02:38.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4milcar joined the game
 [06Mar2025 05:02:38.444] [Server thread/INFO] [Jade/]: Syncing config to 4milcar (38119765-827e-349e-83c9-41c05eb4dc76)
+[06Mar2025 05:23:49.537] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting top/theillusivec4/caelus/api/CaelusApi$TriState
