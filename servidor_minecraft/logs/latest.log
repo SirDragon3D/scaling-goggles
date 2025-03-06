@@ -1937,3 +1937,10 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [06Mar2025 05:48:52.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> taba viendo tuto de la granja de polvora xd
 [06Mar2025 05:57:28.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> que tienes en las patas?
 [06Mar2025 05:57:55.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> oye desde cuando se bajan tan rapido las escaleras?
+[06Mar2025 06:05:00.372] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/Helper$RomanNumeral
+[06Mar2025 06:05:57.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> hola?
+[06Mar2025 06:06:01.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> estoy aca
+[06Mar2025 06:06:11.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> revvi
+[06Mar2025 06:06:35.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> tienes esmeraldas o algun libro con mending?
+[06Mar2025 06:07:07.298] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 4milcar lost connection: Timed out
+[06Mar2025 06:07:07.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4milcar left the game
