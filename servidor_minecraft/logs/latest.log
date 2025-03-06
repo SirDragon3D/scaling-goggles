@@ -2085,3 +2085,80 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [06Mar2025 06:48:39.683] [Worker-Main-283/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_end_1_pool
 [06Mar2025 06:48:39.683] [Worker-Main-283/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_end_1_pool
 [06Mar2025 06:48:51.915] [Worker-Main-243/INFO] [com.teampotato.redirector.Redirector/]: Redirecting xiroc/dungeoncrawl/dungeon/Tile$Flag
+[06Mar2025 06:49:43.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> y en este bioma?
+[06Mar2025 06:49:53.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> que?
+[06Mar2025 06:50:12.750] [Worker-Main-274/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:house_basement_pool
+[06Mar2025 06:50:12.751] [Worker-Main-274/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[06Mar2025 06:50:12.752] [Worker-Main-274/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[06Mar2025 06:50:12.752] [Worker-Main-274/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_end_1_pool
+[06Mar2025 06:50:12.752] [Worker-Main-274/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_end_1_pool
+[06Mar2025 06:50:38.616] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/lionfishapi/server/animation/AnimationHandler
+[06Mar2025 06:50:46.448] [pool-8-thread-2/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert]] from pos BlockPos{x=363, y=73, z=1653}
+[06Mar2025 06:50:50.182] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3707ms or 74 ticks behind
+[06Mar2025 06:50:50.210] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of 4milcar) moved too quickly! 9.482074077206192,0.0,3.972185993166704
+[06Mar2025 06:50:50.210] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of 4milcar) moved too quickly! 9.833308056771045,0.0,4.160916391675983
+[06Mar2025 06:50:50.210] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of 4milcar) moved too quickly! 10.18403533131027,0.0,4.35081247909352
+[06Mar2025 06:50:50.210] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of 4milcar) moved too quickly! 10.534293115589946,0.0,4.5417809155483155
+[06Mar2025 06:50:50.211] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of 4milcar) moved too quickly! 10.884114880546889,0.0,4.733737685845426
+[06Mar2025 06:50:50.211] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of 4milcar) moved too quickly! 11.233878260003706,0.0,4.925997431971382
+[06Mar2025 06:50:50.211] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of 4milcar) moved too quickly! 11.584207896757988,0.0,5.117377817761962
+[06Mar2025 06:50:50.212] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of 4milcar) moved too quickly! 11.935570132494433,0.0,5.306916254857924
+[06Mar2025 06:50:50.212] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of 4milcar) moved too quickly! 12.288306793799194,0.0,5.493836612350606
+[06Mar2025 06:50:50.212] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of 4milcar) moved too quickly! 12.642658577399743,0.0,5.677528022933075
+[06Mar2025 06:50:50.212] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of 4milcar) moved too quickly! 12.998787594446782,0.0,5.857517631425935
+[06Mar2025 06:50:50.213] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of 4milcar) moved too quickly! 13.35679191224466,0.0,6.0334558054278205
+[06Mar2025 06:50:50.213] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of 4milcar) moved too quickly! 13.716720441123528,0.0,6.20509505860241
+[06Mar2025 06:50:50.213] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of 4milcar) moved too quickly! 14.078583967064617,0.0,6.372274125199283
+[06Mar2025 06:50:50.214] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of 4milcar) moved too quickly! 14.442363143911734,0.0,6.534906881164488
+[06Mar2025 06:50:50.214] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of 4milcar) moved too quickly! 14.808017429797303,0.0,6.692964787518122
+[06Mar2025 06:50:50.214] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of 4milcar) moved too quickly! 15.175490216748585,0.0,6.846468136711337
+[06Mar2025 06:50:50.215] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of 4milcar) moved too quickly! 15.544713093430516,0.0,6.995478027200534
+[06Mar2025 06:50:50.215] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of 4milcar) moved too quickly! 15.915609376140452,0.0,7.140089015765625
+[06Mar2025 06:50:50.215] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of 4milcar) moved too quickly! 16.288098009409566,0.0,7.280418694557284
+[06Mar2025 06:50:50.215] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of 4milcar) moved too quickly! 16.662094830194093,0.0,7.41660563529058
+[06Mar2025 06:50:50.216] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of 4milcar) moved too quickly! 17.037514543837574,0.0,7.548803779270884
+[06Mar2025 06:50:50.216] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of 4milcar) moved too quickly! 17.414272342249518,0.0,7.67717733626273
+[06Mar2025 06:50:50.216] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of 4milcar) moved too quickly! 17.79228520007851,0.0,7.801896148769174
+[06Mar2025 06:50:50.217] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of 4milcar) moved too quickly! 18.171472061516766,0.0,7.923135222820747
+[06Mar2025 06:50:50.217] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of 4milcar) moved too quickly! 18.55175482053744,0.0,8.041070553387954
+[06Mar2025 06:50:50.218] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of 4milcar) moved too quickly! 18.933058271785626,0.0,8.15587908416046
+[06Mar2025 06:50:50.218] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of 4milcar) moved too quickly! 19.315310856141764,0.0,8.267734919049644
+[06Mar2025 06:50:50.219] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of 4milcar) moved too quickly! 19.698445264673552,0.0,8.376805891121194
+[06Mar2025 06:50:50.219] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of 4milcar) moved too quickly! 20.082397328163665,0.0,8.483257969917759
+[06Mar2025 06:50:50.219] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of 4milcar) moved too quickly! 20.467106612109006,0.0,8.587251720658514
+[06Mar2025 06:50:50.220] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of 4milcar) moved too quickly! 20.852516914967197,0.0,8.688939108205204
+[06Mar2025 06:50:50.220] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of 4milcar) moved too quickly! 21.238575125879265,0.0,8.788468127092301
+[06Mar2025 06:50:50.221] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of 4milcar) moved too quickly! 21.625231750066348,0.0,8.885979454642893
+[06Mar2025 06:50:50.221] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of 4milcar) moved too quickly! 22.01243983196582,0.0,8.981610950820823
+[06Mar2025 06:50:50.221] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of 4milcar) moved too quickly! 22.400156258480962,0.0,9.075490429782121
+[06Mar2025 06:50:50.222] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of 4milcar) moved too quickly! 22.788341393360724,0.0,9.167736668646285
+[06Mar2025 06:50:50.222] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of 4milcar) moved too quickly! 23.176958006808746,0.0,9.258464077003282
+[06Mar2025 06:50:50.222] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of 4milcar) moved too quickly! 23.565971060914904,0.0,9.347783139720377
+[06Mar2025 06:50:50.223] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of 4milcar) moved too quickly! 23.955348976857437,0.0,9.43579328386204
+[06Mar2025 06:50:50.223] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of 4milcar) moved too quickly! 24.34506183240549,0.0,9.522591516542434
+[06Mar2025 06:50:50.224] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of 4milcar) moved too quickly! 24.735082671475027,0.0,9.608265138573415
+[06Mar2025 06:50:50.224] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of 4milcar) moved too quickly! 25.125386481082387,0.0,9.692896481364642
+[06Mar2025 06:50:50.224] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of 4milcar) moved too quickly! 25.515950008210098,0.0,9.776563406191372
+[06Mar2025 06:50:50.225] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of 4milcar) moved too quickly! 25.906751591260814,0.0,9.85933975167427
+[06Mar2025 06:50:50.225] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of 4milcar) moved too quickly! 26.29777100464051,0.0,9.9412957383729
+[06Mar2025 06:50:50.226] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of 4milcar) moved too quickly! 26.688990037864528,0.0,10.022494561995245
+[06Mar2025 06:50:50.226] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of 4milcar) moved too quickly! 27.080392294046476,0.0,10.1029930982113
+[06Mar2025 06:50:50.227] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of 4milcar) moved too quickly! 27.471962293282672,0.0,10.182846301391237
+[06Mar2025 06:50:50.227] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of 4milcar) moved too quickly! 27.863686099934938,0.0,10.262103630001093
+[06Mar2025 06:50:50.261] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of 4milcar) moved too quickly! 19.125256294522615,0.0,6.556092067708505
+[06Mar2025 06:51:50.276] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/FATAL]: A single server tick took 60.00 seconds (should be max 0.05)
+[06Mar2025 06:51:01.841] [spark-async-sampler-worker-thread/WARN] [spark/]: Timed out waiting for world statistics
+[06Mar2025 06:53:04.646] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
+[06Mar2025 06:53:05.160] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SirDragon3d lost connection: Disconnected
+[06Mar2025 06:53:05.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SirDragon3d left the game
+[06Mar2025 06:53:05.504] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 4milcar lost connection: Disconnected
+[06Mar2025 06:53:05.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4milcar left the game
+[06Mar2025 06:53:05.710] [Server Watchdog/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID 2bf6b5c2-b904-45de-b370-2381950ca10a
+[06Mar2025 06:53:05.740] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@54a31308[id=<null>,name=SirDragon3d,properties={},legacy=false] (/127.228.202.90:53461) lost connection: Disconnected
+[06Mar2025 06:53:05.776] [Server Watchdog/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID c374523d-3c67-441b-95ab-1ae74a23481a
+[06Mar2025 06:53:05.777] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/]: This crash report has been saved to: /workspaces/scaling-goggles/servidor_minecraft/./crash-reports/crash-2025-03-06_06.53.05-server.txt
+[06Mar2025 06:53:05.973] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/SupportStructures
+[06Mar2025 06:53:06.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[06Mar2025 06:53:06.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[06Mar2025 06:53:06.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[06Mar2025 06:53:09.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
