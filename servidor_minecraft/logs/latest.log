@@ -1951,3 +1951,50 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [06Mar2025 06:11:05.540] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 4milcar lost connection: Timed out
 [06Mar2025 06:11:05.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4milcar left the game
 [06Mar2025 06:13:50.588] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
+[06Mar2025 06:19:06.270] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 4milcar[/127.128.32.218:50689] logged in with entity id 28172 at (-1847.462757663171, 81.0, 853.3007140744974)
+[06Mar2025 06:19:06.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4milcar joined the game
+[06Mar2025 06:19:06.304] [Server thread/INFO] [Jade/]: Syncing config to 4milcar (38119765-827e-349e-83c9-41c05eb4dc76)
+[06Mar2025 06:20:14.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> qlq aldita zorra
+[06Mar2025 06:20:34.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> tpeate
+[06Mar2025 06:20:40.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> ya estoy aqui
+[06Mar2025 06:20:47.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> en la granja de endermen
+[06Mar2025 06:21:14.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> deberiamos poner un armorstand en el medio
+[06Mar2025 06:21:33.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> como estan tus fps?
+[06Mar2025 06:21:49.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> dbn pero da tirones
+[06Mar2025 06:22:00.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> casco tombstone soulbound
+[06Mar2025 06:22:35.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SirDragon3d has made the advancement [Limit Breaker]
+[06Mar2025 06:22:46.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> pico fortuna IV
+[06Mar2025 06:22:54.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> q
+[06Mar2025 06:22:59.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> a ver
+[06Mar2025 06:23:00.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> es uno de esos tomos
+[06Mar2025 06:23:14.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> robao
+[06Mar2025 06:23:28.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> coño estos endermen quitan mucho XD
+[06Mar2025 06:23:32.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> si XD
+[06Mar2025 06:23:36.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [4milcar: Teleported 4milcar to SirDragon3d]
+[06Mar2025 06:23:51.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> ponlo en mi mochila
+[06Mar2025 06:23:57.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> tarde xd
+[06Mar2025 06:24:10.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> pon el pico en mi mochila
+[06Mar2025 06:24:13.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> pq tienes una de oro?
+[06Mar2025 06:24:24.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> es una de los que me soltaron
+[06Mar2025 06:24:51.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> dame el pico para ponerle fortuna VI
+[06Mar2025 06:24:56.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> eficiencia XD
+[06Mar2025 06:25:05.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> no t lo di?
+[06Mar2025 06:25:19.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> a ya
+[06Mar2025 06:25:26.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> tengo varios picos xdd
+[06Mar2025 06:25:28.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> tu quedate el toque de seda
+[06Mar2025 06:25:35.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> asi cuando picas menas
+[06Mar2025 06:25:43.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> me la das luego a mi
+[06Mar2025 06:26:00.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> con q tomo te mejoraste fortuna?
+[06Mar2025 06:26:11.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> con los quark
+[06Mar2025 06:26:16.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> ancient tome
+[06Mar2025 06:26:48.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> suertudo de mierda XD
+[06Mar2025 06:27:12.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> que tal Destroza Bedrock?
+[06Mar2025 06:27:32.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> seria clickbai
+[06Mar2025 06:27:35.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> t
+[06Mar2025 06:27:48.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> tomas estas botas
+[06Mar2025 06:27:59.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> no quiero tus miserias
+[06Mar2025 06:28:06.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> las puse en tu omchila
+[06Mar2025 06:28:32.880] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fluids/capability/IFluidHandler$FluidAction
+[06Mar2025 06:28:59.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> missclick
+[06Mar2025 06:29:00.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> pendejo XD
+[06Mar2025 06:29:02.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> XDD
