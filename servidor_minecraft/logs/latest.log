@@ -1891,3 +1891,4 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [06Mar2025 04:35:09.601] [Server thread/INFO] [tombstone/]: The player 4milcar has successfully been saved
 [06Mar2025 04:36:38.340] [Server thread/WARN] [tombstone/]: The death event of the player 4milcar was canceled by another mod
 [06Mar2025 04:36:38.352] [Server thread/INFO] [tombstone/]: The player 4milcar has successfully been saved
+[06Mar2025 04:47:08.460] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/api/EventResult
