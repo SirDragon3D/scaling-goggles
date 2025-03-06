@@ -1892,3 +1892,24 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [06Mar2025 04:36:38.340] [Server thread/WARN] [tombstone/]: The death event of the player 4milcar was canceled by another mod
 [06Mar2025 04:36:38.352] [Server thread/INFO] [tombstone/]: The player 4milcar has successfully been saved
 [06Mar2025 04:47:08.460] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/api/EventResult
+[06Mar2025 04:47:36.237] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/common/gui/SortBy
+[06Mar2025 04:48:53.527] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Markings
+[06Mar2025 04:49:03.828] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class com/bobmowzie/mowziesmobs/client/sound/BossMusic for invalid dist DEDICATED_SERVER
+[06Mar2025 04:49:03.828] [Server thread/WARN] [Radium Class Analysis/]: Radium Class Analysis Error: Class com.bobmowzie.mowziesmobs.server.entity.wroughtnaut.EntityWroughtnaut cannot be analysed, because getting declared methods crashes with RuntimeException: Attempted to load class com/bobmowzie/mowziesmobs/client/sound/BossMusic for invalid dist DEDICATED_SERVER. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @OnlyIn(Dist.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[06Mar2025 04:49:35.892] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ilexiconn/llibrary/server/animation/AnimationHandler
+[06Mar2025 04:50:13.480] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/util/TerrapinTypes
+[06Mar2025 04:51:11.744] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/PathFindingStatus
+[06Mar2025 04:51:11.744] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/AbstractAdvancedPathNavigate$RestrictionType
+[06Mar2025 04:51:11.748] [Citadel Pathfinding Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/SurfaceType
+[06Mar2025 04:53:14.950] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/illusivesoulworks/comforts/common/ComfortsEvents$Result
+[06Mar2025 04:53:30.792] [Server thread/WARN] [tombstone/]: The death event of the player 4milcar was canceled by another mod
+[06Mar2025 04:53:30.803] [Server thread/INFO] [tombstone/]: The player 4milcar has successfully been saved
+[06Mar2025 04:53:56.539] [Server thread/WARN] [tombstone/]: The death event of the player 4milcar was canceled by another mod
+[06Mar2025 04:53:56.550] [Server thread/INFO] [tombstone/]: The player 4milcar has successfully been saved
+[06Mar2025 04:54:04.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [4milcar: Set own game mode to Creative Mode]
+[06Mar2025 04:54:22.073] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 4milcar moved too quickly! -7.904440548060393,0.0,7.410142437138802
+[06Mar2025 04:54:32.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [4milcar: Set own game mode to Adventure Mode]
+[06Mar2025 04:54:45.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [4milcar: Set own game mode to Creative Mode]
+[06Mar2025 04:54:58.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [4milcar: Set own game mode to Adventure Mode]
+[06Mar2025 04:55:57.336] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/gameevent/GameEventListener$DeliveryMode
+[06Mar2025 04:57:03.103] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 4milcar moved too quickly! 10.160564099448493,-1.0013359791121417,1.3688304577390227
