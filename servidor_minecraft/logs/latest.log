@@ -1884,3 +1884,4 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [06Mar2025 04:00:01.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [4milcar: Set own game mode to Survival Mode]
 [06Mar2025 04:02:18.386] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/living/LivingChangeTargetEvent$LivingTargetType
 [06Mar2025 04:05:04.978] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting de/keksuccino/fancymenu/networking/PacketHandler$PacketDirection
+[06Mar2025 04:15:57.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [4milcar: Gave 1 [Name Tag] to 4milcar]
