@@ -1885,3 +1885,9 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [06Mar2025 04:02:18.386] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/living/LivingChangeTargetEvent$LivingTargetType
 [06Mar2025 04:05:04.978] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting de/keksuccino/fancymenu/networking/PacketHandler$PacketDirection
 [06Mar2025 04:15:57.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [4milcar: Gave 1 [Name Tag] to 4milcar]
+[06Mar2025 04:30:09.387] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/core/WaystoneEditPermissions
+[06Mar2025 04:30:24.165] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/core/WarpMode
+[06Mar2025 04:35:09.586] [Server thread/WARN] [tombstone/]: The death event of the player 4milcar was canceled by another mod
+[06Mar2025 04:35:09.601] [Server thread/INFO] [tombstone/]: The player 4milcar has successfully been saved
+[06Mar2025 04:36:38.340] [Server thread/WARN] [tombstone/]: The death event of the player 4milcar was canceled by another mod
+[06Mar2025 04:36:38.352] [Server thread/INFO] [tombstone/]: The player 4milcar has successfully been saved
