@@ -2025,3 +2025,63 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [06Mar2025 06:38:34.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> los q estan cerca de casa
 [06Mar2025 06:38:44.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> esos son gigantes
 [06Mar2025 06:38:57.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> yo creo que aqqui el abeto si crecera
+[06Mar2025 06:40:29.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> xfin llego la epoca de derrochar enderpearls
+[06Mar2025 06:40:35.349] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1815, y=80, z=812} BlockPos{x=-1815, y=81, z=813}
+[06Mar2025 06:40:35.397] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1815, y=80, z=812} BlockPos{x=-1815, y=81, z=813}
+[06Mar2025 06:40:35.451] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1815, y=80, z=812} BlockPos{x=-1815, y=81, z=813}
+[06Mar2025 06:40:35.496] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1815, y=80, z=812} BlockPos{x=-1815, y=81, z=813}
+[06Mar2025 06:40:35.552] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1815, y=80, z=812} BlockPos{x=-1815, y=81, z=813}
+[06Mar2025 06:40:35.597] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1814, y=80, z=812} BlockPos{x=-1815, y=81, z=813}
+[06Mar2025 06:40:35.647] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1814, y=78, z=811} BlockPos{x=-1815, y=81, z=813}
+[06Mar2025 06:41:15.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> aqui hay arboles grandes
+[06Mar2025 06:41:24.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> voy
+[06Mar2025 06:41:27.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SirDragon3d: Teleported SirDragon3d to 4milcar]
+[06Mar2025 06:41:33.060] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ht/treechop/common/util/FaceShape
+[06Mar2025 06:41:53.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> tb abeto
+[06Mar2025 06:41:58.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> maybe aqui puedes plantar
+[06Mar2025 06:42:04.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> nel
+[06Mar2025 06:42:07.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> tiene que ser invierno
+[06Mar2025 06:42:25.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> tenemos una puta montaña nevada en casa pendejo XDD
+[06Mar2025 06:42:33.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> coño ya probe ahi XD
+[06Mar2025 06:42:37.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> a
+[06Mar2025 06:43:16.752] [Worker-Main-149/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/violetmoon/quark/content/world/gen/FallenLogGenerator$Decor
+[06Mar2025 06:43:35.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> con que cosa se veia la estacion?
+[06Mar2025 06:43:41.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> calendar
+[06Mar2025 06:44:05.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> en verano no crece los abetos
+[06Mar2025 06:44:13.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> pero en las otras estaciones si
+[06Mar2025 06:44:27.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> biomade volcan creo
+[06Mar2025 06:44:30.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SirDragon3d: Teleported SirDragon3d to 4milcar]
+[06Mar2025 06:44:31.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> hay arena negra
+[06Mar2025 06:44:34.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> a
+[06Mar2025 06:44:49.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> hay que marcarlo
+[06Mar2025 06:45:06.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> tamare
+[06Mar2025 06:45:11.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> olvide reparar las elitras XD
+[06Mar2025 06:45:12.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> necesitamos hacer tambien una granja de papel
+[06Mar2025 06:45:27.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> imagino que viste volar sin ellas XD
+[06Mar2025 06:45:33.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> er diavlo
+[06Mar2025 06:45:40.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> wat
+[06Mar2025 06:45:43.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> puedo nadar XD
+[06Mar2025 06:45:49.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> a no
+[06Mar2025 06:45:49.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> la mascara pendejo
+[06Mar2025 06:45:52.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> eran las elitras
+[06Mar2025 06:45:56.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> estas bien?
+[06Mar2025 06:45:56.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> que buen sauna
+[06Mar2025 06:46:01.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> te veo quemandote XD
+[06Mar2025 06:46:06.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> tu tb XD
+[06Mar2025 06:46:17.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> en mi pov no se ve asi XD
+[06Mar2025 06:46:27.700] [pool-8-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains]] from pos BlockPos{x=-523, y=67, z=1957}
+[06Mar2025 06:46:27.724] [pool-8-thread-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
+[06Mar2025 06:46:27.894] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/amendments/reg/ModBlockProperties$PostType
+[06Mar2025 06:46:52.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> esta hermoso este bioma
+[06Mar2025 06:47:02.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> define hermoso
+[06Mar2025 06:47:03.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> un tanuki
+[06Mar2025 06:47:11.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> ta gordo
+[06Mar2025 06:47:13.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> como yo
+[06Mar2025 06:47:47.034] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/AbstractIllager$IllagerArmPose
+[06Mar2025 06:48:13.765] [Worker-Main-254/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=234, y=-57, z=141}
+[06Mar2025 06:48:39.680] [Worker-Main-283/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:house_basement_pool
+[06Mar2025 06:48:39.681] [Worker-Main-283/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[06Mar2025 06:48:39.682] [Worker-Main-283/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[06Mar2025 06:48:39.683] [Worker-Main-283/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_end_1_pool
+[06Mar2025 06:48:39.683] [Worker-Main-283/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_end_1_pool
+[06Mar2025 06:48:51.915] [Worker-Main-243/INFO] [com.teampotato.redirector.Redirector/]: Redirecting xiroc/dungeoncrawl/dungeon/Tile$Flag
