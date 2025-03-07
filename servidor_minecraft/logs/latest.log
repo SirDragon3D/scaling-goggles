@@ -2085,3 +2085,61 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [07Mar2025 05:33:48.909] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 4milcar moved too quickly! 9.646595123387215,-2.9499999999998323,-0.06529936185825136
 [07Mar2025 05:34:02.032] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 4milcar moved too quickly! 9.545089337786976,-1.7499999999999005,2.657683611732864
 [07Mar2025 05:34:10.280] [Worker-Main-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting xiroc/dungeoncrawl/dungeon/Tile$Flag
+[07Mar2025 05:34:43.764] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 4milcar moved too quickly! 4.545491340075387,-3.252203340253729,8.550959298275757
+[07Mar2025 05:34:44.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> ve la granja que te pase
+[07Mar2025 05:34:44.704] [pool-8-thread-3/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains]] from pos BlockPos{x=3771, y=74, z=3061}
+[07Mar2025 05:34:44.764] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=3772, y=74, z=3061} but found not block entity block Block{minecraft:spruce_fence}[east=false,north=false,south=false,waterlogged=false,west=false] at location
+[07Mar2025 05:34:44.764] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=false,north=false,south=false,waterlogged=false,west=false] but failed at location BlockPos{x=3772, y=74, z=3061}
+[07Mar2025 05:34:44.765] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=3772, y=73, z=3061} but found not block entity block Block{minecraft:lantern}[hanging=true,waterlogged=false] at location
+[07Mar2025 05:34:44.765] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:lantern}[hanging=true,waterlogged=false] but failed at location BlockPos{x=3772, y=73, z=3061}
+[07Mar2025 05:34:44.765] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=3770, y=74, z=3061} but found not block entity block Block{minecraft:spruce_fence}[east=false,north=false,south=false,waterlogged=false,west=false] at location
+[07Mar2025 05:34:44.765] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=false,north=false,south=false,waterlogged=false,west=false] but failed at location BlockPos{x=3770, y=74, z=3061}
+[07Mar2025 05:34:44.765] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=3770, y=73, z=3061} but found not block entity block Block{minecraft:lantern}[hanging=true,waterlogged=false] at location
+[07Mar2025 05:34:44.765] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:lantern}[hanging=true,waterlogged=false] but failed at location BlockPos{x=3770, y=73, z=3061}
+[07Mar2025 05:34:45.211] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=3771, y=74, z=3061} but found not block entity block Block{minecraft:spruce_fence}[east=true,north=false,south=false,waterlogged=false,west=true] at location
+[07Mar2025 05:34:45.211] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=true,north=false,south=false,waterlogged=false,west=true] but failed at location BlockPos{x=3771, y=74, z=3061}
+[07Mar2025 05:34:55.160] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 4milcar moved too quickly! 7.717039918612045,-2.580000013113022,6.2449621452547035
+[07Mar2025 05:35:22.416] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 4milcar moved too quickly! 8.829114425074295,2.003016261509046,4.512821652687762
+[07Mar2025 05:35:37.016] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 4milcar moved too quickly! 6.621535739713636,-0.49520087700591375,7.628632487446794
+[07Mar2025 05:35:49.967] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 4milcar moved too quickly! 0.0895197269937853,0.9755759117863079,10.116402317735265
+[07Mar2025 05:35:50.663] [Worker-Main-9/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/Panda$Gene
+[07Mar2025 05:36:06.705] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 4milcar moved too quickly! 9.883789254135081,1.0,-2.5814718945739514
+[07Mar2025 05:36:29.438] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 4milcar moved too quickly! 9.349331605877524,3.823240724935758,-0.8327048795458722
+[07Mar2025 05:36:51.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> sigues ahi perrita?
+[07Mar2025 05:37:23.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> encontre la zona
+[07Mar2025 05:37:30.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> mi cabezona?
+[07Mar2025 05:37:47.658] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/core/WaystoneEditPermissions
+[07Mar2025 05:37:57.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> pero en serio
+[07Mar2025 05:37:58.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> ven a ver
+[07Mar2025 05:37:59.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> que zona?
+[07Mar2025 05:38:03.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> futura cas
+[07Mar2025 05:38:20.114] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting fr/rakambda/fallingtree/common/tree/TreePartType
+[07Mar2025 05:38:27.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SirDragon3d: Teleported SirDragon3d to 4milcar]
+[07Mar2025 05:38:36.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> ok
+[07Mar2025 05:38:36.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> me agarraste viendo a los macacos
+[07Mar2025 05:38:40.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> mira esa montañota
+[07Mar2025 05:38:50.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> esta perfecta
+[07Mar2025 05:39:11.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> chola?
+[07Mar2025 05:39:22.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> eh?
+[07Mar2025 05:39:23.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> te deje maravillado
+[07Mar2025 05:39:25.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> lo se
+[07Mar2025 05:39:31.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [4milcar: Set own game mode to Spectator Mode]
+[07Mar2025 05:39:42.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> ve el tuto que te pase
+[07Mar2025 05:39:48.714] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 4milcar moved too quickly! 0.614713765975921,-10.312506880841298,0.7939130029271837
+[07Mar2025 05:39:50.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> pa ver si te convence
+[07Mar2025 05:39:54.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [4milcar: Set own game mode to Survival Mode]
+[07Mar2025 05:39:59.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> si
+[07Mar2025 05:40:01.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> ta chida
+[07Mar2025 05:40:10.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> apruevo
+[07Mar2025 05:40:12.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> bo
+[07Mar2025 05:40:17.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> aprovar
+[07Mar2025 05:40:23.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> debe ser con v
+[07Mar2025 05:40:42.456] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 4milcar moved too quickly! 1.764302047010915,-10.588667243050011,-2.3237547041858306
+[07Mar2025 05:41:08.409] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 4milcar lost connection: Timed out
+[07Mar2025 05:41:08.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4milcar left the game
+[07Mar2025 05:42:17.220] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 4milcar[/127.120.225.174:55115] logged in with entity id 27794 at (4045.437966209959, 78.41564586078748, 3058.8720283769812)
+[07Mar2025 05:42:17.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4milcar joined the game
+[07Mar2025 05:42:17.253] [Server thread/INFO] [Jade/]: Syncing config to 4milcar (38119765-827e-349e-83c9-41c05eb4dc76)
+[07Mar2025 05:42:25.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> hay un waystone aqui
+[07Mar2025 05:42:59.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [4milcar: Teleported 4milcar to SirDragon3d]
+[07Mar2025 05:44:19.164] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 4milcar moved too quickly! -9.6675231374943,-1.0,-2.730490304439627
