@@ -1936,3 +1936,75 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [07Mar2025 05:13:06.815] [Netty Epoll Server IO #2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting cpw/mods/inventorysorter/SortingHandler
 [07Mar2025 05:13:06.817] [Netty Epoll Server IO #2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting cpw/mods/inventorysorter/ScrollWheelHandler
 [07Mar2025 05:13:06.820] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting cpw/mods/inventorysorter/InventoryHandler
+[07Mar2025 05:13:59.939] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/settings/main/Context
+[07Mar2025 05:14:43.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> en que mar hago la granja'
+[07Mar2025 05:15:29.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> en el que tiene agua
+[07Mar2025 05:15:36.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> zzzzzzzz
+[07Mar2025 05:16:06.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> cual granja vas a hacer?
+[07Mar2025 05:16:14.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> la que tu me digas
+[07Mar2025 05:16:21.512] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 4milcar moved too quickly! 7.453415192527018,1.0,-6.957311956257627
+[07Mar2025 05:16:32.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> a mi me vale vrga
+[07Mar2025 05:16:36.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> la q tu quieras
+[07Mar2025 05:16:39.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> lagazo
+[07Mar2025 05:16:45.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> dlaayy
+[07Mar2025 05:17:03.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> swit drims ar meid of dis
+[07Mar2025 05:17:06.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> a mi tambien me da igual
+[07Mar2025 05:17:11.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> ju am ai tu disagri
+[07Mar2025 05:17:11.906] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 4milcar lost connection: Disconnected
+[07Mar2025 05:17:11.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4milcar left the game
+[07Mar2025 05:17:11.979] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[07Mar2025 05:18:06.296] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 4milcar[/127.120.225.174:48167] logged in with entity id 10653 at (-1857.6965257390088, 76.7531999805212, 879.5871439740359)
+[07Mar2025 05:18:06.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4milcar joined the game
+[07Mar2025 05:18:06.340] [Server thread/INFO] [Jade/]: Syncing config to 4milcar (38119765-827e-349e-83c9-41c05eb4dc76)
+[07Mar2025 05:18:22.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> :v
+[07Mar2025 05:18:36.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> haz la granja q t guste mas
+[07Mar2025 05:18:39.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> me vale vrga
+[07Mar2025 05:18:50.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> decide tu cabron
+[07Mar2025 05:19:00.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> usaste la waystone q t dia yer?
+[07Mar2025 05:19:06.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> nel
+[07Mar2025 05:19:12.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> te dije que elijas tu perrita
+[07Mar2025 05:19:21.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> tu la vas a hacer despues de todo XD
+[07Mar2025 05:19:26.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> pasamela
+[07Mar2025 05:19:28.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [4milcar: Teleported 4milcar to SirDragon3d]
+[07Mar2025 05:19:30.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> entonces no se hagamos la granja de mobs clasica
+[07Mar2025 05:19:46.607] [Server thread/WARN] [tombstone/]: The death event of the player 4milcar was canceled by another mod
+[07Mar2025 05:19:46.620] [Server thread/INFO] [tombstone/]: The player 4milcar has successfully been saved
+[07Mar2025 05:19:53.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> abusadol
+[07Mar2025 05:19:58.603] [Server thread/WARN] [tombstone/]: The death event of the player 4milcar was canceled by another mod
+[07Mar2025 05:19:58.621] [Server thread/INFO] [tombstone/]: The player 4milcar has successfully been saved
+[07Mar2025 05:20:09.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> pasa comida XDDD
+[07Mar2025 05:20:21.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> hay chuletas en la cas
+[07Mar2025 05:20:25.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> tengo pan
+[07Mar2025 05:20:50.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SirDragon3d: Gave 1 [Egg] to SirDragon3d]
+[07Mar2025 05:20:52.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> si hay una montaña epica x aca
+[07Mar2025 05:20:55.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> tamare
+[07Mar2025 05:20:57.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> hago la casa aqui
+[07Mar2025 05:21:00.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> ?
+[07Mar2025 05:21:01.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> se me lanzo el huevo XD
+[07Mar2025 05:21:08.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> q huevo XD?
+[07Mar2025 05:21:10.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> es que por aqui estan las nagas
+[07Mar2025 05:21:19.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> me givee un huevo para domesticar a un mapache
+[07Mar2025 05:21:22.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> pero se lanzo XD
+[07Mar2025 05:21:24.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> que zorra
+[07Mar2025 05:21:32.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> pense que tenia que darselo asi
+[07Mar2025 05:21:39.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> que pendejo XDDD
+[07Mar2025 05:21:47.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> es dropearlo con la q
+[07Mar2025 05:21:48.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> por aqui estan las nagas
+[07Mar2025 05:21:50.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> cerca de agua
+[07Mar2025 05:21:54.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> lo se ahora
+[07Mar2025 05:22:02.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> pero tienes q tener agua cerca
+[07Mar2025 05:22:08.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> si no no lo domesticas
+[07Mar2025 05:22:22.700] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/violetmoon/quark/content/world/gen/FallenLogGenerator$Decor
+[07Mar2025 05:22:27.110] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/warden/AngerLevel
+[07Mar2025 05:22:33.713] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 4milcar moved too quickly! -9.692869770960442,2.176759275064242,-2.267961268759109
+[07Mar2025 05:23:00.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [4milcar: Set own game mode to Spectator Mode]
+[07Mar2025 05:23:09.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SirDragon3d: Set own game mode to Creative Mode]
+[07Mar2025 05:23:11.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SirDragon3d: Set own game mode to Spectator Mode]
+[07Mar2025 05:23:18.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SirDragon3d: Set own game mode to Survival Mode]
+[07Mar2025 05:23:29.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> tamare
+[07Mar2025 05:23:32.753] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/AbstractIllager$IllagerArmPose
+[07Mar2025 05:23:36.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> una montaña bn bonita
+[07Mar2025 05:23:41.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> pero se conecta con dungeon
+[07Mar2025 05:23:43.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> pipipi
+[07Mar2025 05:23:51.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> i modo
+[07Mar2025 05:23:53.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [4milcar: Set own game mode to Survival Mode]
