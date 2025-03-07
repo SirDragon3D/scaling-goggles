@@ -1894,3 +1894,45 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [07Mar2025 05:02:38.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> no puedo hace rla granaj solo cabron XD
 [07Mar2025 05:02:45.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> haz la pequeña
 [07Mar2025 05:02:49.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> luego nos robamos alguna casa del adorabuilds
+[07Mar2025 05:03:03.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> no joda esas cosas son enanas XD
+[07Mar2025 05:03:36.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> no necesitamos gatos para el diseño pequeño?
+[07Mar2025 05:03:54.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> en los pueblos hay
+[07Mar2025 05:04:04.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> ok
+[07Mar2025 05:04:09.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> pasame le tuto
+[07Mar2025 05:04:09.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> los q tenemos con waystone
+[07Mar2025 05:04:13.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> y los materiales
+[07Mar2025 05:05:02.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> tienes papel?
+[07Mar2025 05:05:11.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> nel
+[07Mar2025 05:05:17.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> y caña?
+[07Mar2025 05:05:27.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> creo que hay un mod para crecerla con polvo
+[07Mar2025 05:05:38.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> nel
+[07Mar2025 05:05:49.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> nel de no tengo
+[07Mar2025 05:05:50.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> ire a buscar entonces
+[07Mar2025 05:05:59.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> ok
+[07Mar2025 05:06:13.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> quieres vivir en mesa?
+[07Mar2025 05:06:21.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> me da igual
+[07Mar2025 05:06:24.889] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class com/bobmowzie/mowziesmobs/client/sound/BossMusic for invalid dist DEDICATED_SERVER
+[07Mar2025 05:06:24.889] [Server thread/WARN] [Radium Class Analysis/]: Radium Class Analysis Error: Class com.bobmowzie.mowziesmobs.server.entity.wroughtnaut.EntityWroughtnaut cannot be analysed, because getting declared methods crashes with RuntimeException: Attempted to load class com/bobmowzie/mowziesmobs/client/sound/BossMusic for invalid dist DEDICATED_SERVER. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @OnlyIn(Dist.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[07Mar2025 05:06:29.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> estare mas tiempo en la aldea
+[07Mar2025 05:06:32.819] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting fr/rakambda/fallingtree/common/tree/AbortedResult
+[07Mar2025 05:06:41.460] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/PathFindingStatus
+[07Mar2025 05:06:41.460] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/AbstractAdvancedPathNavigate$RestrictionType
+[07Mar2025 05:06:41.464] [Citadel Pathfinding Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/SurfaceType
+[07Mar2025 05:06:54.061] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ilexiconn/llibrary/server/animation/AnimationHandler
+[07Mar2025 05:06:58.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> tamare voy con lag
+[07Mar2025 05:07:04.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> toma tu mochila
+[07Mar2025 05:07:07.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [4milcar: Teleported 4milcar to SirDragon3d]
+[07Mar2025 05:08:32.104] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 4milcar moved too quickly! -0.9774408619600763,0.0,-9.990230093757987
+[07Mar2025 05:08:45.170] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 4milcar moved too quickly! 9.95508650201873,0.49520087700592086,-2.1633056676000706
+[07Mar2025 05:08:56.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> ve a biomas mas calidos a buscar XD
+[07Mar2025 05:09:11.369] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 4milcar moved too quickly! 9.268615398020302,0.5292232112077713,-4.40305516090757
+[07Mar2025 05:10:06.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> vy super lag
+[07Mar2025 05:10:18.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> lo noto
+[07Mar2025 05:10:22.314] [pool-8-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy]] from pos BlockPos{x=-2347, y=98, z=747}
+[07Mar2025 05:10:22.319] [pool-8-thread-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
+[07Mar2025 05:11:51.989] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/util/TerrapinTypes
+[07Mar2025 05:12:44.782] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/player/AdvancementEvent$AdvancementProgressEvent$ProgressType
+[07Mar2025 05:13:06.814] [Netty Epoll Server IO #2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting cpw/mods/inventorysorter/Action
+[07Mar2025 05:13:06.815] [Netty Epoll Server IO #2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting cpw/mods/inventorysorter/SortingHandler
+[07Mar2025 05:13:06.817] [Netty Epoll Server IO #2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting cpw/mods/inventorysorter/ScrollWheelHandler
+[07Mar2025 05:13:06.820] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting cpw/mods/inventorysorter/InventoryHandler
