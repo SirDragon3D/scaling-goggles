@@ -2153,3 +2153,41 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [07Mar2025 05:54:39.283] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 4milcar[/127.120.225.174:57009] logged in with entity id 34951 at (4076.4284885850575, 81.0, 3046.802528440086)
 [07Mar2025 05:54:39.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4milcar joined the game
 [07Mar2025 05:54:39.349] [Server thread/INFO] [Jade/]: Syncing config to 4milcar (38119765-827e-349e-83c9-41c05eb4dc76)
+[07Mar2025 05:55:24.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> de verdad me das mucha lastima
+[07Mar2025 05:55:37.403] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 4milcar lost connection: Timed out
+[07Mar2025 05:55:37.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4milcar left the game
+[07Mar2025 05:56:21.392] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 4milcar[/127.120.225.174:46481] logged in with entity id 35845 at (4076.4284885850575, 81.0, 3046.802528440086)
+[07Mar2025 05:56:21.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4milcar joined the game
+[07Mar2025 05:56:21.446] [Server thread/INFO] [Jade/]: Syncing config to 4milcar (38119765-827e-349e-83c9-41c05eb4dc76)
+[07Mar2025 05:57:44.959] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fluids/capability/IFluidHandler$FluidAction
+[07Mar2025 05:57:56.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SirDragon3d: Set own game mode to Creative Mode]
+[07Mar2025 05:57:56.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> seguro me estas tirando un ataque ddos por no hacer la grnja contigo
+[07Mar2025 05:58:00.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SirDragon3d: Set own game mode to Survival Mode]
+[07Mar2025 05:58:02.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> te descubri mano
+[07Mar2025 05:58:09.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> eres una perrizorra
+[07Mar2025 05:58:27.459] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 4milcar moved too quickly! -7.006942765897293,-4.231523797587016,-5.776543593105089
+[07Mar2025 05:59:23.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> prestame tu pico fortuna 4
+[07Mar2025 05:59:37.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [4milcar: Teleported SirDragon3d to 4milcar]
+[07Mar2025 05:59:42.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> tamare
+[07Mar2025 05:59:46.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> era al revez XD
+[07Mar2025 05:59:52.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> por algo te di el pico de toque de seda
+[07Mar2025 06:00:00.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> q me lo prestes zorra
+[07Mar2025 06:00:02.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SirDragon3d: Set own game mode to Spectator Mode]
+[07Mar2025 06:00:06.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SirDragon3d: Set own game mode to Survival Mode]
+[07Mar2025 06:00:15.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [4milcar: Teleported 4milcar to SirDragon3d]
+[07Mar2025 06:00:36.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SirDragon3d: Disabled friendly fire for team [Dragons]]
+[07Mar2025 06:00:47.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> te lo doy ahora
+[07Mar2025 06:01:14.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> es que lo necesito para el efi 6
+[07Mar2025 06:01:28.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> prestalo rapido we
+[07Mar2025 06:01:36.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> ok pero dame un pico efi IV
+[07Mar2025 06:01:38.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> woa agarrar carbon pa antorchas
+[07Mar2025 06:01:40.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> minimo
+[07Mar2025 06:02:02.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [4milcar: Set own game mode to Spectator Mode]
+[07Mar2025 06:02:04.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> abremelas ahi
+[07Mar2025 06:02:07.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> cabron
+[07Mar2025 06:02:43.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [4milcar: Set own game mode to Survival Mode]
+[07Mar2025 06:03:54.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> voy a necesitar un chingo de madera
+[07Mar2025 06:04:22.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> si quieres ven a talar aqui hay buenos arboles
+[07Mar2025 06:04:51.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> el treecapitator no detecta los arboles si no tienen hojas XD
+[07Mar2025 06:04:58.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SirDragon3d: Teleported SirDragon3d to 4milcar]
+[07Mar2025 06:05:02.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> alv el efi 6
