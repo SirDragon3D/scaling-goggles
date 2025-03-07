@@ -2191,3 +2191,24 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [07Mar2025 06:04:51.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> el treecapitator no detecta los arboles si no tienen hojas XD
 [07Mar2025 06:04:58.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SirDragon3d: Teleported SirDragon3d to 4milcar]
 [07Mar2025 06:05:02.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> alv el efi 6
+[07Mar2025 06:05:20.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> esta monda parece efi 10
+[07Mar2025 06:05:31.841] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ht/treechop/common/util/FaceShape
+[07Mar2025 06:06:05.257] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 4milcar lost connection: Timed out
+[07Mar2025 06:06:05.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4milcar left the game
+[07Mar2025 06:09:17.872] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 4milcar[/127.120.225.174:55735] logged in with entity id 43258 at (4080.300000011921, 72.0, 3050.8369688591106)
+[07Mar2025 06:09:17.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4milcar joined the game
+[07Mar2025 06:09:17.904] [Server thread/INFO] [Jade/]: Syncing config to 4milcar (38119765-827e-349e-83c9-41c05eb4dc76)
+[07Mar2025 06:10:12.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> nah, no creo poder jugar hoy x + q quiera xd
+[07Mar2025 06:10:19.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> te doy tu pico
+[07Mar2025 06:10:24.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [4milcar: Teleported 4milcar to SirDragon3d]
+[07Mar2025 06:11:20.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> mesa de crafteo
+[07Mar2025 06:11:29.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> no vaya a ser q lo tirara al mar XD
+[07Mar2025 06:11:30.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> vamos a necessitar 14 stacks de trampillas
+[07Mar2025 06:11:34.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> puto lag
+[07Mar2025 06:11:42.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> el diavlo
+[07Mar2025 06:11:47.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> ponlo en mi mochila
+[07Mar2025 06:13:11.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> en tu mochila t puse el pico
+[07Mar2025 06:13:23.543] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 0 in "curios" inventory handler
+[07Mar2025 06:13:39.250] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 4milcar lost connection: Disconnected
+[07Mar2025 06:13:39.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4milcar left the game
+[07Mar2025 06:13:39.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> sabias que tengo feather falling VI?
