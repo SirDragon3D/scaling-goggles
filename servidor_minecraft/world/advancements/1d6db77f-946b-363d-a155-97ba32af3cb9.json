@@ -346,6 +346,7 @@
       "maple_woods": "2025-01-27 19:19:09 +0000",
       "crystalline_chasm": "2025-01-28 11:26:24 +0000",
       "orchard": "2025-01-28 09:53:32 +0000",
+      "field": "2025-03-07 05:26:30 +0000",
       "lavender_forest": "2025-03-06 06:50:08 +0000",
       "mediterranean_forest": "2025-01-28 10:48:25 +0000",
       "coniferous_forest": "2025-01-27 16:34:34 +0000",
@@ -435,6 +436,7 @@
       "minecraft:grove": "2025-01-27 16:21:30 +0000",
       "minecraft:cold_ocean": "2025-01-27 17:21:04 +0000",
       "minecraft:forest": "2025-01-27 07:31:44 +0000",
+      "minecraft:deep_cold_ocean": "2025-03-07 05:27:54 +0000",
       "minecraft:ice_spikes": "2025-02-04 18:54:16 +0000",
       "minecraft:frozen_ocean": "2025-01-27 06:19:56 +0000",
       "minecraft:deep_frozen_ocean": "2025-01-27 06:21:20 +0000",
@@ -1872,6 +1874,12 @@
   "alexsmobs:alexsmobs/murmur": {
     "criteria": {
       "killed_by": "2025-03-06 08:50:02 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2025-03-07 05:26:36 +0000"
     },
     "done": true
   },

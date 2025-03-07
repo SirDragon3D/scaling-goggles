@@ -2008,3 +2008,80 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [07Mar2025 05:23:43.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> pipipi
 [07Mar2025 05:23:51.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> i modo
 [07Mar2025 05:23:53.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [4milcar: Set own game mode to Survival Mode]
+[07Mar2025 05:23:57.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> encontre base illager
+[07Mar2025 05:24:05.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> vanilla
+[07Mar2025 05:24:08.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> o mod
+[07Mar2025 05:24:13.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> mod
+[07Mar2025 05:24:16.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> pa food
+[07Mar2025 05:24:23.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> granjiña de raids?
+[07Mar2025 05:24:31.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> dije pa comida puta
+[07Mar2025 05:24:40.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> no
+[07Mar2025 05:24:46.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> ahora sera para farmear raids
+[07Mar2025 05:24:47.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> zorra
+[07Mar2025 05:24:57.509] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 4milcar moved too quickly! 1.4739050433358898,3.419999986886978,-9.700777008517207
+[07Mar2025 05:25:11.834] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 4milcar moved too quickly! 3.96762234982657,0.023088109101550458,-9.30897722821419
+[07Mar2025 05:25:24.636] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 4milcar moved too quickly! 6.8643588892782645,0.243240711822736,-7.4715473578289675
+[07Mar2025 05:25:49.415] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 4milcar moved too quickly! 0.126624954005365,0.623264386218267,-10.23802783937208
+[07Mar2025 05:26:01.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> [name:"Comida maldita puta", x:-1417, y:65, z:1108, dim:minecraft:overworld]
+[07Mar2025 05:26:06.031] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 4milcar moved too quickly! -0.6503859873043893,-11.011337373112042,-1.869565714234568
+[07Mar2025 05:26:17.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [4milcar: Teleported 4milcar to SirDragon3d]
+[07Mar2025 05:26:20.015] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 4milcar moved too quickly! 0.0,-10.61202295686212,0.0
+[07Mar2025 05:26:27.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> te moriste?
+[07Mar2025 05:26:30.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> casi
+[07Mar2025 05:26:30.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> XDDD
+[07Mar2025 05:26:36.209] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 4milcar moved too quickly! 0.5539143856233295,-12.15397152337259,0.011986665229414939
+[07Mar2025 05:26:39.472] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 4milcar moved too quickly! 1.220686316353067,-10.811596629254794,0.08519839888413117
+[07Mar2025 05:26:55.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [4milcar: Teleported 4milcar to SirDragon3d]
+[07Mar2025 05:28:01.019] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/lionfishapi/server/animation/AnimationHandler
+[07Mar2025 05:28:33.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [4milcar: Teleported 4milcar to SirDragon3d]
+[07Mar2025 05:29:17.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SirDragon3d: Teleported 4milcar to SirDragon3d]
+[07Mar2025 05:29:20.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [4milcar: Set own game mode to Spectator Mode]
+[07Mar2025 05:29:53.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [4milcar: Set own game mode to Survival Mode]
+[07Mar2025 05:30:09.411] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 4milcar moved too quickly! 1.6248254358993108,-9.127242061530353,5.445945945904441
+[07Mar2025 05:30:17.266] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 4milcar moved too quickly! 6.339035393426457,-1.7999999999998977,7.561399017311487
+[07Mar2025 05:30:26.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [4milcar: Set the time to 1000]
+[07Mar2025 05:30:41.752] [Worker-Main-9/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_main_room_pool
+[07Mar2025 05:30:41.753] [Worker-Main-9/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_additions_3_pool
+[07Mar2025 05:30:41.753] [Worker-Main-9/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_additions_2_pool
+[07Mar2025 05:30:41.753] [Worker-Main-9/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_additions_1_pool
+[07Mar2025 05:30:46.905] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 4milcar moved too quickly! 0.4289510262360636,-8.59260459763506,5.995575712440768
+[07Mar2025 05:31:00.034] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 4milcar moved too quickly! -2.9910933087003286,-1.0724278036804407,9.568972268701145
+[07Mar2025 05:31:13.872] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 4milcar moved too quickly! 1.6296661592132295,-0.49520087700592796,10.01156262686709
+[07Mar2025 05:31:31.470] [pool-8-thread-2/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga]] from pos BlockPos{x=3435, y=83, z=2741}
+[07Mar2025 05:31:31.513] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=3434, y=83, z=2741} but found not block entity block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] at location
+[07Mar2025 05:31:31.513] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] but failed at location BlockPos{x=3434, y=83, z=2741}
+[07Mar2025 05:31:31.514] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=3434, y=82, z=2741} but found not block entity block Block{minecraft:lantern}[hanging=true,waterlogged=false] at location
+[07Mar2025 05:31:31.514] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:lantern}[hanging=true,waterlogged=false] but failed at location BlockPos{x=3434, y=82, z=2741}
+[07Mar2025 05:31:32.032] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=3435, y=83, z=2741} but found not block entity block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] at location
+[07Mar2025 05:31:32.033] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] but failed at location BlockPos{x=3435, y=83, z=2741}
+[07Mar2025 05:31:37.814] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 4milcar moved too quickly! -2.4212501682345646,-0.37673561378173304,9.816421868690668
+[07Mar2025 05:31:48.458] [Worker-Main-14/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_2_pool
+[07Mar2025 05:31:48.459] [Worker-Main-14/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
+[07Mar2025 05:31:48.459] [Worker-Main-14/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_1_pool
+[07Mar2025 05:31:48.460] [Worker-Main-14/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_4_pool
+[07Mar2025 05:31:48.461] [Worker-Main-14/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[07Mar2025 05:31:48.461] [Worker-Main-14/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
+[07Mar2025 05:31:48.463] [Worker-Main-14/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
+[07Mar2025 05:31:48.464] [Worker-Main-14/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:angler_additions_3_pool
+[07Mar2025 05:31:48.465] [Worker-Main-14/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[07Mar2025 05:31:48.465] [Worker-Main-14/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[07Mar2025 05:31:48.466] [Worker-Main-14/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[07Mar2025 05:31:50.406] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 4milcar moved too quickly! 1.007164000062403,1.2491870787446828,10.223269595366219
+[07Mar2025 05:32:03.609] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 4milcar moved too quickly! 1.270650593956816,2.249187078744683,9.828597628024454
+[07Mar2025 05:32:21.416] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 4milcar moved too quickly! -4.063149654590688,-2.249187078744683,8.91622880756222
+[07Mar2025 05:32:31.664] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 4milcar moved too quickly! 9.41259381830696,3.176759275064242,2.0275746907159373
+[07Mar2025 05:32:33.075] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[07Mar2025 05:32:33.077] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[07Mar2025 05:32:33.078] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[07Mar2025 05:32:33.078] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[07Mar2025 05:32:33.079] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[07Mar2025 05:32:33.080] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[07Mar2025 05:32:33.083] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[07Mar2025 05:32:33.091] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[07Mar2025 05:32:33.091] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[07Mar2025 05:32:44.035] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 4milcar moved too quickly! 10.06956155589296,1.2491870787446828,0.3619268097904751
+[07Mar2025 05:32:57.661] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 4milcar moved too quickly! -3.9074043084278856,2.9769118908984495,8.837183101391929
+[07Mar2025 05:33:35.905] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 4milcar moved too quickly! 5.991622237716456,-0.6669405440210738,8.061633501679808
+[07Mar2025 05:33:48.909] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 4milcar moved too quickly! 9.646595123387215,-2.9499999999998323,-0.06529936185825136
+[07Mar2025 05:34:02.032] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 4milcar moved too quickly! 9.545089337786976,-1.7499999999999005,2.657683611732864
+[07Mar2025 05:34:10.280] [Worker-Main-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting xiroc/dungeoncrawl/dungeon/Tile$Flag

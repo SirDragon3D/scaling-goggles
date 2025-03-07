@@ -404,6 +404,7 @@
       "minecraft:grove": "2025-01-27 07:33:53 +0000",
       "minecraft:cold_ocean": "2025-01-27 17:21:15 +0000",
       "minecraft:forest": "2025-01-27 16:25:31 +0000",
+      "minecraft:deep_cold_ocean": "2025-03-07 05:28:34 +0000",
       "minecraft:ice_spikes": "2025-02-04 18:54:21 +0000",
       "minecraft:frozen_ocean": "2025-01-27 07:16:32 +0000",
       "minecraft:desert": "2025-03-06 08:16:49 +0000",
@@ -1897,6 +1898,12 @@
   "alexsmobs:alexsmobs/kangaroo": {
     "criteria": {
       "killed_by": "2025-03-06 08:21:11 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2025-03-07 05:26:55 +0000"
     },
     "done": true
   },
