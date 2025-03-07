@@ -2143,3 +2143,13 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [07Mar2025 05:42:25.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> hay un waystone aqui
 [07Mar2025 05:42:59.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [4milcar: Teleported 4milcar to SirDragon3d]
 [07Mar2025 05:44:19.164] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 4milcar moved too quickly! -9.6675231374943,-1.0,-2.730490304439627
+[07Mar2025 05:44:43.217] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 4milcar moved too quickly! 2.197339356852808,0.14168517272452164,9.80626155168693
+[07Mar2025 05:45:15.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [4milcar: Set the time to 1000]
+[07Mar2025 05:47:17.570] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 4milcar moved too quickly! 4.153099939841468,-1.127890238205481,-9.055244944026526
+[07Mar2025 05:48:43.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4milcar> tienes tierra en la mochila verde?
+[07Mar2025 05:48:50.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirDragon3d> nop
+[07Mar2025 05:53:16.254] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 4milcar lost connection: Timed out
+[07Mar2025 05:53:16.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4milcar left the game
+[07Mar2025 05:54:39.283] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 4milcar[/127.120.225.174:57009] logged in with entity id 34951 at (4076.4284885850575, 81.0, 3046.802528440086)
+[07Mar2025 05:54:39.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4milcar joined the game
+[07Mar2025 05:54:39.349] [Server thread/INFO] [Jade/]: Syncing config to 4milcar (38119765-827e-349e-83c9-41c05eb4dc76)
