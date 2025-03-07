@@ -339,6 +339,7 @@
       "scrubland": "2025-01-28 10:53:47 +0000",
       "bayou": "2025-01-28 10:47:32 +0000",
       "erupting_inferno": "2025-01-28 11:15:35 +0000",
+      "lush_savanna": "2025-03-06 07:43:16 +0000",
       "highland": "2025-03-06 06:42:10 +0000",
       "jade_cliffs": "2025-02-03 17:32:44 +0000",
       "old_growth_woodland": "2025-01-28 11:12:50 +0000",
@@ -349,6 +350,9 @@
       "mediterranean_forest": "2025-01-28 10:48:25 +0000",
       "coniferous_forest": "2025-01-27 16:34:34 +0000",
       "forested_field": "2025-01-27 05:44:44 +0000",
+      "spider_nest": "2025-03-06 08:29:23 +0000",
+      "dryland": "2025-03-06 07:30:47 +0000",
+      "lush_desert": "2025-03-06 07:38:30 +0000",
       "redwood_forest": "2025-03-06 06:41:49 +0000",
       "dead_forest": "2025-01-27 07:22:21 +0000",
       "volcano": "2025-03-06 06:45:20 +0000",
@@ -413,10 +417,14 @@
       "minecraft:snowy_slopes": "2025-01-27 17:32:48 +0000",
       "minecraft:old_growth_pine_taiga": "2025-01-27 05:45:39 +0000",
       "minecraft:taiga": "2025-01-27 05:52:26 +0000",
+      "minecraft:eroded_badlands": "2025-03-06 07:28:04 +0000",
       "minecraft:frozen_river": "2025-01-27 07:22:06 +0000",
       "minecraft:cherry_grove": "2025-01-27 19:34:57 +0000",
       "minecraft:sunflower_plains": "2025-02-03 14:49:51 +0000",
       "minecraft:birch_forest": "2025-03-06 06:48:23 +0000",
+      "minecraft:wooded_badlands": "2025-03-06 07:43:21 +0000",
+      "minecraft:badlands": "2025-03-06 07:33:48 +0000",
+      "minecraft:savanna_plateau": "2025-03-06 07:15:00 +0000",
       "minecraft:beach": "2025-01-28 10:53:23 +0000",
       "minecraft:mangrove_swamp": "2025-02-03 17:45:51 +0000",
       "minecraft:river": "2025-01-27 16:58:56 +0000",
@@ -434,6 +442,7 @@
       "minecraft:snowy_beach": "2025-01-27 07:22:02 +0000",
       "minecraft:windswept_savanna": "2025-02-03 17:45:47 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-01-28 10:46:46 +0000",
+      "minecraft:flower_forest": "2025-03-06 06:56:23 +0000",
       "minecraft:frozen_peaks": "2025-02-03 14:15:07 +0000",
       "minecraft:deep_dark": "2025-01-27 16:46:35 +0000",
       "minecraft:meadow": "2025-01-27 17:33:02 +0000",
@@ -503,6 +512,7 @@
       "minecraft:creeper": "2025-01-27 05:59:57 +0000",
       "minecraft:wither": "2025-02-23 11:36:15 +0000",
       "minecraft:evoker": "2025-02-04 18:57:22 +0000",
+      "minecraft:slime": "2025-03-06 07:20:54 +0000",
       "minecraft:phantom": "2025-01-28 09:55:01 +0000",
       "minecraft:witch": "2025-01-28 11:13:44 +0000",
       "minecraft:wither_skeleton": "2025-01-27 17:58:56 +0000",
@@ -1583,6 +1593,7 @@
       "acacia_house_medium_1": "2025-02-03 18:02:45 +0000",
       "prison_large_1": "2025-02-04 18:55:39 +0000",
       "oak_house_small_1": "2025-02-03 17:49:57 +0000",
+      "red_sand_house_medium_1": "2025-03-06 07:37:08 +0000",
       "frozen_hut_1": "2025-02-04 18:49:36 +0000"
     },
     "done": false
@@ -1818,6 +1829,48 @@
   "quark:overlevel_enchant": {
     "criteria": {
       "overlevel_enchant": "2025-03-06 06:22:35 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_heavenly_challenger": {
+    "criteria": {
+      "location0": "2025-03-06 07:15:00 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/dark_oak_planks": {
+    "criteria": {
+      "has_planks": "2025-03-06 07:24:36 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/emu": {
+    "criteria": {
+      "killed_by": "2025-03-06 07:42:15 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/emu_dodge": {
+    "criteria": {
+      "ex": "2025-03-06 07:42:19 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/amethyst_block_slab": {
+    "criteria": {
+      "has_amethyst_block": "2025-03-06 08:38:31 +0000"
+    },
+    "done": true
+  },
+  "quark:mine_toretoise": {
+    "criteria": {
+      "mine_toretoise": "2025-03-06 08:41:21 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/murmur": {
+    "criteria": {
+      "killed_by": "2025-03-06 08:50:02 +0000"
     },
     "done": true
   },
